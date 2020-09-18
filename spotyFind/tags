@@ -1,0 +1,21 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+artistas_id	main.py	/^artistas_id = set()$/;"	v
+artistas_info	main.py	/^artistas_info = []$/;"	v
+buscando_problemas	main.py	/^def buscando_problemas(count:int,artist:dict):$/;"	f
+conexiones	main.py	/^conexiones = []$/;"	v
+get_artista	q_fun.py	/^def get_artista(varid,token):$/;"	f
+get_relacionados	q_fun.py	/^def get_relacionados(varid,token):$/;"	f
+get_token	q_fun.py	/^def get_token():$/;"	f
+get_varid	q_fun.py	/^def get_varid():$/;"	f
+main	main.py	/^def main():$/;"	f
+mandalo_para_el_json	archivos.py	/^def mandalo_para_el_json(c:int,id_:set,inf_:list,con_:list,v:str):$/;"	f
+nuevo_token	q_fun.py	/^def nuevo_token(nt:str):$/;"	f
+nuevo_varid	q_fun.py	/^def nuevo_varid(nv:str):$/;"	f
+relacionar	archivos.py	/^def relacionar(desde:str,hasta:str):$/;"	f
+token	main.py	/^token =  get_token()$/;"	v
+varid1	main.py	/^varid1 = get_varid()$/;"	v
