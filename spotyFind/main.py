@@ -5,7 +5,7 @@ from q_fun import *
 from archivos import *
 
 
-nuevo_varid("1r4hJ1h58CWwUQe3MxPuau")
+nuevo_varid("4HYB35YLMCRIzQobpWs5yv")
 
 # elementos escenciales | 18.09.2020 | jpi
 varid1 = get_varid()
@@ -18,6 +18,13 @@ artistas_info = []
 # lista de relaciones entre artistas | 18.09.2020 | jpi
 conexiones = []
 
+data = {
+    'nodes':[],
+    'links':[]
+}
+
+main_counter = 0
+
 
 # Recursive artist funtion | 18.09.2020 | jpi
 def buscando_problemas(count:int,artist:dict):
@@ -26,6 +33,10 @@ def buscando_problemas(count:int,artist:dict):
     global artistas_id
     global artistas_info
     global conexiones
+    global main_counter
+
+    main_counter += 1
+    print(main_counter)
 
     # Agregar artista individual a la base de datos | 18.09.2020 | jpi
     l = len(artistas_id)

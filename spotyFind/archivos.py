@@ -7,7 +7,17 @@ import json
 def relacionar(desde:str,hasta:str):
     return {
         'source': desde,
-        'target': hasta}
+        'target': hasta
+    }
+
+
+def nueva_banda(ID:str,nombre:str,img_url:str,popularidad:int,generos:list):
+    return {
+        'id':ID,
+        'nombre':nombre,
+        'img_url':img_url,
+        'popularidad':popularidad,
+        'generos':generos}
 
 
 # crea archivos de listado de bandas + listado de relaciones | 18.09.2020 | jpi
