@@ -1,9 +1,5 @@
 
 
-const textWidth = (str) => {
-    return str.clentWi
-}
-
 
 let name = "DoblePorcion";
 let rec = '2';
