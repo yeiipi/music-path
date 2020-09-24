@@ -4,16 +4,18 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
-artistas_id	main.py	/^artistas_id = set()$/;"	v
-artistas_info	main.py	/^artistas_info = []$/;"	v
+agregar_unico	archivos.py	/^def agregar_unico(lista_total:list,datos:dict,art:dict):$/;"	f
+artistas	main.py	/^artistas = []$/;"	v
 buscando_problemas	main.py	/^def buscando_problemas(count:int,artist:dict):$/;"	f
-conexiones	main.py	/^conexiones = []$/;"	v
+data	main.py	/^data = { 'nodes':[], 'links':[] }$/;"	v
 get_artista	q_fun.py	/^def get_artista(varid,token):$/;"	f
 get_relacionados	q_fun.py	/^def get_relacionados(varid,token):$/;"	f
 get_token	q_fun.py	/^def get_token():$/;"	f
 get_varid	q_fun.py	/^def get_varid():$/;"	f
 main	main.py	/^def main():$/;"	f
+main_counter	main.py	/^main_counter = 0$/;"	v
 mandalo_para_el_json	archivos.py	/^def mandalo_para_el_json(c:int,id_:set,inf_:list,con_:list,v:str):$/;"	f
+nueva_banda	archivos.py	/^def nueva_banda(ID:str,nombre:str,img_url:str,popularidad:int,seguidores:int,generos:list):$/;"	f
 nuevo_token	q_fun.py	/^def nuevo_token(nt:str):$/;"	f
 nuevo_varid	q_fun.py	/^def nuevo_varid(nv:str):$/;"	f
 relacionar	archivos.py	/^def relacionar(desde:str,hasta:str):$/;"	f

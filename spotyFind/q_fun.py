@@ -35,15 +35,14 @@ def get_relacionados(varid,token):
     query = f'curl -X "GET" "https://api.spotify.com/v1/artists/{varid}/related-artists" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer {token}"'
     q =  popen(query).read()
 
-    while ("The access token expired" in q):
+    if ("The access token expired" in q):
         count += 1
         print(f"get_relacionados {count}")
         imp = input("Se necesita un nuevo token\nNuevo token: ")
         nuevo_token(imp)
-        token = get_token()
-        query = f'curl -X "GET" "https://api.spotify.com/v1/artists/{varid}/related-artists" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer {token}"'
+        tok = get_token()
+        query = f'curl -X "GET" "https://api.spotify.com/v1/artists/{varid}/related-artists" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer {tok}"'
         q =  popen(query).read()
-        break
 
     return q
 
@@ -54,14 +53,13 @@ def get_artista(varid,token):
     query = f'curl -X "GET" "https://api.spotify.com/v1/artists/{varid}" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer {token}"'
     q =  popen(query).read()
 
-    while ("The access token expired" in q):
+    if ("The access token expired" in q):
         count += 1
         print(f"get_relacionados {count}")
         imp = input("Se necesita un nuevo token\nNuevo token: ")
         nuevo_token(imp)
-        token = get_token()
-        query = f'curl -X "GET" "https://api.spotify.com/v1/artists/{varid}" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer {token}"'
+        tok = get_token()
+        query = f'curl -X "GET" "https://api.spotify.com/v1/artists/{varid}" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer {tok}"'
         q =  popen(query).read()
-        break
     return q
 

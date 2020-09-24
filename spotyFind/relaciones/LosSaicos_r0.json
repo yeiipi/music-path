@@ -1,0 +1,380 @@
+{
+    "links": [
+        {
+            "source": "4HYB35YLMCRIzQobpWs5yv",
+            "target": "1VbfSBBZCtzmy9I3a4oHJp"
+        },
+        {
+            "source": "4HYB35YLMCRIzQobpWs5yv",
+            "target": "4n0gvapwYbRpzU5Ov68B6P"
+        },
+        {
+            "source": "4HYB35YLMCRIzQobpWs5yv",
+            "target": "5tcr1ujTO3Q0WH2wkY7RWh"
+        },
+        {
+            "source": "4HYB35YLMCRIzQobpWs5yv",
+            "target": "2g3PKH7Z1Ofn5oGR6oDjLy"
+        },
+        {
+            "source": "4HYB35YLMCRIzQobpWs5yv",
+            "target": "5mcarhiatlvfCghqcn73rC"
+        },
+        {
+            "source": "4HYB35YLMCRIzQobpWs5yv",
+            "target": "5fOfpeBPZeyWDHPOHA8UY5"
+        },
+        {
+            "source": "4HYB35YLMCRIzQobpWs5yv",
+            "target": "7KQweedIhn7FB1ntSzePSD"
+        },
+        {
+            "source": "4HYB35YLMCRIzQobpWs5yv",
+            "target": "35C0NSLogAwImm8HAMqEmG"
+        },
+        {
+            "source": "4HYB35YLMCRIzQobpWs5yv",
+            "target": "6E5KbVutTSwdQMVtCDUVlh"
+        },
+        {
+            "source": "4HYB35YLMCRIzQobpWs5yv",
+            "target": "3En4SMrGwoaVbTIyWOQCqx"
+        },
+        {
+            "source": "4HYB35YLMCRIzQobpWs5yv",
+            "target": "3VTNuQRp2wjrWzZX6CXxiy"
+        },
+        {
+            "source": "4HYB35YLMCRIzQobpWs5yv",
+            "target": "3nTp46BPWuUUhBV6GXQiY6"
+        },
+        {
+            "source": "4HYB35YLMCRIzQobpWs5yv",
+            "target": "64CktFSdicLd9XQzV6gkMg"
+        },
+        {
+            "source": "4HYB35YLMCRIzQobpWs5yv",
+            "target": "3ZZHB1Xh2PM88QTMiqHB62"
+        },
+        {
+            "source": "4HYB35YLMCRIzQobpWs5yv",
+            "target": "14UQmxJzeKtmgYzJ1sEJdi"
+        },
+        {
+            "source": "4HYB35YLMCRIzQobpWs5yv",
+            "target": "6A5Ns1SpGWTt8SzXPwiqVE"
+        },
+        {
+            "source": "4HYB35YLMCRIzQobpWs5yv",
+            "target": "5PXHQdsE6wKNW3hNpFDAyR"
+        },
+        {
+            "source": "4HYB35YLMCRIzQobpWs5yv",
+            "target": "0PQK6BLKbviconz1bx1rlH"
+        },
+        {
+            "source": "4HYB35YLMCRIzQobpWs5yv",
+            "target": "4VRBYAzCvjuiqKGdjDWdSj"
+        },
+        {
+            "source": "4HYB35YLMCRIzQobpWs5yv",
+            "target": "3qYfqdVwX0fil71onLpLkh"
+        }
+    ],
+    "nodes": [
+        {
+            "generos": [
+                "nueva ola peruana",
+                "peruvian rock"
+            ],
+            "id": "4HYB35YLMCRIzQobpWs5yv",
+            "img_url": "https://i.scdn.co/image/db820ad9cf4ffdc858ba20bddf801b4059a40ef0",
+            "nombre": "Los Saicos",
+            "popularidad": 36,
+            "seguidores": 27985
+        },
+        {
+            "generos": [
+                "argentine punk",
+                "trash rock"
+            ],
+            "id": "1VbfSBBZCtzmy9I3a4oHJp",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b273dca046d1c500ce64de2dda30",
+            "nombre": "Los Peyotes",
+            "popularidad": 22,
+            "seguidores": 6008
+        },
+        {
+            "generos": [
+                "garage pop",
+                "garage rock",
+                "indie garage rock",
+                "punk blues"
+            ],
+            "id": "4n0gvapwYbRpzU5Ov68B6P",
+            "img_url": "https://i.scdn.co/image/c52c95c28cbf57a5b9b775789799bacadb915292",
+            "nombre": "The King Khan & BBQ Show",
+            "popularidad": 44,
+            "seguidores": 49451
+        },
+        {
+            "generos": [
+                "garage pop",
+                "garage rock",
+                "punk blues",
+                "trash rock"
+            ],
+            "id": "5tcr1ujTO3Q0WH2wkY7RWh",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b2730219edb110f35e41af56a6aa",
+            "nombre": "The Gories",
+            "popularidad": 32,
+            "seguidores": 19413
+        },
+        {
+            "generos": [
+                "classic garage rock",
+                "freakbeat",
+                "garage rock",
+                "protopunk",
+                "psychedelic rock",
+                "punk",
+                "punk blues",
+                "surf music"
+            ],
+            "id": "2g3PKH7Z1Ofn5oGR6oDjLy",
+            "img_url": "https://i.scdn.co/image/268e0f329a377e4b8a9a639ba00e1d30cf555604",
+            "nombre": "The Sonics",
+            "popularidad": 49,
+            "seguidores": 89316
+        },
+        {
+            "generos": [
+                "bubblegum pop",
+                "classic garage rock",
+                "folk rock",
+                "freakbeat",
+                "garage rock",
+                "protopunk",
+                "psychedelic rock",
+                "punk blues"
+            ],
+            "id": "5mcarhiatlvfCghqcn73rC",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b273fcb35a573a3811f1a67e15a6",
+            "nombre": "The Seeds",
+            "popularidad": 42,
+            "seguidores": 48142
+        },
+        {
+            "generos": [
+                "nueva ola peruana",
+                "peruvian rock"
+            ],
+            "id": "5fOfpeBPZeyWDHPOHA8UY5",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b2738cee56ebbf036b90f5a918df",
+            "nombre": "Los York's",
+            "popularidad": 25,
+            "seguidores": 5227
+        },
+        {
+            "generos": [
+                "canadian garage rock",
+                "trash rock"
+            ],
+            "id": "7KQweedIhn7FB1ntSzePSD",
+            "img_url": "https://i.scdn.co/image/92215ce0ec39f86297d1550049b79c0a6a713598",
+            "nombre": "The Gruesomes",
+            "popularidad": 16,
+            "seguidores": 3097
+        },
+        {
+            "generos": [
+                "atlanta indie",
+                "garage pop",
+                "garage rock",
+                "indie garage rock",
+                "indie rock",
+                "neo-psychedelic",
+                "punk blues"
+            ],
+            "id": "35C0NSLogAwImm8HAMqEmG",
+            "img_url": "https://i.scdn.co/image/0cdb37cb22237741c49c0bc7cb1e1112a25e9cd8",
+            "nombre": "Black Lips",
+            "popularidad": 49,
+            "seguidores": 129672
+        },
+        {
+            "generos": [
+                "spanish rockabilly",
+                "trash rock"
+            ],
+            "id": "6E5KbVutTSwdQMVtCDUVlh",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b2732b2cd5ed69731b5e4b605949",
+            "nombre": "Wau Y Los Arrrghs!!",
+            "popularidad": 22,
+            "seguidores": 5700
+        },
+        {
+            "generos": [
+                "garage pop",
+                "garage punk",
+                "garage rock",
+                "punk",
+                "punk 'n' roll",
+                "punk blues"
+            ],
+            "id": "3En4SMrGwoaVbTIyWOQCqx",
+            "img_url": "https://i.scdn.co/image/0a2513f4c4dbfa0dacdd708edb8968666c7d0971",
+            "nombre": "Dead Moon",
+            "popularidad": 41,
+            "seguidores": 35719
+        },
+        {
+            "generos": [
+                "classic garage rock",
+                "experimental",
+                "experimental rock",
+                "freakbeat",
+                "post-punk",
+                "protopunk",
+                "psychedelic rock",
+                "punk blues"
+            ],
+            "id": "3VTNuQRp2wjrWzZX6CXxiy",
+            "img_url": "https://i.scdn.co/image/7a373e70645bc2752d8716ae9c3aec7f281bf77d",
+            "nombre": "The Monks",
+            "popularidad": 35,
+            "seguidores": 19656
+        },
+        {
+            "generos": [
+                "garage pop",
+                "garage punk",
+                "hardcore punk",
+                "punk",
+                "punk blues"
+            ],
+            "id": "3nTp46BPWuUUhBV6GXQiY6",
+            "img_url": "https://i.scdn.co/image/981efeed5764dbd7bc794da2df11d1229348a4b9",
+            "nombre": "The Spits",
+            "popularidad": 39,
+            "seguidores": 21763
+        },
+        {
+            "generos": [
+                "classic garage rock",
+                "garage rock",
+                "garage rock revival",
+                "punk blues",
+                "trash rock"
+            ],
+            "id": "64CktFSdicLd9XQzV6gkMg",
+            "img_url": "https://i.scdn.co/image/3b1d1145b87acf2671d77d327a68e565f5a62a5f",
+            "nombre": "The Fuzztones",
+            "popularidad": 28,
+            "seguidores": 13597
+        },
+        {
+            "generos": [
+                "chicano punk",
+                "classic garage rock",
+                "freakbeat",
+                "protopunk",
+                "psychedelic rock"
+            ],
+            "id": "3ZZHB1Xh2PM88QTMiqHB62",
+            "img_url": "https://i.scdn.co/image/2704948faa539e47795627354cf0ff860206ec70",
+            "nombre": "? & The Mysterians",
+            "popularidad": 43,
+            "seguidores": 26644
+        },
+        {
+            "generos": [
+                "garage pop",
+                "garage punk",
+                "garage rock",
+                "punk blues",
+                "trash rock"
+            ],
+            "id": "14UQmxJzeKtmgYzJ1sEJdi",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b27391bd4d054d5bcec4cedccf37",
+            "nombre": "Oblivians",
+            "popularidad": 30,
+            "seguidores": 16777
+        },
+        {
+            "generos": [
+                "bay area indie",
+                "garage pop",
+                "indie garage rock",
+                "oakland indie",
+                "power-pop punk"
+            ],
+            "id": "6A5Ns1SpGWTt8SzXPwiqVE",
+            "img_url": "https://i.scdn.co/image/2a68a093621ad349ce05319aaf3a02682a8a1172",
+            "nombre": "Shannon and The Clams",
+            "popularidad": 48,
+            "seguidores": 84243
+        },
+        {
+            "generos": [
+                "garage punk blues",
+                "outsider",
+                "psychobilly",
+                "punk blues",
+                "song poem"
+            ],
+            "id": "5PXHQdsE6wKNW3hNpFDAyR",
+            "img_url": "https://i.scdn.co/image/16d27e38e85c45e2407ae4553ea480468f7e0ee1",
+            "nombre": "Hasil Adkins",
+            "popularidad": 31,
+            "seguidores": 11824
+        },
+        {
+            "generos": [
+                "garage pop",
+                "puerto rican indie",
+                "puerto rican rock"
+            ],
+            "id": "0PQK6BLKbviconz1bx1rlH",
+            "img_url": "https://i.scdn.co/image/e80e4efdfe554e9acc9be3c6449913ed6404774a",
+            "nombre": "Davila 666",
+            "popularidad": 24,
+            "seguidores": 7303
+        },
+        {
+            "generos": [
+                "garage pop",
+                "punk blues"
+            ],
+            "id": "4VRBYAzCvjuiqKGdjDWdSj",
+            "img_url": "https://i.scdn.co/image/11aa306a800c7a7abd85e3285680c9142be580bf",
+            "nombre": "The Almighty Defenders",
+            "popularidad": 28,
+            "seguidores": 9973
+        },
+        {
+            "generos": [
+                "alternative rock",
+                "bay area indie",
+                "dance-punk",
+                "double drumming",
+                "freak folk",
+                "garage pop",
+                "garage psych",
+                "garage rock",
+                "indie garage rock",
+                "indie rock",
+                "neo-psychedelic",
+                "noise pop",
+                "nu gaze",
+                "psychedelic punk",
+                "punk blues"
+            ],
+            "id": "3qYfqdVwX0fil71onLpLkh",
+            "img_url": "https://i.scdn.co/image/5aa0ad0d4610d25d0fd715341de4dadbfec14265",
+            "nombre": "Thee Oh Sees",
+            "popularidad": 58,
+            "seguidores": 217171
+        }
+    ]
+}
