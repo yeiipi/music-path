@@ -5,7 +5,8 @@ let rec = '2';
  d3.select('h2').text("Relaciones de " + name);
 
 
-let svg = d3.select('svg');
+let svg = d3.select('svg#simulacion-principal');
+let svgA = d3.select('svg#ficha-artista');
 
 
 let width  = svg.attr('width');
@@ -14,21 +15,25 @@ let k = height / width;
 
 
 let radio = d3.scalePow()
-    .exponent(1.1)
+    .exponent(2.5)
     .domain([0,100])
     .range([10,60]);
+
+let chargeS = d3.scaleLinear()
+    .domain([0, 100])
+    .range([0, -1000]);
 
 
 // SLIDER Charge | 23.09.2020 | jpi
 
 
 let sliderCharge = d3.sliderBottom()
-    .min(-1000)
-    .max(0)
+    .min(0)
+    .max(100)
     .width(200)
     .tickFormat(d3.format(''))
     .ticks(0)
-    .default(-300);
+    .default(50);
 
 
 let gSimple = d3.select('div#charge-slider')
@@ -49,14 +54,22 @@ d3.json("./relaciones/" + name + "_r" + rec + ".json").then(function (data) {
     // SIMULATION | 23.09.2020 | jpi
     let simulation = d3.forceSimulation(data.nodes)
         .force('link',d3.forceLink(data.links).id( d => d.id))
-        .force('charge', d3.forceManyBody().strength(sliderCharge.value()))
+        .force('charge', d3.forceManyBody().strength(chargeS(sliderCharge.value())))
         .force('center', d3.forceCenter(width/2,1*height/2))
         .force('collision', d3.forceCollide().radius(function(d) {
                 return radio(d.popularidad) * 1.5;
               }))
         .on('tick',ticked);
 
+    /*--- FICHA DE ARTISTA ---*/
+    let image = svgA.append('rect')
+        .attr('height', 80)
+        .attr('width', 80)
+        .style('fill','yellow')
+        .attr('transform', 'translate(30,30)');
 
+
+    /*--- GRAFICA DE GRAFOS ---*/
     let g = svg.append('g')
         .attr('class','everything');
 
@@ -141,7 +154,7 @@ d3.json("./relaciones/" + name + "_r" + rec + ".json").then(function (data) {
 
     /*--- FUNCIONES IMPORTANTES ---*/
     function ticked() {
-        simulation.force('charge', d3.forceManyBody().strength(sliderCharge.value()));
+        simulation.force('charge', d3.forceManyBody().strength(chargeS(sliderCharge.value())));
         textAndNodes.attr('transform',function (d) {
             return "translate(" + d.x + "," + d.y + ")";
         });
