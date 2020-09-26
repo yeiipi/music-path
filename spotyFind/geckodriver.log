@@ -331,3 +331,15 @@ IPDL protocol error: Handler returned error code!
 
 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
 
+1601158417849	geckodriver	INFO	Listening on 127.0.0.1:45117
+1601158417858	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilec9f65k"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601158423755	Marionette	INFO	Listening on port 33635
+1601158423795	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601158443311	Marionette	INFO	Stopped listening on port 33635
+1601158444657	geckodriver	INFO	Listening on 127.0.0.1:58573
+1601158444666	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9RAycw"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601158450872	Marionette	INFO	Listening on port 45633
+1601158450899	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601158465629	Marionette	INFO	Stopped listening on port 45633

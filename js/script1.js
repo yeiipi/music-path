@@ -1,7 +1,7 @@
 
 
-let name = 'Gorillaz';
-let rec = '1';
+let name = 'SodaStereo';
+let rec = '2';
  d3.select('h2').text("Relaciones de " + name);
 
 
@@ -96,14 +96,14 @@ d3.json("./relaciones/" + name + "_r" + rec + ".json").then(function (data) {
             return radio(d.popularidad);
         })
         .attr('fill', function (d) {
-            if (d.nombre == name){
+            if (d.nombre.replace(' ','') == name){
                 return '#DAF238';
             } else {
                 return 'orange';
             }
         })
         .attr('stroke',function (d) {
-            if (d.nombre == name){
+            if (d.nombre.replace(' ','') == name){
                 return '#27DB90';
             } else {
                 return 'yellow';

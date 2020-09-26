@@ -19,10 +19,22 @@ varid1 = get_varid()
 # lista de artistas con info completa | 18.09.2020 | jpi
 artistas = []
 # diccionario principal | 22.09.2020 | jpi
-data = { 'nodes':[], 'links':[] }
+data = { 'nodes':[], 'links':[], 'generos':[]}
 
 
-#  | 23.09.2020 | jpi
+# Agrega generos únicos al json | 26.09.2020 | jpi
+def agregar_genero(generos:list):
+
+    global data
+
+    if ( len(generos) > 0 ):
+        for i in generos:
+            if ( i not in data['generos'] ):
+                data['generos'].append(i)
+
+
+
+# Agrega un link a data.links | 23.09.2020 | jpi
 def relacionar(artista1:dict,artista2:dict):
 
     global artistas
@@ -55,9 +67,12 @@ def agregar_unico(art:dict):
             data['nodes'].append(nueva_banda(art['id'],art['name'],"https://www.kindpng.com/picc/m/80-807524_no-profile-hd-png-download.png",art['popularity'],art['followers']['total'],art['genres']))
             artistas.append(art['id'])
 
+    # Agregar generos al json | 26.09.2020 | jpi
+    agregar_genero(art['genres'])
+
+
 
 # Recursive artist funtion | 18.09.2020 | jpi
-# TODO:terminar nueva forma de relacionar los datos | 22.09.2020 | jpi
 def buscando_problemas(count:int,artist:dict):
 
     # Variables globales | 18.09.2020 | jpi
@@ -79,13 +94,19 @@ def buscando_problemas(count:int,artist:dict):
     if ( count > 0 ):
 
         # Recorriendo hijos | 18.09.2020 | jpi
-        for i in related['artists']:
-            relacionar(artist,i)
-            buscando_problemas(count-1,i)
+        try:
+            for i in related['artists']:
+                relacionar(artist,i)
+                buscando_problemas(count-1,i)
+        except KeyError:
+            print('buscando_problemas(): error corriendo hijos 1')
     else:
         # Recorriendo hijos | 18.09.2020 | jpi
-        for i in related['artists']:
-            relacionar(artist,i)
+        try:
+            for i in related['artists']:
+                relacionar(artist,i)
+        except KeyError:
+            print('buscando_problemas(): error corriendo hijos 2')
 
 
 # main function | 18.09.2020 | jpi
