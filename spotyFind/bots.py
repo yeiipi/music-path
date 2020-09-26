@@ -6,6 +6,7 @@ from selenium.webdriver.common.keys import Keys
 
 
 def get_tokenb() :
+    print('Buscando Token...')
     driver = webdriver.Firefox()
 
     driver.get('https://developer.spotify.com/console/get-artist-related-artists/?id=asdfsdfasdf')
@@ -55,6 +56,7 @@ def get_tokenb() :
 
 def get_artist_id(artista):
 
+    print('Buscando Id del artista...')
     driver = webdriver.Firefox()
 
     # Entrar a google y encontrar la barra de busqueda | 25.09.2020 | jpi

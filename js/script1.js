@@ -1,8 +1,7 @@
 
 
-
-let name = "TheDø";
-let rec = '2';
+let name = 'Gorillaz';
+let rec = '1';
  d3.select('h2').text("Relaciones de " + name);
 
 
@@ -22,14 +21,9 @@ let radio = d3.scalePow()
 
 // SLIDER Charge | 23.09.2020 | jpi
 
-// d3.select('div#col-sm')
-//     .append('g')
-//     .attr('transform','translate(1000,0)');
-
-
 
 let sliderCharge = d3.sliderBottom()
-    .min(-300)
+    .min(-1000)
     .max(0)
     .width(200)
     .tickFormat(d3.format(''))
@@ -44,9 +38,8 @@ let gSimple = d3.select('div#charge-slider')
     .append('g')
     .attr('transform', 'translate(30,30)');
 
+
 gSimple.call(sliderCharge);
-
-
 
 
 // importar información | 23.09.2020 | jpi
@@ -103,15 +96,25 @@ d3.json("./relaciones/" + name + "_r" + rec + ".json").then(function (data) {
             return radio(d.popularidad);
         })
         .attr('fill', function (d) {
-            return 'orange';
+            if (d.nombre == name){
+                return '#DAF238';
+            } else {
+                return 'orange';
+            }
         })
-        .attr('stroke','yellow')
+        .attr('stroke',function (d) {
+            if (d.nombre == name){
+                return '#27DB90';
+            } else {
+                return 'yellow';
+            }
+        })
         .on('mouseover',function () {
             textON();
         })
         .on('mouseout',function () {
             textOFF();
-        })
+        });
 
 
     // agregan los elementos de texto | 24.09.2020 | jpi
@@ -126,21 +129,11 @@ d3.json("./relaciones/" + name + "_r" + rec + ".json").then(function (data) {
         .scaleExtent([0.05,32])
         .on('zoom',zoomed);
 
+
     svg.call(zoom).call(zoom.transform,d3.zoomIdentity);
 
 
-    // Escalas con respecto a X y Y | 24.09.2020 | jpi
-    x = d3.scaleLinear()
-        .domain([-4.5, 4.5])
-        .range([0, width]);
-    y = d3.scaleLinear()
-        .domain([-4.5 * k, 4.5 * k])
-        .range([height, 0])
-
-
     function zoomed ({transform}) {
-        // const zx = transform.rescaleX(x).interpolate(d3.interpolateRound);
-        // const zy = transform.rescaleY(y).interpolate(d3.interpolateRound);
         g.attr("transform", transform)
             .attr("stroke-width", 3 / transform.k);
     }
@@ -156,8 +149,6 @@ d3.json("./relaciones/" + name + "_r" + rec + ".json").then(function (data) {
         link.attr('y1',function (d) { return d.source.y; })
         link.attr('x2',function (d) { return d.target.x; })
         link.attr('y2',function (d) { return d.target.y; })
-        // node.attr('cx',function (d) { return d.x;})
-        // node.attr('cy',function (d) { return d.y;});
     };
 
 
