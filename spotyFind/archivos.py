@@ -11,8 +11,6 @@ def nueva_relación(desde:str,hasta:str):
     }
 
 
-
-
 # crea diccionarios con la información necesaria para cada banda individual | 22.09.2020 | jpi
 def nueva_banda(ID:str,nombre:str,img_url:str,popularidad:int,seguidores:int,generos:list):
     return {

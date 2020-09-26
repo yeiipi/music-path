@@ -1,27 +1,23 @@
-<!DOCTYPE html>
 <html>
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width" />
         <script src="https://d3js.org/d3.v6.min.js"></script>
         <script src="https://unpkg.com/d3-simple-slider"></script>
-        <title>S</title>
+        <link rel="stylesheet" href="./css/master.css" type="text/css" media="screen" title="no title" charset="utf-8">
+        <title>nod32</title>
     </head>
-    <style>
-    text {
-        font-family: "Helvetica Neue", Helvetica, sans-serif;
-        font-weight: bold;
-        font-size: 20px;
-    }
-    </style>
 
     <body>
-        <div class="container" id="charge">
-            <h2>Charge</h2>
-                <div class="col-sm-2"><p>Valor: </p><p id="value-simple"></p></div>
-                <div class="col-sm"><div id="charge-slider"></div></div>
-        <h1></h1>
-        <svg width="3000" height="2500"></svg>
-        <script src='script1.js'></script>
+        <h1>Nod32</h1>
+        <h2></h2>
+        <p> Para hacer <b>zoom</b> es necesario utilizar la rueda del mouse y para desplazarse se arrastra la gráfica con el mouse. </p>
+            <div class="col-sm">
+            <h2 class='slider-title'>Charge</h2>
+                <div id="charge-slider"></div>
+                <div class='graph'> </div>
+            </div>
+        <svg width='1000' height='450' class='svg-space'></svg>
+        <script src='./js/script1.js'></script>
     </body>
 </html>
