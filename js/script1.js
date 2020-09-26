@@ -1,7 +1,8 @@
 
 
-let name = "StevenUniverse";
-let rec = '3';
+
+let name = "TheDø";
+let rec = '2';
  d3.select('h2').text("Relaciones de " + name);
 
 

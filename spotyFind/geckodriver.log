@@ -253,3 +253,25 @@ console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Err
 1601141190362	Marionette	INFO	Listening on port 43089
 1601141190402	Marionette	WARN	TLS certificate errors will be ignored for this session
 1601141202997	Marionette	INFO	Stopped listening on port 43089
+1601141690081	geckodriver	INFO	Listening on 127.0.0.1:46651
+1601141691088	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHEbzRU"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601141695675	Marionette	INFO	Listening on port 39067
+1601141695716	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601141713790	Marionette	INFO	Stopped listening on port 39067
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+

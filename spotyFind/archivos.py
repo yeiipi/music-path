@@ -27,7 +27,7 @@ def nueva_banda(ID:str,nombre:str,img_url:str,popularidad:int,seguidores:int,gen
 def mandalo_para_el_json(c:int,data:dict,v:str):
     fileN = f"{v}"
     fileN = fileN.replace(" ","")
-    with open(f'relaciones/{fileN}_r{c}.json','w') as fa:
+    with open(f'../relaciones/{fileN}_r{c}.json','w') as fa:
         json.dump(data,fa,indent=4,sort_keys=True)
 
 
