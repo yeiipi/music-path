@@ -33,7 +33,7 @@ let sliderCharge = d3.sliderBottom()
     .width(200)
     .tickFormat(d3.format(''))
     .ticks(0)
-    .default(50);
+    .default(25);
 
 
 let gSimple = d3.select('div#charge-slider')
@@ -65,8 +65,20 @@ d3.json("./relaciones/" + name + "_r" + rec + ".json").then(function (data) {
     let image = svgA.append('rect')
         .attr('height', 80)
         .attr('width', 80)
-        .style('fill','yellow')
-        .attr('transform', 'translate(30,30)');
+        .attr('transform', 'translate(20,20)');
+
+    let nomArista = svgA.append('text')
+        .text("Nombre Artista")
+        .attr('transform',"translate(20,130)")
+        .style('fill','#3B5499');
+
+    function dispararImagen (d) {
+        return `url(#image-${d.img_url})`;
+    }
+
+
+
+
 
 
     /*--- GRAFICA DE GRAFOS ---*/
@@ -86,13 +98,10 @@ d3.json("./relaciones/" + name + "_r" + rec + ".json").then(function (data) {
 
 
     // Activar y desactivar texto | 24.09.2020 | jpi
-    function textON () {
+    function textON (d) {
         texto.on('mouseover',function (d) {
-            d3.select(this).style('opacity',1)});
-    };
-    function textOFF () {
-        texto.on('mouseout',function (d) {
-            d3.select(this).style('opacity',0)});
+            nomArista.text(d3.select(this)._groups[0][0].__data__.nombre)
+        });
     };
 
 
@@ -122,12 +131,7 @@ d3.json("./relaciones/" + name + "_r" + rec + ".json").then(function (data) {
                 return 'yellow';
             }
         })
-        .on('mouseover',function () {
-            textON();
-        })
-        .on('mouseout',function () {
-            textOFF();
-        });
+        .on('mouseover',textON);
 
 
     // agregan los elementos de texto | 24.09.2020 | jpi
