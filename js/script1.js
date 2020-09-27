@@ -32,7 +32,7 @@ let sliderCharge = d3.sliderBottom()
     .max(100)
     .width(200)
     .tickFormat(d3.format(''))
-    .ticks(0)
+    .ticks(5)
     .default(10);
 
 
