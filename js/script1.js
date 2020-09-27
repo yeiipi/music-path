@@ -33,7 +33,7 @@ let sliderCharge = d3.sliderBottom()
     .width(200)
     .tickFormat(d3.format(''))
     .ticks(0)
-    .default(25);
+    .default(10);
 
 
 let gSimple = d3.select('div#charge-slider')
@@ -62,23 +62,26 @@ d3.json("./relaciones/" + name + "_r" + rec + ".json").then(function (data) {
         .on('tick',ticked);
 
     /*--- FICHA DE ARTISTA ---*/
-    let image = svgA.append('rect')
+
+
+    let marco = svgA.append('rect')
         .attr('height', 80)
         .attr('width', 80)
+        .attr('fill',"url(#image)")
         .attr('transform', 'translate(20,20)');
 
     let nomArista = svgA.append('text')
         .text("Nombre Artista")
-        .attr('transform',"translate(20,130)")
+        .attr('transform',"translate(20,140)")
         .style('fill','#3B5499');
 
-    function dispararImagen (d) {
-        return `url(#image-${d.img_url})`;
-    }
+    let nSeguidores = svgA.append('text')
+        .text("Seguidores: ????")
+        .attr('transform',"translate(20,180)");
 
-
-
-
+    let nPopularidad = svgA.append('text')
+        .text("Popularidad: ????")
+        .attr('transform',"translate(20,220)");
 
 
     /*--- GRAFICA DE GRAFOS ---*/
@@ -98,9 +101,18 @@ d3.json("./relaciones/" + name + "_r" + rec + ".json").then(function (data) {
 
 
     // Activar y desactivar texto | 24.09.2020 | jpi
-    function textON (d) {
+    function nodoSeleccionado (d) {
         texto.on('mouseover',function (d) {
+            nSeguidores.text("Seguidores: "+d3.select(this)._groups[0][0].__data__.seguidores)
+            nPopularidad.text("Popularidad: "+d3.select(this)._groups[0][0].__data__.popularidad)
             nomArista.text(d3.select(this)._groups[0][0].__data__.nombre)
+            d3.select('#laImagen').attr('href',d3.select(this)._groups[0][0].__data__.img_url)
+            d3.select(this).style('opacity',1)
+        });
+    };
+    function nodoFuera (d) {
+        texto.on('mouseout',function (d) {
+            d3.select(this).style('opacity',0)
         });
     };
 
@@ -131,7 +143,8 @@ d3.json("./relaciones/" + name + "_r" + rec + ".json").then(function (data) {
                 return 'yellow';
             }
         })
-        .on('mouseover',textON);
+        .on('mouseover',nodoSeleccionado)
+        .on('mouseout',nodoFuera);
 
 
     // agregan los elementos de texto | 24.09.2020 | jpi
@@ -159,9 +172,7 @@ d3.json("./relaciones/" + name + "_r" + rec + ".json").then(function (data) {
     /*--- FUNCIONES IMPORTANTES ---*/
     function ticked() {
         simulation.force('charge', d3.forceManyBody().strength(chargeS(sliderCharge.value())));
-        textAndNodes.attr('transform',function (d) {
-            return "translate(" + d.x + "," + d.y + ")";
-        });
+        textAndNodes.attr('transform',function (d) { return "translate(" + d.x + "," + d.y + ")"; });
         link.attr('x1',function (d) { return d.source.x; })
         link.attr('y1',function (d) { return d.source.y; })
         link.attr('x2',function (d) { return d.target.x; })
