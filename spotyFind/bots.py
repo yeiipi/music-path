@@ -54,36 +54,36 @@ def get_tokenb() :
     return(token)
 
 
-def get_artist_id(artista):
-
-    print('Buscando Id del artista...')
-    driver = webdriver.Firefox()
-
-    # Entrar a google y encontrar la barra de busqueda | 25.09.2020 | jpi
-    driver.get('https://google.com')
-    barra_de_busqueda = driver.find_element_by_xpath('/html/body/div[2]/div[2]/form/div[2]/div[1]/div[1]/div/div[2]/input')
-
-    sleep(1)
-
-    # Realizar la busqueda del artista | 25.09.2020 | jpi
-    barra_de_busqueda.send_keys(f"{artista} On Spotify")
-    barra_de_busqueda.send_keys(Keys.RETURN)
-
-    sleep(2)
-
-    # Entrar a spotify | 25.09.2020 | jpi
-    spotify_boton = driver.find_element_by_partial_link_text('spotify')
-    spotify_boton.click()
-
-    sleep(2)
-
-
-    # obtener id a partir del url de la pag de Spotify | 25.09.2020 | jpi
-    pagina_artista = driver.current_url
-    artista_id = pagina_artista[32:]
-
-
-    # cierro browser | 25.09.2020 | jpi
-    driver.close()
-
-    return artista_id
+# def get_artist_id(artista):
+#
+#     print('Buscando Id del artista...')
+#     driver = webdriver.Firefox()
+#
+#     # Entrar a google y encontrar la barra de busqueda | 25.09.2020 | jpi
+#     driver.get('https://google.com')
+#     barra_de_busqueda = driver.find_element_by_xpath('/html/body/div[2]/div[2]/form/div[2]/div[1]/div[1]/div/div[2]/input')
+#
+#     sleep(1)
+#
+#     # Realizar la busqueda del artista | 25.09.2020 | jpi
+#     barra_de_busqueda.send_keys(f"{artista} On Spotify")
+#     barra_de_busqueda.send_keys(Keys.RETURN)
+#
+#     sleep(2)
+#
+#     # Entrar a spotify | 25.09.2020 | jpi
+#     spotify_boton = driver.find_element_by_partial_link_text('spotify')
+#     spotify_boton.click()
+#
+#     sleep(2)
+#
+#
+#     # obtener id a partir del url de la pag de Spotify | 25.09.2020 | jpi
+#     pagina_artista = driver.current_url
+#     artista_id = pagina_artista[32:]
+#
+#
+#     # cierro browser | 25.09.2020 | jpi
+#     driver.close()
+#
+#     return artista_id

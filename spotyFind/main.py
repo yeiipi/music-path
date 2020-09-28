@@ -4,14 +4,25 @@ import pprint
 from os import system
 import pandas as pd
 from q_fun import *
+from spoty import *
 from archivos import *
 
+
+id_cliente = 'c12d5ca9e15e433298368cbf94a280a4'
+secreto_cliente = '1cb6ec606ac048289a3bff4be7895f29'
+
+
+spotify = SpotApi(id_cliente,secreto_cliente)
 artista_perdido = input("Nombre de la banda o artista que desea buscar:\n> ")
+
+
 nivel_recurcion = -1
 while nivel_recurcion < 0:
     nivel_recurcion = int(input("Niveles de  recurción:\n> "))
 
-nuevo_varid(get_artist_id(artista_perdido))
+
+nuevo_varid(spotify.obtener_artista_nombre(artista_perdido)['id'])
+
 
 # elementos escenciales | 18.09.2020 | jpi
 varid1 = get_varid()
