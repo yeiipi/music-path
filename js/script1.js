@@ -1,6 +1,7 @@
 
 
-let name = 'SodaStereo';
+
+let name = 'CompadresRecerdos';
 let rec = '2';
  d3.select('h2').text("Relaciones de " + name);
 
