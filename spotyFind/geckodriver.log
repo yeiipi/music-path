@@ -538,3 +538,7 @@ IPDL protocol error: Handler returned error code!
 JavaScript error: https://developer.spotify.com/console/get-artist-related-artists/?id=asdfsdfasdf, line 3151: ReferenceError: renderConsole is not defined
 JavaScript error: https://developer.spotify.com/js/main.bundle.js, line 25: NS_ERROR_NOT_INITIALIZED: 
 1601333868809	Marionette	INFO	Stopped listening on port 34263
+1601336224465	geckodriver	INFO	Listening on 127.0.0.1:48753
+1601336225473	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletg9zhK"
+1601336244883	geckodriver	INFO	Listening on 127.0.0.1:54483
+1601336245892	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee3N9zt"

@@ -243,7 +243,7 @@ class SpotApi:
             print(mssg)
             ni = int(input("Número del artista que estas buscando:\n> "))
 
-            return artistas['artists']['items'][0]
+            return artistas['artists']['items'][ni]
 
     def obtener_artista_id(self,_id:str):
         return self.obtener_recursos(_id,tipo_busqueda="artists")
