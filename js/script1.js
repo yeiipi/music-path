@@ -1,9 +1,9 @@
 
 
-
-let name = 'CompadresRecerdos';
+let N = 'Sonic Youth';
+let name = N.replace(' ','')
 let rec = '2';
- d3.select('h2').text("Relaciones de " + name);
+d3.select('h2').text("Relaciones de " + "<<" +N+">>");
 
 
 let svg = d3.select('svg#simulacion-principal');
