@@ -1,6 +1,6 @@
 
 
-let N = 'Sonic Youth';
+let N = 'Las Bistecs';
 let name = N.replace(' ','')
 let rec = '2';
 d3.select('h2').text("Relaciones de " + "<<" +N+">>");
