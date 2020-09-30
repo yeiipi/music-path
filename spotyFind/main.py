@@ -30,6 +30,8 @@ while nivel_recurcion < 0:
 artistas = []
 # diccionario principal | 22.09.2020 | jpi
 data = { 'nodes':[], 'links':[], 'generos':[]}
+# saber cuantas veces se ha intentado crear un nuevo artista | 30.09.2020 | jpi
+contando_problemas = 0
 
 
 # Agrega generos únicos al json | 26.09.2020 | jpi
@@ -50,6 +52,7 @@ def relacionar(artista1:dict,artista2:dict):
     global artistas
     global data
 
+
     data['links'].append(nueva_relación(artista1['id'],artista2['id']))
     agregar_unico(artista1)
     agregar_unico(artista2)
@@ -61,6 +64,8 @@ def agregar_unico(art:dict):
 
     global artistas
     global data
+    global contando_problemas
+
 
     # verificar que el artista no esté en la base de datos completa | 22.09.2020 | jpi
     try:
@@ -80,6 +85,12 @@ def agregar_unico(art:dict):
     # Agregar generos al json | 26.09.2020 | jpi
     agregar_genero(art['genres'])
 
+    # display cuantos artistas se han intentado crear | 30.09.2020 | jpi
+    contando_problemas += 1
+    n = 10
+    if ( contando_problemas%n==0 ):
+        print(f"Se han hecho {contando_problemas} llamados")
+
 
 
 # Recursive artist funtion | 18.09.2020 | jpi
@@ -89,7 +100,6 @@ def buscando_problemas(count:int,artist:dict):
     global spotify
     global artistas
     global data
-    global contando_problemas
 
 
     # Agregar artista individual a la base de datos | 18.09.2020 | jpi
@@ -108,14 +118,14 @@ def buscando_problemas(count:int,artist:dict):
                 relacionar(artist,i)
                 buscando_problemas(count-1,i)
         except KeyError:
-            print('buscando_problemas(): error corriendo hijos 1')
+            raise Exception('buscando_problemas(): error corriendo hijos <if>')
     else:
         # Recorriendo hijos | 18.09.2020 | jpi
         try:
             for i in related['artists']:
                 relacionar(artist,i)
         except KeyError:
-            print('buscando_problemas(): error corriendo hijos 2')
+            raise Exception('buscando_problemas(): error corriendo hijos <else>')
 
 
 # main function | 18.09.2020 | jpi
@@ -136,6 +146,7 @@ def main():
 
     print(f"buscando artistas y generando relaciones de {art['name']}...")
 
+    print(f"Se han hecho {contando_problemas} llamados")
     buscando_problemas(nivel_recurcion,artist1)
     print("tarea terminada!!!")
     descripcion =  f"{art['name']}\n"
@@ -146,7 +157,7 @@ def main():
     print(descripcion)
     mandalo_para_el_json(nivel_recurcion,data,artist1['name'])
     end = time.time()
-    print(end-start)
+    print(f"tiempo:{end-start}")
 
 
 

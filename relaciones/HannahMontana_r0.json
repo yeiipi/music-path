@@ -1,0 +1,360 @@
+{
+    "generos": [
+        "dance pop",
+        "pop",
+        "post-teen pop",
+        "viral pop",
+        "disney",
+        "girl group",
+        "pop rap",
+        "boy band",
+        "pop rock",
+        "social media pop",
+        "europop",
+        "electropop",
+        "indie poptimism"
+    ],
+    "links": [
+        {
+            "source": "7nU4hB040gTmHm45YYMvqc",
+            "target": "4D4d4SGHSnXy5TxqhfDl3H"
+        },
+        {
+            "source": "7nU4hB040gTmHm45YYMvqc",
+            "target": "4ntkql3f3ect7NDRUJ7aAY"
+        },
+        {
+            "source": "7nU4hB040gTmHm45YYMvqc",
+            "target": "6G9bygHlCyPgNGxK2l3YdE"
+        },
+        {
+            "source": "7nU4hB040gTmHm45YYMvqc",
+            "target": "3SYGWAHCe31oykdeUPpoJp"
+        },
+        {
+            "source": "7nU4hB040gTmHm45YYMvqc",
+            "target": "6dJeKm76NjfXBNTpHmOhfO"
+        },
+        {
+            "source": "7nU4hB040gTmHm45YYMvqc",
+            "target": "533HtQP5btWIZcKlHJtEWK"
+        },
+        {
+            "source": "7nU4hB040gTmHm45YYMvqc",
+            "target": "2ddxtfC0oS8LoktXUHE7YL"
+        },
+        {
+            "source": "7nU4hB040gTmHm45YYMvqc",
+            "target": "3IcF2f5vEkY6HPQfLlQDlw"
+        },
+        {
+            "source": "7nU4hB040gTmHm45YYMvqc",
+            "target": "7rPQ2z1ji1ctJ6oGYBAo6M"
+        },
+        {
+            "source": "7nU4hB040gTmHm45YYMvqc",
+            "target": "7gOdHgIoIKoe4i9Tta6qdD"
+        },
+        {
+            "source": "7nU4hB040gTmHm45YYMvqc",
+            "target": "1KYszkVzlhV3rAqmAcYIgd"
+        },
+        {
+            "source": "7nU4hB040gTmHm45YYMvqc",
+            "target": "4VhL8KLjVso4vLfOLVViTb"
+        },
+        {
+            "source": "7nU4hB040gTmHm45YYMvqc",
+            "target": "2S9W9aSAd7e5mp8WqWxN2h"
+        },
+        {
+            "source": "7nU4hB040gTmHm45YYMvqc",
+            "target": "4Rxn7Im3LGfyRkY2FlHhWi"
+        },
+        {
+            "source": "7nU4hB040gTmHm45YYMvqc",
+            "target": "2gUMs9PE8XZVQyzCDqaYmW"
+        },
+        {
+            "source": "7nU4hB040gTmHm45YYMvqc",
+            "target": "0GWCNkPi54upO9WLlwjAHd"
+        },
+        {
+            "source": "7nU4hB040gTmHm45YYMvqc",
+            "target": "5wugb0kaq0J6nyQ5Xgd17i"
+        },
+        {
+            "source": "7nU4hB040gTmHm45YYMvqc",
+            "target": "6SvFyXN6qzhw95Bj4HoevV"
+        },
+        {
+            "source": "7nU4hB040gTmHm45YYMvqc",
+            "target": "1JfkqBTXs6VC3JZ7RJNu7h"
+        },
+        {
+            "source": "7nU4hB040gTmHm45YYMvqc",
+            "target": "5ywxtrr3mhjBezbQAsGiFW"
+        }
+    ],
+    "nodes": [
+        {
+            "generos": [
+                "dance pop",
+                "pop",
+                "post-teen pop",
+                "viral pop"
+            ],
+            "id": "7nU4hB040gTmHm45YYMvqc",
+            "img_url": "https://i.scdn.co/image/1bb652996764243c1d963008898de2ab514b4796",
+            "nombre": "Hannah Montana",
+            "popularidad": 69,
+            "seguidores": 2975187
+        },
+        {
+            "generos": [
+                "post-teen pop"
+            ],
+            "id": "4D4d4SGHSnXy5TxqhfDl3H",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b27315611de6c4e099208f73cb3b",
+            "nombre": "Meaghan Martin",
+            "popularidad": 49,
+            "seguidores": 62223
+        },
+        {
+            "generos": [
+                "dance pop",
+                "disney",
+                "girl group",
+                "pop",
+                "post-teen pop"
+            ],
+            "id": "4ntkql3f3ect7NDRUJ7aAY",
+            "img_url": "https://i.scdn.co/image/f2eeb7a060f9071a8a7b33170c80d1abd03b1836",
+            "nombre": "The Cheetah Girls",
+            "popularidad": 53,
+            "seguidores": 517273
+        },
+        {
+            "generos": [
+                "dance pop",
+                "pop",
+                "post-teen pop",
+                "viral pop"
+            ],
+            "id": "6G9bygHlCyPgNGxK2l3YdE",
+            "img_url": "https://i.scdn.co/image/d069c20515bc253f807a447c195e785beec89b47",
+            "nombre": "Vanessa Hudgens",
+            "popularidad": 66,
+            "seguidores": 1388061
+        },
+        {
+            "generos": [
+                "dance pop",
+                "post-teen pop",
+                "viral pop"
+            ],
+            "id": "3SYGWAHCe31oykdeUPpoJp",
+            "img_url": "https://i.scdn.co/image/373d8256edbe4a85bf8212817b96471cef4af400",
+            "nombre": "Miranda Cosgrove",
+            "popularidad": 52,
+            "seguidores": 855298
+        },
+        {
+            "generos": [
+                "dance pop",
+                "pop",
+                "pop rap",
+                "post-teen pop",
+                "viral pop"
+            ],
+            "id": "6dJeKm76NjfXBNTpHmOhfO",
+            "img_url": "https://i.scdn.co/image/469b6a74f5ddca9560e9f5137842e3772c8576c0",
+            "nombre": "Selena Gomez & The Scene",
+            "popularidad": 71,
+            "seguidores": 5786408
+        },
+        {
+            "generos": [
+                "dance pop",
+                "pop",
+                "post-teen pop"
+            ],
+            "id": "533HtQP5btWIZcKlHJtEWK",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b273539aebe087c97947e8b3c581",
+            "nombre": "Christopher Wilde",
+            "popularidad": 59,
+            "seguidores": 131413
+        },
+        {
+            "generos": [
+                "dance pop",
+                "pop",
+                "post-teen pop",
+                "viral pop"
+            ],
+            "id": "2ddxtfC0oS8LoktXUHE7YL",
+            "img_url": "https://i.scdn.co/image/6547d73479bc4e160a2a2c818502396f7315f259",
+            "nombre": "Ashley Tisdale",
+            "popularidad": 60,
+            "seguidores": 893552
+        },
+        {
+            "generos": [
+                "post-teen pop"
+            ],
+            "id": "3IcF2f5vEkY6HPQfLlQDlw",
+            "img_url": "https://i.scdn.co/image/564c05b718825f646453e7c3f62a9a055fa864ed",
+            "nombre": "Mitchel Musso",
+            "popularidad": 39,
+            "seguidores": 238788
+        },
+        {
+            "generos": [
+                "post-teen pop"
+            ],
+            "id": "7rPQ2z1ji1ctJ6oGYBAo6M",
+            "img_url": "https://i.scdn.co/image/fe7fe2cc4ded44d6a2568033a899285f347e7a64",
+            "nombre": "Emily Osment",
+            "popularidad": 47,
+            "seguidores": 529465
+        },
+        {
+            "generos": [
+                "boy band",
+                "dance pop",
+                "pop",
+                "pop rock",
+                "post-teen pop"
+            ],
+            "id": "7gOdHgIoIKoe4i9Tta6qdD",
+            "img_url": "https://i.scdn.co/image/81415a47bf49148ed333cba4765551f4da5d7d30",
+            "nombre": "Jonas Brothers",
+            "popularidad": 83,
+            "seguidores": 4537082
+        },
+        {
+            "generos": [
+                "dance pop",
+                "post-teen pop",
+                "social media pop",
+                "viral pop"
+            ],
+            "id": "1KYszkVzlhV3rAqmAcYIgd",
+            "img_url": "https://i.scdn.co/image/a14453943d48ffbc59b889bf6b10a80bb6e5c573",
+            "nombre": "Victorious Cast",
+            "popularidad": 67,
+            "seguidores": 1324390
+        },
+        {
+            "generos": [
+                "dance pop",
+                "pop",
+                "post-teen pop",
+                "social media pop",
+                "viral pop"
+            ],
+            "id": "4VhL8KLjVso4vLfOLVViTb",
+            "img_url": "https://i.scdn.co/image/15a06f87de0d12b22f062d257631dcd5a1ecc753",
+            "nombre": "Bridgit Mendler",
+            "popularidad": 67,
+            "seguidores": 1084670
+        },
+        {
+            "generos": [
+                "dance pop",
+                "europop",
+                "pop",
+                "post-teen pop"
+            ],
+            "id": "2S9W9aSAd7e5mp8WqWxN2h",
+            "img_url": "https://i.scdn.co/image/2b46c43a2c8d3af23f3183299c2070c2d42ad039",
+            "nombre": "Hilary Duff",
+            "popularidad": 61,
+            "seguidores": 1665651
+        },
+        {
+            "generos": [
+                "dance pop",
+                "pop",
+                "post-teen pop",
+                "viral pop"
+            ],
+            "id": "4Rxn7Im3LGfyRkY2FlHhWi",
+            "img_url": "https://i.scdn.co/image/2ec2b90705392f28dbb01bd8900cadbb0f696d88",
+            "nombre": "Nick Jonas",
+            "popularidad": 72,
+            "seguidores": 6600834
+        },
+        {
+            "generos": [
+                "dance pop",
+                "post-teen pop"
+            ],
+            "id": "2gUMs9PE8XZVQyzCDqaYmW",
+            "img_url": "https://i.scdn.co/image/77b1746fba24b9bb6395b7574a12841491ebb800",
+            "nombre": "High School Musical Cast",
+            "popularidad": 69,
+            "seguidores": 1159515
+        },
+        {
+            "generos": [
+                "boy band",
+                "dance pop",
+                "pop",
+                "post-teen pop"
+            ],
+            "id": "0GWCNkPi54upO9WLlwjAHd",
+            "img_url": "https://i.scdn.co/image/1c72dce35a2e8d340dea9f567ffa137180f45769",
+            "nombre": "Big Time Rush",
+            "popularidad": 68,
+            "seguidores": 1909564
+        },
+        {
+            "generos": [
+                "dance pop",
+                "electropop",
+                "girl group",
+                "indie poptimism",
+                "pop",
+                "post-teen pop"
+            ],
+            "id": "5wugb0kaq0J6nyQ5Xgd17i",
+            "img_url": "https://i.scdn.co/image/ca32ba04d027f26f88fcec40530a10bdb040f85e",
+            "nombre": "Aly & AJ",
+            "popularidad": 59,
+            "seguidores": 394380
+        },
+        {
+            "generos": [
+                "disney",
+                "post-teen pop",
+                "social media pop"
+            ],
+            "id": "6SvFyXN6qzhw95Bj4HoevV",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b2736ebdfeb558e6846170816f98",
+            "nombre": "China Anne McClain",
+            "popularidad": 67,
+            "seguidores": 527240
+        },
+        {
+            "generos": [
+                "post-teen pop"
+            ],
+            "id": "1JfkqBTXs6VC3JZ7RJNu7h",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b273a3819cee432f773a8df57445",
+            "nombre": "Jordan Pruitt",
+            "popularidad": 39,
+            "seguidores": 158123
+        },
+        {
+            "generos": [
+                "post-teen pop"
+            ],
+            "id": "5ywxtrr3mhjBezbQAsGiFW",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b273e89225ab3f593e79d3a7734d",
+            "nombre": "Anna Margaret",
+            "popularidad": 46,
+            "seguidores": 50110
+        }
+    ]
+}

@@ -1,0 +1,480 @@
+{
+    "generos": [
+        "acid rock",
+        "album rock",
+        "classic rock",
+        "psychedelic rock",
+        "rock",
+        "folk rock",
+        "roots rock",
+        "blues rock",
+        "art rock",
+        "british blues",
+        "british invasion",
+        "country rock",
+        "electric blues",
+        "hard rock",
+        "merseybeat",
+        "protopunk",
+        "supergroup",
+        "classic canadian rock",
+        "mellow gold",
+        "blues",
+        "alternative rock",
+        "melancholia",
+        "permanent wave",
+        "dance rock",
+        "glam rock",
+        "experimental",
+        "outsider",
+        "psychedelic folk",
+        "brill building pop",
+        "british folk",
+        "folk",
+        "scottish singer-songwriter",
+        "traditional folk",
+        "baroque pop",
+        "bubblegum pop",
+        "metal"
+    ],
+    "links": [
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "1QB4oo4JbSRdxNyidIuD0W"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "2qFr8w5sWUITRlzZ9kZotF"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "776Uo845nYHJpNaStv1Ds4"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "2lxX1ivRYp26soIavdG9bX"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "3ICflSq6ZgYAIrm2CTkfVP"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "74oJ4qxwOZvX6oSsu1DGnw"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "1WRM9i067hd2ujxxi8FI3m"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "36QJpDe2go2KgaRleHCDTp"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "67ea9eGLXYMsO2eYQRui3w"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "27a0GiCba9K9lnkKidroFU"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "1SQRv42e4PjEYfPhS0Tk9E"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "6Lt3HS8R2v8Q4G7ZkUWa8R"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "6vLlQYujOujIrm7zAKzEdG"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "2jgPkn6LuUazBoBk6vvjh5"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "3Q6OOkfssqoMSTtl11J5Uk"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "568ZhdwyaiCyOGJRtNYhWf"
+        }
+    ],
+    "nodes": [
+        {
+            "generos": [
+                "acid rock",
+                "album rock",
+                "classic rock",
+                "psychedelic rock",
+                "rock"
+            ],
+            "id": "22WZ7M8sxp5THdruNY3gXt",
+            "img_url": "https://i.scdn.co/image/b8c3d75acf2d800defb05b8515445e6d064c97d5",
+            "nombre": "The Doors",
+            "popularidad": 77,
+            "seguidores": 5246040
+        },
+        {
+            "generos": [
+                "classic rock",
+                "psychedelic rock"
+            ],
+            "id": "1QB4oo4JbSRdxNyidIuD0W",
+            "img_url": "https://i.scdn.co/image/3010121a2fdfae58a270eb399bace970d89ddc6a",
+            "nombre": "Jim Morrison",
+            "popularidad": 53,
+            "seguidores": 1083546
+        },
+        {
+            "generos": [
+                "acid rock",
+                "classic rock",
+                "folk rock",
+                "psychedelic rock",
+                "rock",
+                "roots rock"
+            ],
+            "id": "2qFr8w5sWUITRlzZ9kZotF",
+            "img_url": "https://i.scdn.co/image/a9ae31801b767795dd3060e5529478e534b02c16",
+            "nombre": "Jefferson Airplane",
+            "popularidad": 65,
+            "seguidores": 1035130
+        },
+        {
+            "generos": [
+                "blues rock",
+                "classic rock",
+                "psychedelic rock",
+                "rock"
+            ],
+            "id": "4NgfOZCL9Ml67xzM0xzIvC",
+            "img_url": "https://i.scdn.co/image/f3f55519d6fc2a6fd2bed247b9dc9fdc72365272",
+            "nombre": "Janis Joplin",
+            "popularidad": 69,
+            "seguidores": 2254235
+        },
+        {
+            "generos": [
+                "acid rock",
+                "blues rock",
+                "classic rock",
+                "psychedelic rock",
+                "rock"
+            ],
+            "id": "776Uo845nYHJpNaStv1Ds4",
+            "img_url": "https://i.scdn.co/image/14ce65949a921e76421a0164c17f9ebe0a8d76e8",
+            "nombre": "Jimi Hendrix",
+            "popularidad": 77,
+            "seguidores": 4425446
+        },
+        {
+            "generos": [
+                "album rock",
+                "art rock",
+                "blues rock",
+                "british blues",
+                "british invasion",
+                "classic rock",
+                "country rock",
+                "electric blues",
+                "folk rock",
+                "hard rock",
+                "merseybeat",
+                "psychedelic rock",
+                "rock",
+                "roots rock"
+            ],
+            "id": "2lxX1ivRYp26soIavdG9bX",
+            "img_url": "https://i.scdn.co/image/387ef350db933ccaf6fd0b5bfd2837841bc6b835",
+            "nombre": "The Yardbirds",
+            "popularidad": 55,
+            "seguidores": 603677
+        },
+        {
+            "generos": [
+                "album rock",
+                "blues rock",
+                "british invasion",
+                "classic rock",
+                "folk rock",
+                "protopunk",
+                "psychedelic rock",
+                "rock"
+            ],
+            "id": "3ICflSq6ZgYAIrm2CTkfVP",
+            "img_url": "https://i.scdn.co/image/2e9b8578db053adb6415648321db2f25a99bdcfb",
+            "nombre": "The Animals",
+            "popularidad": 69,
+            "seguidores": 1546626
+        },
+        {
+            "generos": [
+                "album rock",
+                "art rock",
+                "blues rock",
+                "classic rock",
+                "folk rock",
+                "hard rock",
+                "psychedelic rock",
+                "rock",
+                "roots rock",
+                "supergroup"
+            ],
+            "id": "74oJ4qxwOZvX6oSsu1DGnw",
+            "img_url": "https://i.scdn.co/image/aab6a0a0e9ca2ab17460b0451e59ba507cc5802a",
+            "nombre": "Cream",
+            "popularidad": 69,
+            "seguidores": 1450604
+        },
+        {
+            "generos": [
+                "acid rock",
+                "album rock",
+                "blues rock",
+                "classic canadian rock",
+                "classic rock",
+                "country rock",
+                "folk rock",
+                "hard rock",
+                "mellow gold",
+                "psychedelic rock",
+                "rock",
+                "roots rock"
+            ],
+            "id": "1WRM9i067hd2ujxxi8FI3m",
+            "img_url": "https://i.scdn.co/image/8208d86ed91c50bc9ffbf8f436c6e323e6bda480",
+            "nombre": "Steppenwolf",
+            "popularidad": 67,
+            "seguidores": 941612
+        },
+        {
+            "generos": [
+                "blues rock",
+                "classic rock",
+                "folk rock",
+                "psychedelic rock",
+                "rock"
+            ],
+            "id": "4J69yWrKwWJgjv3DKTZcGo",
+            "img_url": "https://i.scdn.co/image/56a67407bd06fafd93756d4bb827c4ac74b4ecde",
+            "nombre": "Big Brother & The Holding Company",
+            "popularidad": 61,
+            "seguidores": 166321
+        },
+        {
+            "generos": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "rock"
+            ],
+            "id": "36QJpDe2go2KgaRleHCDTp",
+            "img_url": "https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e",
+            "nombre": "Led Zeppelin",
+            "popularidad": 82,
+            "seguidores": 9567097
+        },
+        {
+            "generos": [
+                "album rock",
+                "art rock",
+                "british invasion",
+                "classic rock",
+                "folk rock",
+                "hard rock",
+                "mellow gold",
+                "rock",
+                "roots rock"
+            ],
+            "id": "67ea9eGLXYMsO2eYQRui3w",
+            "img_url": "https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150",
+            "nombre": "The Who",
+            "popularidad": 74,
+            "seguidores": 3564612
+        },
+        {
+            "generos": [
+                "album rock",
+                "blues",
+                "blues rock",
+                "classic rock",
+                "country rock",
+                "electric blues",
+                "folk rock",
+                "hard rock",
+                "psychedelic rock",
+                "rock",
+                "roots rock"
+            ],
+            "id": "27a0GiCba9K9lnkKidroFU",
+            "img_url": "https://i.scdn.co/image/a1deb96bb21507083772aa2e019a2c4a51a1ef00",
+            "nombre": "Canned Heat",
+            "popularidad": 60,
+            "seguidores": 365450
+        },
+        {
+            "generos": [
+                "alternative rock",
+                "art rock",
+                "classic rock",
+                "folk rock",
+                "melancholia",
+                "permanent wave",
+                "protopunk",
+                "psychedelic rock",
+                "rock"
+            ],
+            "id": "1nJvji2KIlWSseXRSlNYsC",
+            "img_url": "https://i.scdn.co/image/d69c2cf10323bf08443c7d122f3a1824a760ab57",
+            "nombre": "The Velvet Underground",
+            "popularidad": 70,
+            "seguidores": 1171103
+        },
+        {
+            "generos": [
+                "album rock",
+                "art rock",
+                "british invasion",
+                "classic rock",
+                "dance rock",
+                "folk rock",
+                "glam rock",
+                "mellow gold",
+                "protopunk",
+                "rock"
+            ],
+            "id": "1SQRv42e4PjEYfPhS0Tk9E",
+            "img_url": "https://i.scdn.co/image/b2e933a1a7ae670aa2e217c79710fe2f18ebad3d",
+            "nombre": "The Kinks",
+            "popularidad": 72,
+            "seguidores": 1644005
+        },
+        {
+            "generos": [
+                "art rock",
+                "classic rock",
+                "experimental",
+                "folk rock",
+                "outsider",
+                "psychedelic folk",
+                "psychedelic rock"
+            ],
+            "id": "6Lt3HS8R2v8Q4G7ZkUWa8R",
+            "img_url": "https://i.scdn.co/image/f0cded2845369a436adb00b24c85d02b867d0f45",
+            "nombre": "Syd Barrett",
+            "popularidad": 47,
+            "seguidores": 214303
+        },
+        {
+            "generos": [
+                "album rock",
+                "british invasion",
+                "classic rock",
+                "rock"
+            ],
+            "id": "22bE4uQ6baNwSHPVcDxLCe",
+            "img_url": "https://i.scdn.co/image/85d9cb252ab4d8410d31820be40214c59f2597a1",
+            "nombre": "The Rolling Stones",
+            "popularidad": 84,
+            "seguidores": 9161346
+        },
+        {
+            "generos": [
+                "art rock",
+                "brill building pop",
+                "british folk",
+                "british invasion",
+                "classic rock",
+                "country rock",
+                "folk",
+                "folk rock",
+                "glam rock",
+                "mellow gold",
+                "psychedelic folk",
+                "psychedelic rock",
+                "rock",
+                "roots rock",
+                "scottish singer-songwriter",
+                "traditional folk"
+            ],
+            "id": "6vLlQYujOujIrm7zAKzEdG",
+            "img_url": "https://i.scdn.co/image/bf943d479f305acd31a977ccc8c17643ea51c3cb",
+            "nombre": "Donovan",
+            "popularidad": 62,
+            "seguidores": 445401
+        },
+        {
+            "generos": [
+                "art rock",
+                "baroque pop",
+                "brill building pop",
+                "british invasion",
+                "bubblegum pop",
+                "classic rock",
+                "folk rock",
+                "psychedelic rock",
+                "rock"
+            ],
+            "id": "2jgPkn6LuUazBoBk6vvjh5",
+            "img_url": "https://i.scdn.co/image/0cbe3a2c20fd93a28b74cbe7ee89c833818af93f",
+            "nombre": "The Zombies",
+            "popularidad": 63,
+            "seguidores": 572516
+        },
+        {
+            "generos": [
+                "acid rock",
+                "art rock",
+                "brill building pop",
+                "classic rock",
+                "country rock",
+                "dance rock",
+                "experimental",
+                "folk rock",
+                "psychedelic rock",
+                "rock",
+                "roots rock"
+            ],
+            "id": "3Q6OOkfssqoMSTtl11J5Uk",
+            "img_url": "https://i.scdn.co/image/6f8504b698fca4f375a05b3aa120856cdf09d433",
+            "nombre": "Love",
+            "popularidad": 59,
+            "seguidores": 147697
+        },
+        {
+            "generos": [
+                "album rock",
+                "blues rock",
+                "classic rock",
+                "hard rock",
+                "metal",
+                "rock"
+            ],
+            "id": "568ZhdwyaiCyOGJRtNYhWf",
+            "img_url": "https://i.scdn.co/image/d8dc5a44c417ae8ee8f0a5f45165172a27aed1ba",
+            "nombre": "Deep Purple",
+            "popularidad": 73,
+            "seguidores": 3420126
+        }
+    ]
+}

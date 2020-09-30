@@ -1,0 +1,4418 @@
+{
+    "generos": [
+        "acid rock",
+        "album rock",
+        "classic rock",
+        "psychedelic rock",
+        "rock",
+        "folk rock",
+        "roots rock",
+        "art rock",
+        "blues rock",
+        "hard rock",
+        "symphonic rock",
+        "british blues",
+        "british invasion",
+        "country rock",
+        "electric blues",
+        "merseybeat",
+        "experimental",
+        "outsider",
+        "psychedelic folk",
+        "classic garage rock",
+        "freakbeat",
+        "traditional folk",
+        "classic canadian rock",
+        "mellow gold",
+        "protopunk",
+        "supergroup",
+        "brill building pop",
+        "dance rock",
+        "bubblegum pop",
+        "sunshine pop",
+        "blues",
+        "british folk",
+        "folk",
+        "glam rock",
+        "scottish singer-songwriter",
+        "alternative rock",
+        "melancholia",
+        "permanent wave",
+        "neo-psychedelic",
+        "baroque pop",
+        "soft rock",
+        "canterbury scene",
+        "progressive rock",
+        "beatlesque",
+        "cosmic american",
+        "pub rock",
+        "modern blues",
+        "texas blues",
+        "jazz rock",
+        "instrumental rock",
+        "double drumming",
+        "jam band",
+        "southern rock",
+        "jazz fusion",
+        "memphis soul",
+        "soul blues",
+        "traditional blues",
+        "rock-and-roll",
+        "classic uk pop",
+        "rockabilly",
+        "adult standards",
+        "heartland rock",
+        "psychedelic blues-rock",
+        "metal",
+        "uk americana",
+        "birmingham metal",
+        "stoner rock",
+        "uk doom metal",
+        "pop rock",
+        "irish rock",
+        "glam metal",
+        "power pop",
+        "singer-songwriter",
+        "harmonica blues",
+        "chicago blues",
+        "rock keyboard",
+        "delta blues",
+        "memphis blues",
+        "soul",
+        "anti-folk",
+        "boston rock",
+        "indie rock",
+        "lo-fi",
+        "new wave",
+        "punk",
+        "punk blues",
+        "art punk",
+        "no wave",
+        "post-punk",
+        "garage rock",
+        "art pop",
+        "uk post-punk",
+        "dream pop",
+        "freak folk",
+        "gbvfi",
+        "indie pop",
+        "noise pop",
+        "nu gaze",
+        "shoegaze",
+        "slowcore",
+        "dance-punk",
+        "experimental rock",
+        "industrial",
+        "synth punk",
+        "post-hardcore",
+        "jangle pop",
+        "modern rock",
+        "madchester",
+        "krautrock",
+        "space rock",
+        "classic psychedelic rock",
+        "zolo",
+        "fourth world",
+        "swamp rock",
+        "power metal",
+        "speed metal",
+        "german hard rock",
+        "neo classical metal",
+        "german metal",
+        "thrash metal",
+        "nwobhm"
+    ],
+    "links": [
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "1QB4oo4JbSRdxNyidIuD0W"
+        },
+        {
+            "source": "1QB4oo4JbSRdxNyidIuD0W",
+            "target": "2qFr8w5sWUITRlzZ9kZotF"
+        },
+        {
+            "source": "1QB4oo4JbSRdxNyidIuD0W",
+            "target": "3cdvlbCYf4WoBdy89RWkNS"
+        },
+        {
+            "source": "1QB4oo4JbSRdxNyidIuD0W",
+            "target": "4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+            "source": "1QB4oo4JbSRdxNyidIuD0W",
+            "target": "2lxX1ivRYp26soIavdG9bX"
+        },
+        {
+            "source": "1QB4oo4JbSRdxNyidIuD0W",
+            "target": "22WZ7M8sxp5THdruNY3gXt"
+        },
+        {
+            "source": "1QB4oo4JbSRdxNyidIuD0W",
+            "target": "6Lt3HS8R2v8Q4G7ZkUWa8R"
+        },
+        {
+            "source": "1QB4oo4JbSRdxNyidIuD0W",
+            "target": "4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+            "source": "1QB4oo4JbSRdxNyidIuD0W",
+            "target": "0a63dfrxBQKqh160P8iUNL"
+        },
+        {
+            "source": "1QB4oo4JbSRdxNyidIuD0W",
+            "target": "1WRM9i067hd2ujxxi8FI3m"
+        },
+        {
+            "source": "1QB4oo4JbSRdxNyidIuD0W",
+            "target": "3ICflSq6ZgYAIrm2CTkfVP"
+        },
+        {
+            "source": "1QB4oo4JbSRdxNyidIuD0W",
+            "target": "74oJ4qxwOZvX6oSsu1DGnw"
+        },
+        {
+            "source": "1QB4oo4JbSRdxNyidIuD0W",
+            "target": "3Q6OOkfssqoMSTtl11J5Uk"
+        },
+        {
+            "source": "1QB4oo4JbSRdxNyidIuD0W",
+            "target": "1nyQBzKgZ2hBLr7PnyV7cI"
+        },
+        {
+            "source": "1QB4oo4JbSRdxNyidIuD0W",
+            "target": "27a0GiCba9K9lnkKidroFU"
+        },
+        {
+            "source": "1QB4oo4JbSRdxNyidIuD0W",
+            "target": "6vLlQYujOujIrm7zAKzEdG"
+        },
+        {
+            "source": "1QB4oo4JbSRdxNyidIuD0W",
+            "target": "1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+            "source": "1QB4oo4JbSRdxNyidIuD0W",
+            "target": "776Uo845nYHJpNaStv1Ds4"
+        },
+        {
+            "source": "1QB4oo4JbSRdxNyidIuD0W",
+            "target": "7DCnwoFMqGN6eZULdcLZeL"
+        },
+        {
+            "source": "1QB4oo4JbSRdxNyidIuD0W",
+            "target": "38ULknnQK6G4oLJtTtPkkM"
+        },
+        {
+            "source": "1QB4oo4JbSRdxNyidIuD0W",
+            "target": "2jgPkn6LuUazBoBk6vvjh5"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "2qFr8w5sWUITRlzZ9kZotF"
+        },
+        {
+            "source": "2qFr8w5sWUITRlzZ9kZotF",
+            "target": "7DCnwoFMqGN6eZULdcLZeL"
+        },
+        {
+            "source": "2qFr8w5sWUITRlzZ9kZotF",
+            "target": "0a63dfrxBQKqh160P8iUNL"
+        },
+        {
+            "source": "2qFr8w5sWUITRlzZ9kZotF",
+            "target": "4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+            "source": "2qFr8w5sWUITRlzZ9kZotF",
+            "target": "3cdvlbCYf4WoBdy89RWkNS"
+        },
+        {
+            "source": "2qFr8w5sWUITRlzZ9kZotF",
+            "target": "0NHSh9S0VQiFfsEFbvhRXN"
+        },
+        {
+            "source": "2qFr8w5sWUITRlzZ9kZotF",
+            "target": "3Q6OOkfssqoMSTtl11J5Uk"
+        },
+        {
+            "source": "2qFr8w5sWUITRlzZ9kZotF",
+            "target": "3eskO5m0H4yiF64vRySBjr"
+        },
+        {
+            "source": "2qFr8w5sWUITRlzZ9kZotF",
+            "target": "6vLlQYujOujIrm7zAKzEdG"
+        },
+        {
+            "source": "2qFr8w5sWUITRlzZ9kZotF",
+            "target": "2lxX1ivRYp26soIavdG9bX"
+        },
+        {
+            "source": "2qFr8w5sWUITRlzZ9kZotF",
+            "target": "1QB4oo4JbSRdxNyidIuD0W"
+        },
+        {
+            "source": "2qFr8w5sWUITRlzZ9kZotF",
+            "target": "5q9nLsvWwbSUW1kRyhZLAx"
+        },
+        {
+            "source": "2qFr8w5sWUITRlzZ9kZotF",
+            "target": "1nyQBzKgZ2hBLr7PnyV7cI"
+        },
+        {
+            "source": "2qFr8w5sWUITRlzZ9kZotF",
+            "target": "1CD77o9fbdyQFrHnUPUEsF"
+        },
+        {
+            "source": "2qFr8w5sWUITRlzZ9kZotF",
+            "target": "0vIMq3W8V63uR4Ymgm2pF1"
+        },
+        {
+            "source": "2qFr8w5sWUITRlzZ9kZotF",
+            "target": "1PCZpxHJz7WAMF8EEq8bfc"
+        },
+        {
+            "source": "2qFr8w5sWUITRlzZ9kZotF",
+            "target": "5U16QlMnlSAhkQxBZpLyLO"
+        },
+        {
+            "source": "2qFr8w5sWUITRlzZ9kZotF",
+            "target": "38ULknnQK6G4oLJtTtPkkM"
+        },
+        {
+            "source": "2qFr8w5sWUITRlzZ9kZotF",
+            "target": "1WRM9i067hd2ujxxi8FI3m"
+        },
+        {
+            "source": "2qFr8w5sWUITRlzZ9kZotF",
+            "target": "2z4eiJkDaXYCR9kv2UuSgz"
+        },
+        {
+            "source": "2qFr8w5sWUITRlzZ9kZotF",
+            "target": "6Lt3HS8R2v8Q4G7ZkUWa8R"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+            "source": "4NgfOZCL9Ml67xzM0xzIvC",
+            "target": "4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+            "source": "4NgfOZCL9Ml67xzM0xzIvC",
+            "target": "74oJ4qxwOZvX6oSsu1DGnw"
+        },
+        {
+            "source": "4NgfOZCL9Ml67xzM0xzIvC",
+            "target": "2lxX1ivRYp26soIavdG9bX"
+        },
+        {
+            "source": "4NgfOZCL9Ml67xzM0xzIvC",
+            "target": "27a0GiCba9K9lnkKidroFU"
+        },
+        {
+            "source": "4NgfOZCL9Ml67xzM0xzIvC",
+            "target": "1QB4oo4JbSRdxNyidIuD0W"
+        },
+        {
+            "source": "4NgfOZCL9Ml67xzM0xzIvC",
+            "target": "3ICflSq6ZgYAIrm2CTkfVP"
+        },
+        {
+            "source": "4NgfOZCL9Ml67xzM0xzIvC",
+            "target": "2qFr8w5sWUITRlzZ9kZotF"
+        },
+        {
+            "source": "4NgfOZCL9Ml67xzM0xzIvC",
+            "target": "776Uo845nYHJpNaStv1Ds4"
+        },
+        {
+            "source": "4NgfOZCL9Ml67xzM0xzIvC",
+            "target": "7nkLRaWHImCvWGHdNGnhVE"
+        },
+        {
+            "source": "4NgfOZCL9Ml67xzM0xzIvC",
+            "target": "1WRM9i067hd2ujxxi8FI3m"
+        },
+        {
+            "source": "4NgfOZCL9Ml67xzM0xzIvC",
+            "target": "22WZ7M8sxp5THdruNY3gXt"
+        },
+        {
+            "source": "4NgfOZCL9Ml67xzM0xzIvC",
+            "target": "2rc78XDH9zuJP6bm78lU8Z"
+        },
+        {
+            "source": "4NgfOZCL9Ml67xzM0xzIvC",
+            "target": "5GUVj2b1lJ4DolQyHlzyaO"
+        },
+        {
+            "source": "4NgfOZCL9Ml67xzM0xzIvC",
+            "target": "1CD77o9fbdyQFrHnUPUEsF"
+        },
+        {
+            "source": "4NgfOZCL9Ml67xzM0xzIvC",
+            "target": "3eskO5m0H4yiF64vRySBjr"
+        },
+        {
+            "source": "4NgfOZCL9Ml67xzM0xzIvC",
+            "target": "2ScuQMRWThcifBRIvNDFDC"
+        },
+        {
+            "source": "4NgfOZCL9Ml67xzM0xzIvC",
+            "target": "2ODUxmFxJSyvGiimNhMHbO"
+        },
+        {
+            "source": "4NgfOZCL9Ml67xzM0xzIvC",
+            "target": "3pFCERyEiP5xeN2EsPXhjI"
+        },
+        {
+            "source": "4NgfOZCL9Ml67xzM0xzIvC",
+            "target": "24GaH9tRBgZjlvOhpFuKi2"
+        },
+        {
+            "source": "4NgfOZCL9Ml67xzM0xzIvC",
+            "target": "3cdvlbCYf4WoBdy89RWkNS"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "776Uo845nYHJpNaStv1Ds4"
+        },
+        {
+            "source": "776Uo845nYHJpNaStv1Ds4",
+            "target": "74oJ4qxwOZvX6oSsu1DGnw"
+        },
+        {
+            "source": "776Uo845nYHJpNaStv1Ds4",
+            "target": "2lxX1ivRYp26soIavdG9bX"
+        },
+        {
+            "source": "776Uo845nYHJpNaStv1Ds4",
+            "target": "2rc78XDH9zuJP6bm78lU8Z"
+        },
+        {
+            "source": "776Uo845nYHJpNaStv1Ds4",
+            "target": "27a0GiCba9K9lnkKidroFU"
+        },
+        {
+            "source": "776Uo845nYHJpNaStv1Ds4",
+            "target": "1WRM9i067hd2ujxxi8FI3m"
+        },
+        {
+            "source": "776Uo845nYHJpNaStv1Ds4",
+            "target": "4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+            "source": "776Uo845nYHJpNaStv1Ds4",
+            "target": "2qFr8w5sWUITRlzZ9kZotF"
+        },
+        {
+            "source": "776Uo845nYHJpNaStv1Ds4",
+            "target": "22WZ7M8sxp5THdruNY3gXt"
+        },
+        {
+            "source": "776Uo845nYHJpNaStv1Ds4",
+            "target": "3ICflSq6ZgYAIrm2CTkfVP"
+        },
+        {
+            "source": "776Uo845nYHJpNaStv1Ds4",
+            "target": "5fsDcuclIe8ZiBD5P787K1"
+        },
+        {
+            "source": "776Uo845nYHJpNaStv1Ds4",
+            "target": "4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+            "source": "776Uo845nYHJpNaStv1Ds4",
+            "target": "7nkLRaWHImCvWGHdNGnhVE"
+        },
+        {
+            "source": "776Uo845nYHJpNaStv1Ds4",
+            "target": "4wQ3PyMz3WwJGI5uEqHUVR"
+        },
+        {
+            "source": "776Uo845nYHJpNaStv1Ds4",
+            "target": "1kcWyDvrlPUbyxkIoM6pAV"
+        },
+        {
+            "source": "776Uo845nYHJpNaStv1Ds4",
+            "target": "1CD77o9fbdyQFrHnUPUEsF"
+        },
+        {
+            "source": "776Uo845nYHJpNaStv1Ds4",
+            "target": "0AD4odMWVQ2wUSlgxOB5Rl"
+        },
+        {
+            "source": "776Uo845nYHJpNaStv1Ds4",
+            "target": "2ScuQMRWThcifBRIvNDFDC"
+        },
+        {
+            "source": "776Uo845nYHJpNaStv1Ds4",
+            "target": "36QJpDe2go2KgaRleHCDTp"
+        },
+        {
+            "source": "776Uo845nYHJpNaStv1Ds4",
+            "target": "5aygfDCEaX5KTZOxSCpT9o"
+        },
+        {
+            "source": "776Uo845nYHJpNaStv1Ds4",
+            "target": "2e53aHBQdCMKWqHDuyJsjC"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "2lxX1ivRYp26soIavdG9bX"
+        },
+        {
+            "source": "2lxX1ivRYp26soIavdG9bX",
+            "target": "3ICflSq6ZgYAIrm2CTkfVP"
+        },
+        {
+            "source": "2lxX1ivRYp26soIavdG9bX",
+            "target": "3i9hP422d2KMjaupTzBNVS"
+        },
+        {
+            "source": "2lxX1ivRYp26soIavdG9bX",
+            "target": "5GUVj2b1lJ4DolQyHlzyaO"
+        },
+        {
+            "source": "2lxX1ivRYp26soIavdG9bX",
+            "target": "70tMW5bZT3TJUa1CWtfVkq"
+        },
+        {
+            "source": "2lxX1ivRYp26soIavdG9bX",
+            "target": "1CD77o9fbdyQFrHnUPUEsF"
+        },
+        {
+            "source": "2lxX1ivRYp26soIavdG9bX",
+            "target": "5U16QlMnlSAhkQxBZpLyLO"
+        },
+        {
+            "source": "2lxX1ivRYp26soIavdG9bX",
+            "target": "74oJ4qxwOZvX6oSsu1DGnw"
+        },
+        {
+            "source": "2lxX1ivRYp26soIavdG9bX",
+            "target": "1WRM9i067hd2ujxxi8FI3m"
+        },
+        {
+            "source": "2lxX1ivRYp26soIavdG9bX",
+            "target": "5BaHqGtf6UAZnHfqdPaTDA"
+        },
+        {
+            "source": "2lxX1ivRYp26soIavdG9bX",
+            "target": "7DCnwoFMqGN6eZULdcLZeL"
+        },
+        {
+            "source": "2lxX1ivRYp26soIavdG9bX",
+            "target": "7nkLRaWHImCvWGHdNGnhVE"
+        },
+        {
+            "source": "2lxX1ivRYp26soIavdG9bX",
+            "target": "2CxLP749mup3ncPrXgCnvU"
+        },
+        {
+            "source": "2lxX1ivRYp26soIavdG9bX",
+            "target": "3cdvlbCYf4WoBdy89RWkNS"
+        },
+        {
+            "source": "2lxX1ivRYp26soIavdG9bX",
+            "target": "0a63dfrxBQKqh160P8iUNL"
+        },
+        {
+            "source": "2lxX1ivRYp26soIavdG9bX",
+            "target": "27a0GiCba9K9lnkKidroFU"
+        },
+        {
+            "source": "2lxX1ivRYp26soIavdG9bX",
+            "target": "1YqGsKpdixxSVgpfaL2AEQ"
+        },
+        {
+            "source": "2lxX1ivRYp26soIavdG9bX",
+            "target": "3eskO5m0H4yiF64vRySBjr"
+        },
+        {
+            "source": "2lxX1ivRYp26soIavdG9bX",
+            "target": "7MO151Amm0ur31ope7pLki"
+        },
+        {
+            "source": "2lxX1ivRYp26soIavdG9bX",
+            "target": "57xdnSVt4ahJCIXYLieQ25"
+        },
+        {
+            "source": "2lxX1ivRYp26soIavdG9bX",
+            "target": "6vLlQYujOujIrm7zAKzEdG"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "3ICflSq6ZgYAIrm2CTkfVP"
+        },
+        {
+            "source": "3ICflSq6ZgYAIrm2CTkfVP",
+            "target": "70tMW5bZT3TJUa1CWtfVkq"
+        },
+        {
+            "source": "3ICflSq6ZgYAIrm2CTkfVP",
+            "target": "2lxX1ivRYp26soIavdG9bX"
+        },
+        {
+            "source": "3ICflSq6ZgYAIrm2CTkfVP",
+            "target": "3i9hP422d2KMjaupTzBNVS"
+        },
+        {
+            "source": "3ICflSq6ZgYAIrm2CTkfVP",
+            "target": "6waa8mKu91GjzD4NlONlNJ"
+        },
+        {
+            "source": "3ICflSq6ZgYAIrm2CTkfVP",
+            "target": "7CCn4PFRRRZF127jtCBAUe"
+        },
+        {
+            "source": "3ICflSq6ZgYAIrm2CTkfVP",
+            "target": "2jgPkn6LuUazBoBk6vvjh5"
+        },
+        {
+            "source": "3ICflSq6ZgYAIrm2CTkfVP",
+            "target": "57xdnSVt4ahJCIXYLieQ25"
+        },
+        {
+            "source": "3ICflSq6ZgYAIrm2CTkfVP",
+            "target": "5BaHqGtf6UAZnHfqdPaTDA"
+        },
+        {
+            "source": "3ICflSq6ZgYAIrm2CTkfVP",
+            "target": "5670CyWrIOA7702gNjsGMZ"
+        },
+        {
+            "source": "3ICflSq6ZgYAIrm2CTkfVP",
+            "target": "6vLlQYujOujIrm7zAKzEdG"
+        },
+        {
+            "source": "3ICflSq6ZgYAIrm2CTkfVP",
+            "target": "2VIoWte1HPDbZ2WqHd2La7"
+        },
+        {
+            "source": "3ICflSq6ZgYAIrm2CTkfVP",
+            "target": "1YqGsKpdixxSVgpfaL2AEQ"
+        },
+        {
+            "source": "3ICflSq6ZgYAIrm2CTkfVP",
+            "target": "48YxSlb23RAaCd4RyHcV9V"
+        },
+        {
+            "source": "3ICflSq6ZgYAIrm2CTkfVP",
+            "target": "320EPCSEezHt1rtbfwH6Ck"
+        },
+        {
+            "source": "3ICflSq6ZgYAIrm2CTkfVP",
+            "target": "1SQRv42e4PjEYfPhS0Tk9E"
+        },
+        {
+            "source": "3ICflSq6ZgYAIrm2CTkfVP",
+            "target": "2qFr8w5sWUITRlzZ9kZotF"
+        },
+        {
+            "source": "3ICflSq6ZgYAIrm2CTkfVP",
+            "target": "1WRM9i067hd2ujxxi8FI3m"
+        },
+        {
+            "source": "3ICflSq6ZgYAIrm2CTkfVP",
+            "target": "01hRNr3yF5bYnPq4wZ88iI"
+        },
+        {
+            "source": "3ICflSq6ZgYAIrm2CTkfVP",
+            "target": "27a0GiCba9K9lnkKidroFU"
+        },
+        {
+            "source": "3ICflSq6ZgYAIrm2CTkfVP",
+            "target": "1PCZpxHJz7WAMF8EEq8bfc"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "74oJ4qxwOZvX6oSsu1DGnw"
+        },
+        {
+            "source": "74oJ4qxwOZvX6oSsu1DGnw",
+            "target": "2lxX1ivRYp26soIavdG9bX"
+        },
+        {
+            "source": "74oJ4qxwOZvX6oSsu1DGnw",
+            "target": "5GUVj2b1lJ4DolQyHlzyaO"
+        },
+        {
+            "source": "74oJ4qxwOZvX6oSsu1DGnw",
+            "target": "7nkLRaWHImCvWGHdNGnhVE"
+        },
+        {
+            "source": "74oJ4qxwOZvX6oSsu1DGnw",
+            "target": "1WRM9i067hd2ujxxi8FI3m"
+        },
+        {
+            "source": "74oJ4qxwOZvX6oSsu1DGnw",
+            "target": "2rc78XDH9zuJP6bm78lU8Z"
+        },
+        {
+            "source": "74oJ4qxwOZvX6oSsu1DGnw",
+            "target": "2e53aHBQdCMKWqHDuyJsjC"
+        },
+        {
+            "source": "74oJ4qxwOZvX6oSsu1DGnw",
+            "target": "1CD77o9fbdyQFrHnUPUEsF"
+        },
+        {
+            "source": "74oJ4qxwOZvX6oSsu1DGnw",
+            "target": "27a0GiCba9K9lnkKidroFU"
+        },
+        {
+            "source": "74oJ4qxwOZvX6oSsu1DGnw",
+            "target": "2qFr8w5sWUITRlzZ9kZotF"
+        },
+        {
+            "source": "74oJ4qxwOZvX6oSsu1DGnw",
+            "target": "2CxLP749mup3ncPrXgCnvU"
+        },
+        {
+            "source": "74oJ4qxwOZvX6oSsu1DGnw",
+            "target": "3cdvlbCYf4WoBdy89RWkNS"
+        },
+        {
+            "source": "74oJ4qxwOZvX6oSsu1DGnw",
+            "target": "3ICflSq6ZgYAIrm2CTkfVP"
+        },
+        {
+            "source": "74oJ4qxwOZvX6oSsu1DGnw",
+            "target": "2ScuQMRWThcifBRIvNDFDC"
+        },
+        {
+            "source": "74oJ4qxwOZvX6oSsu1DGnw",
+            "target": "7LCp4MN0SOIVWlssid9KyE"
+        },
+        {
+            "source": "74oJ4qxwOZvX6oSsu1DGnw",
+            "target": "776Uo845nYHJpNaStv1Ds4"
+        },
+        {
+            "source": "74oJ4qxwOZvX6oSsu1DGnw",
+            "target": "0AD4odMWVQ2wUSlgxOB5Rl"
+        },
+        {
+            "source": "74oJ4qxwOZvX6oSsu1DGnw",
+            "target": "0qEcf3SFlpRcb3lK3f2GZI"
+        },
+        {
+            "source": "74oJ4qxwOZvX6oSsu1DGnw",
+            "target": "3v4feUQnU3VEUqFrjmtekL"
+        },
+        {
+            "source": "74oJ4qxwOZvX6oSsu1DGnw",
+            "target": "1kcWyDvrlPUbyxkIoM6pAV"
+        },
+        {
+            "source": "74oJ4qxwOZvX6oSsu1DGnw",
+            "target": "5hfOHpGMsi8O3DA0ROLGqF"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "1WRM9i067hd2ujxxi8FI3m"
+        },
+        {
+            "source": "1WRM9i067hd2ujxxi8FI3m",
+            "target": "3cdvlbCYf4WoBdy89RWkNS"
+        },
+        {
+            "source": "1WRM9i067hd2ujxxi8FI3m",
+            "target": "0qEcf3SFlpRcb3lK3f2GZI"
+        },
+        {
+            "source": "1WRM9i067hd2ujxxi8FI3m",
+            "target": "7LCp4MN0SOIVWlssid9KyE"
+        },
+        {
+            "source": "1WRM9i067hd2ujxxi8FI3m",
+            "target": "5hfOHpGMsi8O3DA0ROLGqF"
+        },
+        {
+            "source": "1WRM9i067hd2ujxxi8FI3m",
+            "target": "2CxLP749mup3ncPrXgCnvU"
+        },
+        {
+            "source": "1WRM9i067hd2ujxxi8FI3m",
+            "target": "2lxX1ivRYp26soIavdG9bX"
+        },
+        {
+            "source": "1WRM9i067hd2ujxxi8FI3m",
+            "target": "2e53aHBQdCMKWqHDuyJsjC"
+        },
+        {
+            "source": "1WRM9i067hd2ujxxi8FI3m",
+            "target": "7nkLRaWHImCvWGHdNGnhVE"
+        },
+        {
+            "source": "1WRM9i067hd2ujxxi8FI3m",
+            "target": "27a0GiCba9K9lnkKidroFU"
+        },
+        {
+            "source": "1WRM9i067hd2ujxxi8FI3m",
+            "target": "6x33CmZWo2Ve4hxYl2Craq"
+        },
+        {
+            "source": "1WRM9i067hd2ujxxi8FI3m",
+            "target": "0GLvcqWIueXNjv3212pJAj"
+        },
+        {
+            "source": "1WRM9i067hd2ujxxi8FI3m",
+            "target": "74oJ4qxwOZvX6oSsu1DGnw"
+        },
+        {
+            "source": "1WRM9i067hd2ujxxi8FI3m",
+            "target": "5GUVj2b1lJ4DolQyHlzyaO"
+        },
+        {
+            "source": "1WRM9i067hd2ujxxi8FI3m",
+            "target": "1CD77o9fbdyQFrHnUPUEsF"
+        },
+        {
+            "source": "1WRM9i067hd2ujxxi8FI3m",
+            "target": "7DCnwoFMqGN6eZULdcLZeL"
+        },
+        {
+            "source": "1WRM9i067hd2ujxxi8FI3m",
+            "target": "0vIMq3W8V63uR4Ymgm2pF1"
+        },
+        {
+            "source": "1WRM9i067hd2ujxxi8FI3m",
+            "target": "3ICflSq6ZgYAIrm2CTkfVP"
+        },
+        {
+            "source": "1WRM9i067hd2ujxxi8FI3m",
+            "target": "2qFr8w5sWUITRlzZ9kZotF"
+        },
+        {
+            "source": "1WRM9i067hd2ujxxi8FI3m",
+            "target": "24GaH9tRBgZjlvOhpFuKi2"
+        },
+        {
+            "source": "1WRM9i067hd2ujxxi8FI3m",
+            "target": "5q4AzEtCoYJyXjMMoEkSU5"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+            "source": "4J69yWrKwWJgjv3DKTZcGo",
+            "target": "2qFr8w5sWUITRlzZ9kZotF"
+        },
+        {
+            "source": "4J69yWrKwWJgjv3DKTZcGo",
+            "target": "7DCnwoFMqGN6eZULdcLZeL"
+        },
+        {
+            "source": "4J69yWrKwWJgjv3DKTZcGo",
+            "target": "3cdvlbCYf4WoBdy89RWkNS"
+        },
+        {
+            "source": "4J69yWrKwWJgjv3DKTZcGo",
+            "target": "0a63dfrxBQKqh160P8iUNL"
+        },
+        {
+            "source": "4J69yWrKwWJgjv3DKTZcGo",
+            "target": "2lxX1ivRYp26soIavdG9bX"
+        },
+        {
+            "source": "4J69yWrKwWJgjv3DKTZcGo",
+            "target": "4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+            "source": "4J69yWrKwWJgjv3DKTZcGo",
+            "target": "1QB4oo4JbSRdxNyidIuD0W"
+        },
+        {
+            "source": "4J69yWrKwWJgjv3DKTZcGo",
+            "target": "27a0GiCba9K9lnkKidroFU"
+        },
+        {
+            "source": "4J69yWrKwWJgjv3DKTZcGo",
+            "target": "1WRM9i067hd2ujxxi8FI3m"
+        },
+        {
+            "source": "4J69yWrKwWJgjv3DKTZcGo",
+            "target": "74oJ4qxwOZvX6oSsu1DGnw"
+        },
+        {
+            "source": "4J69yWrKwWJgjv3DKTZcGo",
+            "target": "3ICflSq6ZgYAIrm2CTkfVP"
+        },
+        {
+            "source": "4J69yWrKwWJgjv3DKTZcGo",
+            "target": "1CD77o9fbdyQFrHnUPUEsF"
+        },
+        {
+            "source": "4J69yWrKwWJgjv3DKTZcGo",
+            "target": "5GUVj2b1lJ4DolQyHlzyaO"
+        },
+        {
+            "source": "4J69yWrKwWJgjv3DKTZcGo",
+            "target": "3eskO5m0H4yiF64vRySBjr"
+        },
+        {
+            "source": "4J69yWrKwWJgjv3DKTZcGo",
+            "target": "0NHSh9S0VQiFfsEFbvhRXN"
+        },
+        {
+            "source": "4J69yWrKwWJgjv3DKTZcGo",
+            "target": "7nkLRaWHImCvWGHdNGnhVE"
+        },
+        {
+            "source": "4J69yWrKwWJgjv3DKTZcGo",
+            "target": "3Q6OOkfssqoMSTtl11J5Uk"
+        },
+        {
+            "source": "4J69yWrKwWJgjv3DKTZcGo",
+            "target": "1nyQBzKgZ2hBLr7PnyV7cI"
+        },
+        {
+            "source": "4J69yWrKwWJgjv3DKTZcGo",
+            "target": "0vIMq3W8V63uR4Ymgm2pF1"
+        },
+        {
+            "source": "4J69yWrKwWJgjv3DKTZcGo",
+            "target": "6vLlQYujOujIrm7zAKzEdG"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "36QJpDe2go2KgaRleHCDTp"
+        },
+        {
+            "source": "36QJpDe2go2KgaRleHCDTp",
+            "target": "568ZhdwyaiCyOGJRtNYhWf"
+        },
+        {
+            "source": "36QJpDe2go2KgaRleHCDTp",
+            "target": "1OwarW4LEHnoep20ixRA0y"
+        },
+        {
+            "source": "36QJpDe2go2KgaRleHCDTp",
+            "target": "776Uo845nYHJpNaStv1Ds4"
+        },
+        {
+            "source": "36QJpDe2go2KgaRleHCDTp",
+            "target": "22WZ7M8sxp5THdruNY3gXt"
+        },
+        {
+            "source": "36QJpDe2go2KgaRleHCDTp",
+            "target": "74oJ4qxwOZvX6oSsu1DGnw"
+        },
+        {
+            "source": "36QJpDe2go2KgaRleHCDTp",
+            "target": "4MVyzYMgTwdP7Z49wAZHx0"
+        },
+        {
+            "source": "36QJpDe2go2KgaRleHCDTp",
+            "target": "67ea9eGLXYMsO2eYQRui3w"
+        },
+        {
+            "source": "36QJpDe2go2KgaRleHCDTp",
+            "target": "00tVTdpEhQQw1bqdu8RCx2"
+        },
+        {
+            "source": "36QJpDe2go2KgaRleHCDTp",
+            "target": "2AM4ilv6UzW0uMRuqKtDgN"
+        },
+        {
+            "source": "36QJpDe2go2KgaRleHCDTp",
+            "target": "5M52tdBnJaKSvOpJGz8mfZ"
+        },
+        {
+            "source": "36QJpDe2go2KgaRleHCDTp",
+            "target": "0qEcf3SFlpRcb3lK3f2GZI"
+        },
+        {
+            "source": "36QJpDe2go2KgaRleHCDTp",
+            "target": "1WRM9i067hd2ujxxi8FI3m"
+        },
+        {
+            "source": "36QJpDe2go2KgaRleHCDTp",
+            "target": "6QtGlUje9TIkLrgPZrESuk"
+        },
+        {
+            "source": "36QJpDe2go2KgaRleHCDTp",
+            "target": "5krkohEVJYw0qoB5VWwxaC"
+        },
+        {
+            "source": "36QJpDe2go2KgaRleHCDTp",
+            "target": "6biWAmrHyiMkX49LkycGqQ"
+        },
+        {
+            "source": "36QJpDe2go2KgaRleHCDTp",
+            "target": "21ysNsPzHdqYN2fQ75ZswG"
+        },
+        {
+            "source": "36QJpDe2go2KgaRleHCDTp",
+            "target": "2lxX1ivRYp26soIavdG9bX"
+        },
+        {
+            "source": "36QJpDe2go2KgaRleHCDTp",
+            "target": "4wQ3PyMz3WwJGI5uEqHUVR"
+        },
+        {
+            "source": "36QJpDe2go2KgaRleHCDTp",
+            "target": "22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+            "source": "36QJpDe2go2KgaRleHCDTp",
+            "target": "3EhbVgyfGd7HkpsagwL9GS"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "67ea9eGLXYMsO2eYQRui3w"
+        },
+        {
+            "source": "67ea9eGLXYMsO2eYQRui3w",
+            "target": "2lxX1ivRYp26soIavdG9bX"
+        },
+        {
+            "source": "67ea9eGLXYMsO2eYQRui3w",
+            "target": "24Wa5wIZIo1sPkzVGP0B5p"
+        },
+        {
+            "source": "67ea9eGLXYMsO2eYQRui3w",
+            "target": "1SQRv42e4PjEYfPhS0Tk9E"
+        },
+        {
+            "source": "67ea9eGLXYMsO2eYQRui3w",
+            "target": "74oJ4qxwOZvX6oSsu1DGnw"
+        },
+        {
+            "source": "67ea9eGLXYMsO2eYQRui3w",
+            "target": "3ICflSq6ZgYAIrm2CTkfVP"
+        },
+        {
+            "source": "67ea9eGLXYMsO2eYQRui3w",
+            "target": "1CD77o9fbdyQFrHnUPUEsF"
+        },
+        {
+            "source": "67ea9eGLXYMsO2eYQRui3w",
+            "target": "1WRM9i067hd2ujxxi8FI3m"
+        },
+        {
+            "source": "67ea9eGLXYMsO2eYQRui3w",
+            "target": "3v4feUQnU3VEUqFrjmtekL"
+        },
+        {
+            "source": "67ea9eGLXYMsO2eYQRui3w",
+            "target": "1YqGsKpdixxSVgpfaL2AEQ"
+        },
+        {
+            "source": "67ea9eGLXYMsO2eYQRui3w",
+            "target": "6QtGlUje9TIkLrgPZrESuk"
+        },
+        {
+            "source": "67ea9eGLXYMsO2eYQRui3w",
+            "target": "5bDxAyJiTYBat1YnFJhvEK"
+        },
+        {
+            "source": "67ea9eGLXYMsO2eYQRui3w",
+            "target": "0qEcf3SFlpRcb3lK3f2GZI"
+        },
+        {
+            "source": "67ea9eGLXYMsO2eYQRui3w",
+            "target": "2rc78XDH9zuJP6bm78lU8Z"
+        },
+        {
+            "source": "67ea9eGLXYMsO2eYQRui3w",
+            "target": "1PCZpxHJz7WAMF8EEq8bfc"
+        },
+        {
+            "source": "67ea9eGLXYMsO2eYQRui3w",
+            "target": "2qFr8w5sWUITRlzZ9kZotF"
+        },
+        {
+            "source": "67ea9eGLXYMsO2eYQRui3w",
+            "target": "3dBVyJ7JuOMt4GE9607Qin"
+        },
+        {
+            "source": "67ea9eGLXYMsO2eYQRui3w",
+            "target": "5q4AzEtCoYJyXjMMoEkSU5"
+        },
+        {
+            "source": "67ea9eGLXYMsO2eYQRui3w",
+            "target": "2e53aHBQdCMKWqHDuyJsjC"
+        },
+        {
+            "source": "67ea9eGLXYMsO2eYQRui3w",
+            "target": "00tVTdpEhQQw1bqdu8RCx2"
+        },
+        {
+            "source": "67ea9eGLXYMsO2eYQRui3w",
+            "target": "6vLlQYujOujIrm7zAKzEdG"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "27a0GiCba9K9lnkKidroFU"
+        },
+        {
+            "source": "27a0GiCba9K9lnkKidroFU",
+            "target": "7nkLRaWHImCvWGHdNGnhVE"
+        },
+        {
+            "source": "27a0GiCba9K9lnkKidroFU",
+            "target": "2ScuQMRWThcifBRIvNDFDC"
+        },
+        {
+            "source": "27a0GiCba9K9lnkKidroFU",
+            "target": "2ODUxmFxJSyvGiimNhMHbO"
+        },
+        {
+            "source": "27a0GiCba9K9lnkKidroFU",
+            "target": "5s4z3mRAE7nxE3jjft8J3h"
+        },
+        {
+            "source": "27a0GiCba9K9lnkKidroFU",
+            "target": "6kz7WuPaUa4QVreP27I33i"
+        },
+        {
+            "source": "27a0GiCba9K9lnkKidroFU",
+            "target": "2lxX1ivRYp26soIavdG9bX"
+        },
+        {
+            "source": "27a0GiCba9K9lnkKidroFU",
+            "target": "17obwOahRWI121iMUZznh2"
+        },
+        {
+            "source": "27a0GiCba9K9lnkKidroFU",
+            "target": "2CxLP749mup3ncPrXgCnvU"
+        },
+        {
+            "source": "27a0GiCba9K9lnkKidroFU",
+            "target": "1WRM9i067hd2ujxxi8FI3m"
+        },
+        {
+            "source": "27a0GiCba9K9lnkKidroFU",
+            "target": "5GUVj2b1lJ4DolQyHlzyaO"
+        },
+        {
+            "source": "27a0GiCba9K9lnkKidroFU",
+            "target": "49JvZ17o0VaAmXaJv5kZlv"
+        },
+        {
+            "source": "27a0GiCba9K9lnkKidroFU",
+            "target": "1CD77o9fbdyQFrHnUPUEsF"
+        },
+        {
+            "source": "27a0GiCba9K9lnkKidroFU",
+            "target": "2e53aHBQdCMKWqHDuyJsjC"
+        },
+        {
+            "source": "27a0GiCba9K9lnkKidroFU",
+            "target": "2rc78XDH9zuJP6bm78lU8Z"
+        },
+        {
+            "source": "27a0GiCba9K9lnkKidroFU",
+            "target": "3y1DgnVXqckGJrbwOKchdU"
+        },
+        {
+            "source": "27a0GiCba9K9lnkKidroFU",
+            "target": "06nsZ3qSOYZ2hPVIMcr1IN"
+        },
+        {
+            "source": "27a0GiCba9K9lnkKidroFU",
+            "target": "1kcWyDvrlPUbyxkIoM6pAV"
+        },
+        {
+            "source": "27a0GiCba9K9lnkKidroFU",
+            "target": "7DCnwoFMqGN6eZULdcLZeL"
+        },
+        {
+            "source": "27a0GiCba9K9lnkKidroFU",
+            "target": "5dCuFngSPyOOnTAvrC7v2s"
+        },
+        {
+            "source": "27a0GiCba9K9lnkKidroFU",
+            "target": "1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+            "source": "1nJvji2KIlWSseXRSlNYsC",
+            "target": "2eRdPaLHWAL4d1WcNUO9Vz"
+        },
+        {
+            "source": "1nJvji2KIlWSseXRSlNYsC",
+            "target": "0S7Zur2g8YhqlzqtlYStli"
+        },
+        {
+            "source": "1nJvji2KIlWSseXRSlNYsC",
+            "target": "42TFhl7WlMRXiNqzSrnzPL"
+        },
+        {
+            "source": "1nJvji2KIlWSseXRSlNYsC",
+            "target": "4BFMTELQyWJU1SwqcXMBm3"
+        },
+        {
+            "source": "1nJvji2KIlWSseXRSlNYsC",
+            "target": "0vYkHhJ48Bs3jWcvZXvOrP"
+        },
+        {
+            "source": "1nJvji2KIlWSseXRSlNYsC",
+            "target": "5MWBg16f5UYiaSlyVhzlIW"
+        },
+        {
+            "source": "1nJvji2KIlWSseXRSlNYsC",
+            "target": "3Q6OOkfssqoMSTtl11J5Uk"
+        },
+        {
+            "source": "1nJvji2KIlWSseXRSlNYsC",
+            "target": "0IwlY33zbBXN7zlS9DP2Cj"
+        },
+        {
+            "source": "1nJvji2KIlWSseXRSlNYsC",
+            "target": "6Lt3HS8R2v8Q4G7ZkUWa8R"
+        },
+        {
+            "source": "1nJvji2KIlWSseXRSlNYsC",
+            "target": "6guTJsgPymDUVfqDJyz5UG"
+        },
+        {
+            "source": "1nJvji2KIlWSseXRSlNYsC",
+            "target": "33EUXrFKGjpUSGacqEHhU4"
+        },
+        {
+            "source": "1nJvji2KIlWSseXRSlNYsC",
+            "target": "3dBVyJ7JuOMt4GE9607Qin"
+        },
+        {
+            "source": "1nJvji2KIlWSseXRSlNYsC",
+            "target": "6uVeWolwyRDrT84lLsaZyW"
+        },
+        {
+            "source": "1nJvji2KIlWSseXRSlNYsC",
+            "target": "2i8ynmFv4qgRksyDlBgi6d"
+        },
+        {
+            "source": "1nJvji2KIlWSseXRSlNYsC",
+            "target": "3UvcmAOZt64oKpP95f6MMM"
+        },
+        {
+            "source": "1nJvji2KIlWSseXRSlNYsC",
+            "target": "6hkch2KhRl0tywpeVK5xR5"
+        },
+        {
+            "source": "1nJvji2KIlWSseXRSlNYsC",
+            "target": "2jgPkn6LuUazBoBk6vvjh5"
+        },
+        {
+            "source": "1nJvji2KIlWSseXRSlNYsC",
+            "target": "3inCNiUr4R6XQ3W43s9Aqi"
+        },
+        {
+            "source": "1nJvji2KIlWSseXRSlNYsC",
+            "target": "6WoTvA9qinpHtSRJuldYh6"
+        },
+        {
+            "source": "1nJvji2KIlWSseXRSlNYsC",
+            "target": "4l8xPGtl6DHR2uvunqrl8r"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "1SQRv42e4PjEYfPhS0Tk9E"
+        },
+        {
+            "source": "1SQRv42e4PjEYfPhS0Tk9E",
+            "target": "2jgPkn6LuUazBoBk6vvjh5"
+        },
+        {
+            "source": "1SQRv42e4PjEYfPhS0Tk9E",
+            "target": "1YqGsKpdixxSVgpfaL2AEQ"
+        },
+        {
+            "source": "1SQRv42e4PjEYfPhS0Tk9E",
+            "target": "6vLlQYujOujIrm7zAKzEdG"
+        },
+        {
+            "source": "1SQRv42e4PjEYfPhS0Tk9E",
+            "target": "3ICflSq6ZgYAIrm2CTkfVP"
+        },
+        {
+            "source": "1SQRv42e4PjEYfPhS0Tk9E",
+            "target": "2lxX1ivRYp26soIavdG9bX"
+        },
+        {
+            "source": "1SQRv42e4PjEYfPhS0Tk9E",
+            "target": "7CCn4PFRRRZF127jtCBAUe"
+        },
+        {
+            "source": "1SQRv42e4PjEYfPhS0Tk9E",
+            "target": "6waa8mKu91GjzD4NlONlNJ"
+        },
+        {
+            "source": "1SQRv42e4PjEYfPhS0Tk9E",
+            "target": "3dBVyJ7JuOMt4GE9607Qin"
+        },
+        {
+            "source": "1SQRv42e4PjEYfPhS0Tk9E",
+            "target": "3Q6OOkfssqoMSTtl11J5Uk"
+        },
+        {
+            "source": "1SQRv42e4PjEYfPhS0Tk9E",
+            "target": "57xdnSVt4ahJCIXYLieQ25"
+        },
+        {
+            "source": "1SQRv42e4PjEYfPhS0Tk9E",
+            "target": "5BaHqGtf6UAZnHfqdPaTDA"
+        },
+        {
+            "source": "1SQRv42e4PjEYfPhS0Tk9E",
+            "target": "320EPCSEezHt1rtbfwH6Ck"
+        },
+        {
+            "source": "1SQRv42e4PjEYfPhS0Tk9E",
+            "target": "3i9hP422d2KMjaupTzBNVS"
+        },
+        {
+            "source": "1SQRv42e4PjEYfPhS0Tk9E",
+            "target": "1PCZpxHJz7WAMF8EEq8bfc"
+        },
+        {
+            "source": "1SQRv42e4PjEYfPhS0Tk9E",
+            "target": "4pJCawaKSZ40EnxN0YEYw3"
+        },
+        {
+            "source": "1SQRv42e4PjEYfPhS0Tk9E",
+            "target": "3v4feUQnU3VEUqFrjmtekL"
+        },
+        {
+            "source": "1SQRv42e4PjEYfPhS0Tk9E",
+            "target": "5670CyWrIOA7702gNjsGMZ"
+        },
+        {
+            "source": "1SQRv42e4PjEYfPhS0Tk9E",
+            "target": "5U16QlMnlSAhkQxBZpLyLO"
+        },
+        {
+            "source": "1SQRv42e4PjEYfPhS0Tk9E",
+            "target": "1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+            "source": "1SQRv42e4PjEYfPhS0Tk9E",
+            "target": "1bs7HoMkSyQwcobCpE9KpN"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "6Lt3HS8R2v8Q4G7ZkUWa8R"
+        },
+        {
+            "source": "6Lt3HS8R2v8Q4G7ZkUWa8R",
+            "target": "7xYxgSJaIf7yOFLmknYX38"
+        },
+        {
+            "source": "6Lt3HS8R2v8Q4G7ZkUWa8R",
+            "target": "5k5yIvxtsqHqWrRBF3nhSY"
+        },
+        {
+            "source": "6Lt3HS8R2v8Q4G7ZkUWa8R",
+            "target": "3Q6OOkfssqoMSTtl11J5Uk"
+        },
+        {
+            "source": "6Lt3HS8R2v8Q4G7ZkUWa8R",
+            "target": "5U16QlMnlSAhkQxBZpLyLO"
+        },
+        {
+            "source": "6Lt3HS8R2v8Q4G7ZkUWa8R",
+            "target": "1kkpNi8Ii5MhBMxmUhN5g9"
+        },
+        {
+            "source": "6Lt3HS8R2v8Q4G7ZkUWa8R",
+            "target": "0tQzBYPjAardhWpGkqVdNW"
+        },
+        {
+            "source": "6Lt3HS8R2v8Q4G7ZkUWa8R",
+            "target": "1nyQBzKgZ2hBLr7PnyV7cI"
+        },
+        {
+            "source": "6Lt3HS8R2v8Q4G7ZkUWa8R",
+            "target": "2z4eiJkDaXYCR9kv2UuSgz"
+        },
+        {
+            "source": "6Lt3HS8R2v8Q4G7ZkUWa8R",
+            "target": "0a63dfrxBQKqh160P8iUNL"
+        },
+        {
+            "source": "6Lt3HS8R2v8Q4G7ZkUWa8R",
+            "target": "16gYwSgslBoQ1b6wfxoHOF"
+        },
+        {
+            "source": "6Lt3HS8R2v8Q4G7ZkUWa8R",
+            "target": "5pq14S4AFVXGSyYbIGJC6Q"
+        },
+        {
+            "source": "6Lt3HS8R2v8Q4G7ZkUWa8R",
+            "target": "2k8kY9zHUWxuTtwV4UutHw"
+        },
+        {
+            "source": "6Lt3HS8R2v8Q4G7ZkUWa8R",
+            "target": "38ULknnQK6G4oLJtTtPkkM"
+        },
+        {
+            "source": "6Lt3HS8R2v8Q4G7ZkUWa8R",
+            "target": "25e8CxfStX7gVfGIQL2qMd"
+        },
+        {
+            "source": "6Lt3HS8R2v8Q4G7ZkUWa8R",
+            "target": "5MWBg16f5UYiaSlyVhzlIW"
+        },
+        {
+            "source": "6Lt3HS8R2v8Q4G7ZkUWa8R",
+            "target": "5iksmHDN2qZQcgFfXqIXtT"
+        },
+        {
+            "source": "6Lt3HS8R2v8Q4G7ZkUWa8R",
+            "target": "6zHRqvws8dVeqL8D31ponr"
+        },
+        {
+            "source": "6Lt3HS8R2v8Q4G7ZkUWa8R",
+            "target": "6dP7OHshDvGHaNNSwunol4"
+        },
+        {
+            "source": "6Lt3HS8R2v8Q4G7ZkUWa8R",
+            "target": "7DCnwoFMqGN6eZULdcLZeL"
+        },
+        {
+            "source": "6Lt3HS8R2v8Q4G7ZkUWa8R",
+            "target": "5A0MH7JfEBEMySevsmauds"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+            "source": "22bE4uQ6baNwSHPVcDxLCe",
+            "target": "3ICflSq6ZgYAIrm2CTkfVP"
+        },
+        {
+            "source": "22bE4uQ6baNwSHPVcDxLCe",
+            "target": "776Uo845nYHJpNaStv1Ds4"
+        },
+        {
+            "source": "22bE4uQ6baNwSHPVcDxLCe",
+            "target": "3v4feUQnU3VEUqFrjmtekL"
+        },
+        {
+            "source": "22bE4uQ6baNwSHPVcDxLCe",
+            "target": "74oJ4qxwOZvX6oSsu1DGnw"
+        },
+        {
+            "source": "22bE4uQ6baNwSHPVcDxLCe",
+            "target": "2lxX1ivRYp26soIavdG9bX"
+        },
+        {
+            "source": "22bE4uQ6baNwSHPVcDxLCe",
+            "target": "67ea9eGLXYMsO2eYQRui3w"
+        },
+        {
+            "source": "22bE4uQ6baNwSHPVcDxLCe",
+            "target": "22WZ7M8sxp5THdruNY3gXt"
+        },
+        {
+            "source": "22bE4uQ6baNwSHPVcDxLCe",
+            "target": "1SQRv42e4PjEYfPhS0Tk9E"
+        },
+        {
+            "source": "22bE4uQ6baNwSHPVcDxLCe",
+            "target": "27a0GiCba9K9lnkKidroFU"
+        },
+        {
+            "source": "22bE4uQ6baNwSHPVcDxLCe",
+            "target": "7FIoB5PHdrMZVC3q2HE5MS"
+        },
+        {
+            "source": "22bE4uQ6baNwSHPVcDxLCe",
+            "target": "6QtGlUje9TIkLrgPZrESuk"
+        },
+        {
+            "source": "22bE4uQ6baNwSHPVcDxLCe",
+            "target": "4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+            "source": "22bE4uQ6baNwSHPVcDxLCe",
+            "target": "4vpDg7Y7fU982Ds30zawDA"
+        },
+        {
+            "source": "22bE4uQ6baNwSHPVcDxLCe",
+            "target": "36QJpDe2go2KgaRleHCDTp"
+        },
+        {
+            "source": "22bE4uQ6baNwSHPVcDxLCe",
+            "target": "293zczrfYafIItmnmM3coR"
+        },
+        {
+            "source": "22bE4uQ6baNwSHPVcDxLCe",
+            "target": "4x1nvY2FN8jxqAFA0DA02H"
+        },
+        {
+            "source": "22bE4uQ6baNwSHPVcDxLCe",
+            "target": "1WRM9i067hd2ujxxi8FI3m"
+        },
+        {
+            "source": "22bE4uQ6baNwSHPVcDxLCe",
+            "target": "3IYUhFvPQItj6xySrBmZkd"
+        },
+        {
+            "source": "22bE4uQ6baNwSHPVcDxLCe",
+            "target": "4wQ3PyMz3WwJGI5uEqHUVR"
+        },
+        {
+            "source": "22bE4uQ6baNwSHPVcDxLCe",
+            "target": "4tX2TplrkIP4v05BNC903e"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "6vLlQYujOujIrm7zAKzEdG"
+        },
+        {
+            "source": "6vLlQYujOujIrm7zAKzEdG",
+            "target": "3Q6OOkfssqoMSTtl11J5Uk"
+        },
+        {
+            "source": "6vLlQYujOujIrm7zAKzEdG",
+            "target": "2jgPkn6LuUazBoBk6vvjh5"
+        },
+        {
+            "source": "6vLlQYujOujIrm7zAKzEdG",
+            "target": "1PCZpxHJz7WAMF8EEq8bfc"
+        },
+        {
+            "source": "6vLlQYujOujIrm7zAKzEdG",
+            "target": "5U16QlMnlSAhkQxBZpLyLO"
+        },
+        {
+            "source": "6vLlQYujOujIrm7zAKzEdG",
+            "target": "7CCn4PFRRRZF127jtCBAUe"
+        },
+        {
+            "source": "6vLlQYujOujIrm7zAKzEdG",
+            "target": "2qFr8w5sWUITRlzZ9kZotF"
+        },
+        {
+            "source": "6vLlQYujOujIrm7zAKzEdG",
+            "target": "2lxX1ivRYp26soIavdG9bX"
+        },
+        {
+            "source": "6vLlQYujOujIrm7zAKzEdG",
+            "target": "3eskO5m0H4yiF64vRySBjr"
+        },
+        {
+            "source": "6vLlQYujOujIrm7zAKzEdG",
+            "target": "1nyQBzKgZ2hBLr7PnyV7cI"
+        },
+        {
+            "source": "6vLlQYujOujIrm7zAKzEdG",
+            "target": "0a63dfrxBQKqh160P8iUNL"
+        },
+        {
+            "source": "6vLlQYujOujIrm7zAKzEdG",
+            "target": "5BaHqGtf6UAZnHfqdPaTDA"
+        },
+        {
+            "source": "6vLlQYujOujIrm7zAKzEdG",
+            "target": "6zHRqvws8dVeqL8D31ponr"
+        },
+        {
+            "source": "6vLlQYujOujIrm7zAKzEdG",
+            "target": "57xdnSVt4ahJCIXYLieQ25"
+        },
+        {
+            "source": "6vLlQYujOujIrm7zAKzEdG",
+            "target": "1YqGsKpdixxSVgpfaL2AEQ"
+        },
+        {
+            "source": "6vLlQYujOujIrm7zAKzEdG",
+            "target": "1CD77o9fbdyQFrHnUPUEsF"
+        },
+        {
+            "source": "6vLlQYujOujIrm7zAKzEdG",
+            "target": "3i9hP422d2KMjaupTzBNVS"
+        },
+        {
+            "source": "6vLlQYujOujIrm7zAKzEdG",
+            "target": "3RTzAwFprBqiskp550eSJX"
+        },
+        {
+            "source": "6vLlQYujOujIrm7zAKzEdG",
+            "target": "6waa8mKu91GjzD4NlONlNJ"
+        },
+        {
+            "source": "6vLlQYujOujIrm7zAKzEdG",
+            "target": "2z4eiJkDaXYCR9kv2UuSgz"
+        },
+        {
+            "source": "6vLlQYujOujIrm7zAKzEdG",
+            "target": "0tQzBYPjAardhWpGkqVdNW"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "2jgPkn6LuUazBoBk6vvjh5"
+        },
+        {
+            "source": "2jgPkn6LuUazBoBk6vvjh5",
+            "target": "7CCn4PFRRRZF127jtCBAUe"
+        },
+        {
+            "source": "2jgPkn6LuUazBoBk6vvjh5",
+            "target": "6vLlQYujOujIrm7zAKzEdG"
+        },
+        {
+            "source": "2jgPkn6LuUazBoBk6vvjh5",
+            "target": "2VIoWte1HPDbZ2WqHd2La7"
+        },
+        {
+            "source": "2jgPkn6LuUazBoBk6vvjh5",
+            "target": "57xdnSVt4ahJCIXYLieQ25"
+        },
+        {
+            "source": "2jgPkn6LuUazBoBk6vvjh5",
+            "target": "3Q6OOkfssqoMSTtl11J5Uk"
+        },
+        {
+            "source": "2jgPkn6LuUazBoBk6vvjh5",
+            "target": "1bs7HoMkSyQwcobCpE9KpN"
+        },
+        {
+            "source": "2jgPkn6LuUazBoBk6vvjh5",
+            "target": "6waa8mKu91GjzD4NlONlNJ"
+        },
+        {
+            "source": "2jgPkn6LuUazBoBk6vvjh5",
+            "target": "5BaHqGtf6UAZnHfqdPaTDA"
+        },
+        {
+            "source": "2jgPkn6LuUazBoBk6vvjh5",
+            "target": "5U16QlMnlSAhkQxBZpLyLO"
+        },
+        {
+            "source": "2jgPkn6LuUazBoBk6vvjh5",
+            "target": "2lxX1ivRYp26soIavdG9bX"
+        },
+        {
+            "source": "2jgPkn6LuUazBoBk6vvjh5",
+            "target": "3ICflSq6ZgYAIrm2CTkfVP"
+        },
+        {
+            "source": "2jgPkn6LuUazBoBk6vvjh5",
+            "target": "3i9hP422d2KMjaupTzBNVS"
+        },
+        {
+            "source": "2jgPkn6LuUazBoBk6vvjh5",
+            "target": "1YqGsKpdixxSVgpfaL2AEQ"
+        },
+        {
+            "source": "2jgPkn6LuUazBoBk6vvjh5",
+            "target": "320EPCSEezHt1rtbfwH6Ck"
+        },
+        {
+            "source": "2jgPkn6LuUazBoBk6vvjh5",
+            "target": "1SQRv42e4PjEYfPhS0Tk9E"
+        },
+        {
+            "source": "2jgPkn6LuUazBoBk6vvjh5",
+            "target": "1nyQBzKgZ2hBLr7PnyV7cI"
+        },
+        {
+            "source": "2jgPkn6LuUazBoBk6vvjh5",
+            "target": "1PCZpxHJz7WAMF8EEq8bfc"
+        },
+        {
+            "source": "2jgPkn6LuUazBoBk6vvjh5",
+            "target": "4pJCawaKSZ40EnxN0YEYw3"
+        },
+        {
+            "source": "2jgPkn6LuUazBoBk6vvjh5",
+            "target": "1yap1SgRPMxgyfrrDlQ95y"
+        },
+        {
+            "source": "2jgPkn6LuUazBoBk6vvjh5",
+            "target": "2kuNswDC82PL9xRbfaZJaS"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "3Q6OOkfssqoMSTtl11J5Uk"
+        },
+        {
+            "source": "3Q6OOkfssqoMSTtl11J5Uk",
+            "target": "1kkpNi8Ii5MhBMxmUhN5g9"
+        },
+        {
+            "source": "3Q6OOkfssqoMSTtl11J5Uk",
+            "target": "5U16QlMnlSAhkQxBZpLyLO"
+        },
+        {
+            "source": "3Q6OOkfssqoMSTtl11J5Uk",
+            "target": "2z4eiJkDaXYCR9kv2UuSgz"
+        },
+        {
+            "source": "3Q6OOkfssqoMSTtl11J5Uk",
+            "target": "1nyQBzKgZ2hBLr7PnyV7cI"
+        },
+        {
+            "source": "3Q6OOkfssqoMSTtl11J5Uk",
+            "target": "0NHSh9S0VQiFfsEFbvhRXN"
+        },
+        {
+            "source": "3Q6OOkfssqoMSTtl11J5Uk",
+            "target": "7xYxgSJaIf7yOFLmknYX38"
+        },
+        {
+            "source": "3Q6OOkfssqoMSTtl11J5Uk",
+            "target": "5mcarhiatlvfCghqcn73rC"
+        },
+        {
+            "source": "3Q6OOkfssqoMSTtl11J5Uk",
+            "target": "0a63dfrxBQKqh160P8iUNL"
+        },
+        {
+            "source": "3Q6OOkfssqoMSTtl11J5Uk",
+            "target": "7DCnwoFMqGN6eZULdcLZeL"
+        },
+        {
+            "source": "3Q6OOkfssqoMSTtl11J5Uk",
+            "target": "6vLlQYujOujIrm7zAKzEdG"
+        },
+        {
+            "source": "3Q6OOkfssqoMSTtl11J5Uk",
+            "target": "2jgPkn6LuUazBoBk6vvjh5"
+        },
+        {
+            "source": "3Q6OOkfssqoMSTtl11J5Uk",
+            "target": "16gYwSgslBoQ1b6wfxoHOF"
+        },
+        {
+            "source": "3Q6OOkfssqoMSTtl11J5Uk",
+            "target": "38ULknnQK6G4oLJtTtPkkM"
+        },
+        {
+            "source": "3Q6OOkfssqoMSTtl11J5Uk",
+            "target": "5q9nLsvWwbSUW1kRyhZLAx"
+        },
+        {
+            "source": "3Q6OOkfssqoMSTtl11J5Uk",
+            "target": "2qFr8w5sWUITRlzZ9kZotF"
+        },
+        {
+            "source": "3Q6OOkfssqoMSTtl11J5Uk",
+            "target": "6Lt3HS8R2v8Q4G7ZkUWa8R"
+        },
+        {
+            "source": "3Q6OOkfssqoMSTtl11J5Uk",
+            "target": "1PCZpxHJz7WAMF8EEq8bfc"
+        },
+        {
+            "source": "3Q6OOkfssqoMSTtl11J5Uk",
+            "target": "5BaHqGtf6UAZnHfqdPaTDA"
+        },
+        {
+            "source": "3Q6OOkfssqoMSTtl11J5Uk",
+            "target": "2lxX1ivRYp26soIavdG9bX"
+        },
+        {
+            "source": "3Q6OOkfssqoMSTtl11J5Uk",
+            "target": "3eskO5m0H4yiF64vRySBjr"
+        },
+        {
+            "source": "22WZ7M8sxp5THdruNY3gXt",
+            "target": "568ZhdwyaiCyOGJRtNYhWf"
+        },
+        {
+            "source": "568ZhdwyaiCyOGJRtNYhWf",
+            "target": "6SLAMfhOi7UJI0fMztaK0m"
+        },
+        {
+            "source": "568ZhdwyaiCyOGJRtNYhWf",
+            "target": "6fvN9GmMCVKb5LY0WsnjFP"
+        },
+        {
+            "source": "568ZhdwyaiCyOGJRtNYhWf",
+            "target": "6biWAmrHyiMkX49LkycGqQ"
+        },
+        {
+            "source": "568ZhdwyaiCyOGJRtNYhWf",
+            "target": "45O9BwPMyywM755SYUK0sP"
+        },
+        {
+            "source": "568ZhdwyaiCyOGJRtNYhWf",
+            "target": "2Omy3P5hFZym7FKum1JA1s"
+        },
+        {
+            "source": "568ZhdwyaiCyOGJRtNYhWf",
+            "target": "4CYeVo5iZbtYGBN4Isc3n6"
+        },
+        {
+            "source": "568ZhdwyaiCyOGJRtNYhWf",
+            "target": "00tVTdpEhQQw1bqdu8RCx2"
+        },
+        {
+            "source": "568ZhdwyaiCyOGJRtNYhWf",
+            "target": "3EhbVgyfGd7HkpsagwL9GS"
+        },
+        {
+            "source": "568ZhdwyaiCyOGJRtNYhWf",
+            "target": "21ysNsPzHdqYN2fQ75ZswG"
+        },
+        {
+            "source": "568ZhdwyaiCyOGJRtNYhWf",
+            "target": "2tRsMl4eGxwoNabM08Dm4I"
+        },
+        {
+            "source": "568ZhdwyaiCyOGJRtNYhWf",
+            "target": "5uSY4FF3dZMCVSkZslKCHi"
+        },
+        {
+            "source": "568ZhdwyaiCyOGJRtNYhWf",
+            "target": "3UbyYnvNIT5DFXU4WgiGpP"
+        },
+        {
+            "source": "568ZhdwyaiCyOGJRtNYhWf",
+            "target": "5M52tdBnJaKSvOpJGz8mfZ"
+        },
+        {
+            "source": "568ZhdwyaiCyOGJRtNYhWf",
+            "target": "0qEcf3SFlpRcb3lK3f2GZI"
+        },
+        {
+            "source": "568ZhdwyaiCyOGJRtNYhWf",
+            "target": "10n5lhNDoSMUHWLlnST1yw"
+        },
+        {
+            "source": "568ZhdwyaiCyOGJRtNYhWf",
+            "target": "2e53aHBQdCMKWqHDuyJsjC"
+        },
+        {
+            "source": "568ZhdwyaiCyOGJRtNYhWf",
+            "target": "3JDIAtVrJdQ7GFOX26LYpv"
+        },
+        {
+            "source": "568ZhdwyaiCyOGJRtNYhWf",
+            "target": "4UjiBRkTw9VmvDZiJZKPJ7"
+        },
+        {
+            "source": "568ZhdwyaiCyOGJRtNYhWf",
+            "target": "23wr9RJZg0PmYvVFyNkQ4j"
+        },
+        {
+            "source": "568ZhdwyaiCyOGJRtNYhWf",
+            "target": "71vVmHeNgCVSa5SVmfvscU"
+        }
+    ],
+    "nodes": [
+        {
+            "generos": [
+                "acid rock",
+                "album rock",
+                "classic rock",
+                "psychedelic rock",
+                "rock"
+            ],
+            "id": "22WZ7M8sxp5THdruNY3gXt",
+            "img_url": "https://i.scdn.co/image/b8c3d75acf2d800defb05b8515445e6d064c97d5",
+            "nombre": "The Doors",
+            "popularidad": 77,
+            "seguidores": 5246040
+        },
+        {
+            "generos": [
+                "classic rock",
+                "psychedelic rock"
+            ],
+            "id": "1QB4oo4JbSRdxNyidIuD0W",
+            "img_url": "https://i.scdn.co/image/3010121a2fdfae58a270eb399bace970d89ddc6a",
+            "nombre": "Jim Morrison",
+            "popularidad": 53,
+            "seguidores": 1083546
+        },
+        {
+            "generos": [
+                "acid rock",
+                "classic rock",
+                "folk rock",
+                "psychedelic rock",
+                "rock",
+                "roots rock"
+            ],
+            "id": "2qFr8w5sWUITRlzZ9kZotF",
+            "img_url": "https://i.scdn.co/image/a9ae31801b767795dd3060e5529478e534b02c16",
+            "nombre": "Jefferson Airplane",
+            "popularidad": 65,
+            "seguidores": 1035130
+        },
+        {
+            "generos": [
+                "acid rock",
+                "art rock",
+                "blues rock",
+                "classic rock",
+                "folk rock",
+                "hard rock",
+                "psychedelic rock",
+                "rock",
+                "symphonic rock"
+            ],
+            "id": "3cdvlbCYf4WoBdy89RWkNS",
+            "img_url": "https://i.scdn.co/image/ed1f30ed69dc1c5a6b7f649d2e14b06fb021c683",
+            "nombre": "Iron Butterfly",
+            "popularidad": 48,
+            "seguidores": 232950
+        },
+        {
+            "generos": [
+                "blues rock",
+                "classic rock",
+                "folk rock",
+                "psychedelic rock",
+                "rock"
+            ],
+            "id": "4J69yWrKwWJgjv3DKTZcGo",
+            "img_url": "https://i.scdn.co/image/56a67407bd06fafd93756d4bb827c4ac74b4ecde",
+            "nombre": "Big Brother & The Holding Company",
+            "popularidad": 61,
+            "seguidores": 166321
+        },
+        {
+            "generos": [
+                "album rock",
+                "art rock",
+                "blues rock",
+                "british blues",
+                "british invasion",
+                "classic rock",
+                "country rock",
+                "electric blues",
+                "folk rock",
+                "hard rock",
+                "merseybeat",
+                "psychedelic rock",
+                "rock",
+                "roots rock"
+            ],
+            "id": "2lxX1ivRYp26soIavdG9bX",
+            "img_url": "https://i.scdn.co/image/387ef350db933ccaf6fd0b5bfd2837841bc6b835",
+            "nombre": "The Yardbirds",
+            "popularidad": 55,
+            "seguidores": 603677
+        },
+        {
+            "generos": [
+                "art rock",
+                "classic rock",
+                "experimental",
+                "folk rock",
+                "outsider",
+                "psychedelic folk",
+                "psychedelic rock"
+            ],
+            "id": "6Lt3HS8R2v8Q4G7ZkUWa8R",
+            "img_url": "https://i.scdn.co/image/f0cded2845369a436adb00b24c85d02b867d0f45",
+            "nombre": "Syd Barrett",
+            "popularidad": 47,
+            "seguidores": 214303
+        },
+        {
+            "generos": [
+                "blues rock",
+                "classic rock",
+                "psychedelic rock",
+                "rock"
+            ],
+            "id": "4NgfOZCL9Ml67xzM0xzIvC",
+            "img_url": "https://i.scdn.co/image/f3f55519d6fc2a6fd2bed247b9dc9fdc72365272",
+            "nombre": "Janis Joplin",
+            "popularidad": 69,
+            "seguidores": 2254235
+        },
+        {
+            "generos": [
+                "acid rock",
+                "blues rock",
+                "classic garage rock",
+                "classic rock",
+                "country rock",
+                "folk rock",
+                "freakbeat",
+                "psychedelic rock",
+                "traditional folk"
+            ],
+            "id": "0a63dfrxBQKqh160P8iUNL",
+            "img_url": "https://i.scdn.co/image/b2e3a58983247c8afde732ec825f38ad1d492102",
+            "nombre": "Country Joe & The Fish",
+            "popularidad": 39,
+            "seguidores": 98821
+        },
+        {
+            "generos": [
+                "acid rock",
+                "album rock",
+                "blues rock",
+                "classic canadian rock",
+                "classic rock",
+                "country rock",
+                "folk rock",
+                "hard rock",
+                "mellow gold",
+                "psychedelic rock",
+                "rock",
+                "roots rock"
+            ],
+            "id": "1WRM9i067hd2ujxxi8FI3m",
+            "img_url": "https://i.scdn.co/image/8208d86ed91c50bc9ffbf8f436c6e323e6bda480",
+            "nombre": "Steppenwolf",
+            "popularidad": 67,
+            "seguidores": 941612
+        },
+        {
+            "generos": [
+                "album rock",
+                "blues rock",
+                "british invasion",
+                "classic rock",
+                "folk rock",
+                "protopunk",
+                "psychedelic rock",
+                "rock"
+            ],
+            "id": "3ICflSq6ZgYAIrm2CTkfVP",
+            "img_url": "https://i.scdn.co/image/2e9b8578db053adb6415648321db2f25a99bdcfb",
+            "nombre": "The Animals",
+            "popularidad": 69,
+            "seguidores": 1546626
+        },
+        {
+            "generos": [
+                "album rock",
+                "art rock",
+                "blues rock",
+                "classic rock",
+                "folk rock",
+                "hard rock",
+                "psychedelic rock",
+                "rock",
+                "roots rock",
+                "supergroup"
+            ],
+            "id": "74oJ4qxwOZvX6oSsu1DGnw",
+            "img_url": "https://i.scdn.co/image/aab6a0a0e9ca2ab17460b0451e59ba507cc5802a",
+            "nombre": "Cream",
+            "popularidad": 69,
+            "seguidores": 1450604
+        },
+        {
+            "generos": [
+                "acid rock",
+                "art rock",
+                "brill building pop",
+                "classic rock",
+                "country rock",
+                "dance rock",
+                "experimental",
+                "folk rock",
+                "psychedelic rock",
+                "rock",
+                "roots rock"
+            ],
+            "id": "3Q6OOkfssqoMSTtl11J5Uk",
+            "img_url": "https://i.scdn.co/image/6f8504b698fca4f375a05b3aa120856cdf09d433",
+            "nombre": "Love",
+            "popularidad": 59,
+            "seguidores": 147697
+        },
+        {
+            "generos": [
+                "bubblegum pop",
+                "classic garage rock",
+                "folk rock",
+                "freakbeat",
+                "psychedelic rock",
+                "sunshine pop"
+            ],
+            "id": "1nyQBzKgZ2hBLr7PnyV7cI",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b273668eef9a15023a800efdbbba",
+            "nombre": "Strawberry Alarm Clock",
+            "popularidad": 43,
+            "seguidores": 71499
+        },
+        {
+            "generos": [
+                "album rock",
+                "blues",
+                "blues rock",
+                "classic rock",
+                "country rock",
+                "electric blues",
+                "folk rock",
+                "hard rock",
+                "psychedelic rock",
+                "rock",
+                "roots rock"
+            ],
+            "id": "27a0GiCba9K9lnkKidroFU",
+            "img_url": "https://i.scdn.co/image/a1deb96bb21507083772aa2e019a2c4a51a1ef00",
+            "nombre": "Canned Heat",
+            "popularidad": 60,
+            "seguidores": 365450
+        },
+        {
+            "generos": [
+                "art rock",
+                "brill building pop",
+                "british folk",
+                "british invasion",
+                "classic rock",
+                "country rock",
+                "folk",
+                "folk rock",
+                "glam rock",
+                "mellow gold",
+                "psychedelic folk",
+                "psychedelic rock",
+                "rock",
+                "roots rock",
+                "scottish singer-songwriter",
+                "traditional folk"
+            ],
+            "id": "6vLlQYujOujIrm7zAKzEdG",
+            "img_url": "https://i.scdn.co/image/bf943d479f305acd31a977ccc8c17643ea51c3cb",
+            "nombre": "Donovan",
+            "popularidad": 62,
+            "seguidores": 445401
+        },
+        {
+            "generos": [
+                "alternative rock",
+                "art rock",
+                "classic rock",
+                "folk rock",
+                "melancholia",
+                "permanent wave",
+                "protopunk",
+                "psychedelic rock",
+                "rock"
+            ],
+            "id": "1nJvji2KIlWSseXRSlNYsC",
+            "img_url": "https://i.scdn.co/image/d69c2cf10323bf08443c7d122f3a1824a760ab57",
+            "nombre": "The Velvet Underground",
+            "popularidad": 70,
+            "seguidores": 1171103
+        },
+        {
+            "generos": [
+                "acid rock",
+                "blues rock",
+                "classic rock",
+                "psychedelic rock",
+                "rock"
+            ],
+            "id": "776Uo845nYHJpNaStv1Ds4",
+            "img_url": "https://i.scdn.co/image/14ce65949a921e76421a0164c17f9ebe0a8d76e8",
+            "nombre": "Jimi Hendrix",
+            "popularidad": 77,
+            "seguidores": 4425446
+        },
+        {
+            "generos": [
+                "acid rock",
+                "blues rock",
+                "classic garage rock",
+                "classic rock",
+                "country rock",
+                "folk rock",
+                "freakbeat",
+                "psychedelic rock"
+            ],
+            "id": "7DCnwoFMqGN6eZULdcLZeL",
+            "img_url": "https://i.scdn.co/image/5fce71305ebe23822f19a5e1613b1cb224912439",
+            "nombre": "Quicksilver Messenger Service",
+            "popularidad": 41,
+            "seguidores": 80878
+        },
+        {
+            "generos": [
+                "classic garage rock",
+                "folk rock",
+                "freakbeat",
+                "neo-psychedelic",
+                "psychedelic rock"
+            ],
+            "id": "38ULknnQK6G4oLJtTtPkkM",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b273801e652ce283f52aa521cbb0",
+            "nombre": "Ultimate Spinach",
+            "popularidad": 42,
+            "seguidores": 36465
+        },
+        {
+            "generos": [
+                "art rock",
+                "baroque pop",
+                "brill building pop",
+                "british invasion",
+                "bubblegum pop",
+                "classic rock",
+                "folk rock",
+                "psychedelic rock",
+                "rock"
+            ],
+            "id": "2jgPkn6LuUazBoBk6vvjh5",
+            "img_url": "https://i.scdn.co/image/0cbe3a2c20fd93a28b74cbe7ee89c833818af93f",
+            "nombre": "The Zombies",
+            "popularidad": 63,
+            "seguidores": 572516
+        },
+        {
+            "generos": [
+                "classic garage rock",
+                "country rock",
+                "folk rock",
+                "freakbeat",
+                "psychedelic rock"
+            ],
+            "id": "0NHSh9S0VQiFfsEFbvhRXN",
+            "img_url": "https://i.scdn.co/image/7ce5ac340ae5d75410634e1bab33ba75f4e94bf5",
+            "nombre": "Moby Grape",
+            "popularidad": 33,
+            "seguidores": 31800
+        },
+        {
+            "generos": [
+                "blues rock",
+                "classic rock",
+                "country rock",
+                "folk",
+                "folk rock",
+                "mellow gold",
+                "psychedelic rock",
+                "rock",
+                "roots rock",
+                "soft rock",
+                "traditional folk"
+            ],
+            "id": "3eskO5m0H4yiF64vRySBjr",
+            "img_url": "https://i.scdn.co/image/b701ba75981d0b9aeef036b9fab4e3c96609e364",
+            "nombre": "Buffalo Springfield",
+            "popularidad": 64,
+            "seguidores": 480327
+        },
+        {
+            "generos": [
+                "art rock",
+                "blues rock",
+                "canterbury scene",
+                "classic rock",
+                "country rock",
+                "folk rock",
+                "freakbeat",
+                "progressive rock",
+                "psychedelic rock",
+                "symphonic rock"
+            ],
+            "id": "5q9nLsvWwbSUW1kRyhZLAx",
+            "img_url": "https://i.scdn.co/image/9c52894f49749a051af4b08f0a7cf09b508a6f25",
+            "nombre": "Spirit",
+            "popularidad": 42,
+            "seguidores": 62414
+        },
+        {
+            "generos": [
+                "album rock",
+                "art rock",
+                "blues rock",
+                "british blues",
+                "classic rock",
+                "country rock",
+                "electric blues",
+                "folk",
+                "folk rock",
+                "hard rock",
+                "mellow gold",
+                "progressive rock",
+                "psychedelic rock",
+                "rock",
+                "roots rock",
+                "soft rock",
+                "symphonic rock"
+            ],
+            "id": "1CD77o9fbdyQFrHnUPUEsF",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b273607f5d1d15bdb8a450840ccf",
+            "nombre": "Traffic",
+            "popularidad": 55,
+            "seguidores": 347140
+        },
+        {
+            "generos": [
+                "acid rock",
+                "blues rock",
+                "folk rock",
+                "psychedelic rock"
+            ],
+            "id": "0vIMq3W8V63uR4Ymgm2pF1",
+            "img_url": "https://i.scdn.co/image/5467fcc2ca49004b0669b007830d78d281fbe6a1",
+            "nombre": "Vanilla Fudge",
+            "popularidad": 44,
+            "seguidores": 65610
+        },
+        {
+            "generos": [
+                "art rock",
+                "beatlesque",
+                "blues rock",
+                "brill building pop",
+                "classic rock",
+                "cosmic american",
+                "country rock",
+                "folk",
+                "folk rock",
+                "mellow gold",
+                "psychedelic rock",
+                "rock",
+                "roots rock",
+                "soft rock",
+                "traditional folk"
+            ],
+            "id": "1PCZpxHJz7WAMF8EEq8bfc",
+            "img_url": "https://i.scdn.co/image/f1cf7faba3223b4be7a0734f7c5cccaa39630570",
+            "nombre": "The Byrds",
+            "popularidad": 63,
+            "seguidores": 624752
+        },
+        {
+            "generos": [
+                "art rock",
+                "blues rock",
+                "british blues",
+                "british invasion",
+                "classic garage rock",
+                "classic rock",
+                "country rock",
+                "experimental",
+                "folk rock",
+                "freakbeat",
+                "merseybeat",
+                "protopunk",
+                "psychedelic rock",
+                "pub rock"
+            ],
+            "id": "5U16QlMnlSAhkQxBZpLyLO",
+            "img_url": "https://i.scdn.co/image/c54ecd7b42b982b97397a08a1e4b5ed4f831036e",
+            "nombre": "The Pretty Things",
+            "popularidad": 43,
+            "seguidores": 72617
+        },
+        {
+            "generos": [
+                "classic garage rock",
+                "folk rock",
+                "freakbeat",
+                "psychedelic rock"
+            ],
+            "id": "2z4eiJkDaXYCR9kv2UuSgz",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b273235e3d74d4b132775876ec3e",
+            "nombre": "The West Coast Pop Art Experimental Band",
+            "popularidad": 46,
+            "seguidores": 49990
+        },
+        {
+            "generos": [
+                "album rock",
+                "art rock",
+                "blues",
+                "blues rock",
+                "british blues",
+                "classic rock",
+                "country rock",
+                "electric blues",
+                "folk rock",
+                "hard rock",
+                "psychedelic rock",
+                "rock",
+                "roots rock",
+                "symphonic rock"
+            ],
+            "id": "7nkLRaWHImCvWGHdNGnhVE",
+            "img_url": "https://i.scdn.co/image/2c825769bc2470bf5aaf04a5991db4612298c5dd",
+            "nombre": "Ten Years After",
+            "popularidad": 55,
+            "seguidores": 321174
+        },
+        {
+            "generos": [
+                "album rock",
+                "art rock",
+                "blues",
+                "blues rock",
+                "british blues",
+                "classic rock",
+                "country rock",
+                "electric blues",
+                "folk rock",
+                "hard rock",
+                "mellow gold",
+                "psychedelic rock",
+                "rock",
+                "roots rock",
+                "soft rock"
+            ],
+            "id": "2rc78XDH9zuJP6bm78lU8Z",
+            "img_url": "https://i.scdn.co/image/cfec75171b6394ae543eb906e86e4d50cbafd9dc",
+            "nombre": "Derek & The Dominos",
+            "popularidad": 64,
+            "seguidores": 408123
+        },
+        {
+            "generos": [
+                "art rock",
+                "blues rock",
+                "british blues",
+                "classic rock",
+                "country rock",
+                "electric blues",
+                "folk rock",
+                "psychedelic rock",
+                "rock",
+                "roots rock",
+                "supergroup"
+            ],
+            "id": "5GUVj2b1lJ4DolQyHlzyaO",
+            "img_url": "https://i.scdn.co/image/7cb47aa5aba19de14aef71b7b55bdd391a199800",
+            "nombre": "Blind Faith",
+            "popularidad": 51,
+            "seguidores": 239721
+        },
+        {
+            "generos": [
+                "blues",
+                "blues rock",
+                "british blues",
+                "british invasion",
+                "classic rock",
+                "country rock",
+                "electric blues",
+                "folk rock",
+                "modern blues",
+                "psychedelic rock"
+            ],
+            "id": "2ScuQMRWThcifBRIvNDFDC",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b273c40ff56a16cebb8f30af1f66",
+            "nombre": "John Mayall & The Bluesbreakers",
+            "popularidad": 52,
+            "seguidores": 259811
+        },
+        {
+            "generos": [
+                "blues",
+                "blues rock",
+                "classic rock",
+                "country rock",
+                "electric blues",
+                "hard rock",
+                "modern blues",
+                "rock",
+                "texas blues"
+            ],
+            "id": "2ODUxmFxJSyvGiimNhMHbO",
+            "img_url": "https://i.scdn.co/image/49d41e640134e0247ee9f6cce849bc36395273bd",
+            "nombre": "Johnny Winter",
+            "popularidad": 52,
+            "seguidores": 327439
+        },
+        {
+            "generos": [
+                "album rock",
+                "blues rock",
+                "classic rock",
+                "mellow gold",
+                "rock",
+                "soft rock"
+            ],
+            "id": "3pFCERyEiP5xeN2EsPXhjI",
+            "img_url": "https://i.scdn.co/image/ee38cfbef7a14bad2ecb0631f73d5b703cf0d35d",
+            "nombre": "Joe Cocker",
+            "popularidad": 71,
+            "seguidores": 1285891
+        },
+        {
+            "generos": [
+                "album rock",
+                "art rock",
+                "blues rock",
+                "classic rock",
+                "country rock",
+                "folk",
+                "folk rock",
+                "jazz rock",
+                "mellow gold",
+                "psychedelic rock",
+                "soft rock",
+                "symphonic rock",
+                "traditional folk"
+            ],
+            "id": "24GaH9tRBgZjlvOhpFuKi2",
+            "img_url": "https://i.scdn.co/image/26a546022a057e325676bef5c32acdccb456adfb",
+            "nombre": "Blood, Sweat & Tears",
+            "popularidad": 50,
+            "seguidores": 334220
+        },
+        {
+            "generos": [
+                "blues",
+                "blues rock",
+                "classic rock",
+                "electric blues",
+                "instrumental rock",
+                "rock",
+                "texas blues"
+            ],
+            "id": "5fsDcuclIe8ZiBD5P787K1",
+            "img_url": "https://i.scdn.co/image/1de60c936683320769a1bfb6fba7f75902859085",
+            "nombre": "Stevie Ray Vaughan",
+            "popularidad": 68,
+            "seguidores": 1645836
+        },
+        {
+            "generos": [
+                "album rock",
+                "blues rock",
+                "classic rock",
+                "country rock",
+                "double drumming",
+                "folk rock",
+                "hard rock",
+                "jam band",
+                "mellow gold",
+                "psychedelic rock",
+                "rock",
+                "roots rock",
+                "soft rock",
+                "southern rock"
+            ],
+            "id": "4wQ3PyMz3WwJGI5uEqHUVR",
+            "img_url": "https://i.scdn.co/image/ab6772690000c46c08f5d15585b77b0cb059717b",
+            "nombre": "Allman Brothers Band",
+            "popularidad": 70,
+            "seguidores": 976921
+        },
+        {
+            "generos": [
+                "album rock",
+                "blues",
+                "blues rock",
+                "british blues",
+                "classic rock",
+                "country rock",
+                "electric blues",
+                "hard rock",
+                "modern blues",
+                "psychedelic rock",
+                "rock"
+            ],
+            "id": "1kcWyDvrlPUbyxkIoM6pAV",
+            "img_url": "https://i.scdn.co/image/21b6038f8a9c8f39f66a23b6ddbd33fc65e8fb24",
+            "nombre": "Rory Gallagher",
+            "popularidad": 55,
+            "seguidores": 242349
+        },
+        {
+            "generos": [
+                "album rock",
+                "art rock",
+                "blues",
+                "blues rock",
+                "british blues",
+                "classic rock",
+                "electric blues",
+                "hard rock",
+                "instrumental rock",
+                "jazz fusion",
+                "psychedelic rock",
+                "rock",
+                "symphonic rock"
+            ],
+            "id": "0AD4odMWVQ2wUSlgxOB5Rl",
+            "img_url": "https://i.scdn.co/image/c54d3e62fa857b691de4e391b3cca35234462761",
+            "nombre": "Jeff Beck",
+            "popularidad": 58,
+            "seguidores": 453384
+        },
+        {
+            "generos": [
+                "album rock",
+                "classic rock",
+                "hard rock",
+                "rock"
+            ],
+            "id": "36QJpDe2go2KgaRleHCDTp",
+            "img_url": "https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e",
+            "nombre": "Led Zeppelin",
+            "popularidad": 82,
+            "seguidores": 9567097
+        },
+        {
+            "generos": [
+                "blues",
+                "blues rock",
+                "classic rock",
+                "electric blues",
+                "memphis soul",
+                "soul blues",
+                "traditional blues"
+            ],
+            "id": "5aygfDCEaX5KTZOxSCpT9o",
+            "img_url": "https://i.scdn.co/image/bfb61e8da152782920e42784c2a72eed8620afc1",
+            "nombre": "Albert King",
+            "popularidad": 54,
+            "seguidores": 295502
+        },
+        {
+            "generos": [
+                "album rock",
+                "art rock",
+                "blues rock",
+                "british blues",
+                "classic rock",
+                "country rock",
+                "electric blues",
+                "folk rock",
+                "hard rock",
+                "psychedelic rock",
+                "rock",
+                "roots rock"
+            ],
+            "id": "2e53aHBQdCMKWqHDuyJsjC",
+            "img_url": "https://i.scdn.co/image/b0710c8d0247d0710cfb5a2cd153908dc42ca08f",
+            "nombre": "Free",
+            "popularidad": 62,
+            "seguidores": 299796
+        },
+        {
+            "generos": [
+                "blues rock",
+                "british blues",
+                "british invasion",
+                "bubblegum pop",
+                "classic rock",
+                "folk rock",
+                "merseybeat",
+                "protopunk",
+                "psychedelic rock",
+                "rock",
+                "rock-and-roll"
+            ],
+            "id": "3i9hP422d2KMjaupTzBNVS",
+            "img_url": "https://i.scdn.co/image/f402a6f11640da67e60e19ae7c64b472929f80ed",
+            "nombre": "The Spencer Davis Group",
+            "popularidad": 58,
+            "seguidores": 175667
+        },
+        {
+            "generos": [
+                "british invasion",
+                "classic rock",
+                "folk rock",
+                "psychedelic rock"
+            ],
+            "id": "70tMW5bZT3TJUa1CWtfVkq",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b2739aa31637e98593e337cc8aa3",
+            "nombre": "Eric Burdon & the Animals",
+            "popularidad": 43,
+            "seguidores": 179498
+        },
+        {
+            "generos": [
+                "blues rock",
+                "british blues",
+                "british invasion",
+                "classic garage rock",
+                "classic rock",
+                "folk rock",
+                "merseybeat",
+                "protopunk",
+                "psychedelic rock",
+                "rock",
+                "rock-and-roll"
+            ],
+            "id": "5BaHqGtf6UAZnHfqdPaTDA",
+            "img_url": "https://i.scdn.co/image/468120d2def81a6e8d9b850158141e703222419e",
+            "nombre": "Them",
+            "popularidad": 56,
+            "seguidores": 80481
+        },
+        {
+            "generos": [
+                "album rock",
+                "art rock",
+                "blues rock",
+                "british blues",
+                "classic rock",
+                "country rock",
+                "electric blues",
+                "folk rock",
+                "hard rock",
+                "psychedelic rock",
+                "rock",
+                "southern rock",
+                "symphonic rock"
+            ],
+            "id": "2CxLP749mup3ncPrXgCnvU",
+            "img_url": "https://i.scdn.co/image/fe8c25b3f5a72047ad6a71632219a9e3ca05d2f4",
+            "nombre": "Humble Pie",
+            "popularidad": 46,
+            "seguidores": 195749
+        },
+        {
+            "generos": [
+                "art rock",
+                "blues rock",
+                "british blues",
+                "british invasion",
+                "classic garage rock",
+                "classic rock",
+                "folk rock",
+                "freakbeat",
+                "merseybeat",
+                "protopunk",
+                "psychedelic rock",
+                "pub rock",
+                "rock"
+            ],
+            "id": "1YqGsKpdixxSVgpfaL2AEQ",
+            "img_url": "https://i.scdn.co/image/c60674ffc4b94efe99f46196cb1aeaf5bb60956e",
+            "nombre": "Small Faces",
+            "popularidad": 52,
+            "seguidores": 214963
+        },
+        {
+            "generos": [
+                "british blues"
+            ],
+            "id": "7MO151Amm0ur31ope7pLki",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b273d9554de4be1815dfa63a6a9f",
+            "nombre": "Keith Relf",
+            "popularidad": 19,
+            "seguidores": 692
+        },
+        {
+            "generos": [
+                "brill building pop",
+                "british invasion",
+                "bubblegum pop",
+                "classic garage rock",
+                "classic rock",
+                "folk rock",
+                "freakbeat",
+                "merseybeat",
+                "psychedelic rock",
+                "rock-and-roll"
+            ],
+            "id": "57xdnSVt4ahJCIXYLieQ25",
+            "img_url": "https://i.scdn.co/image/be13aa2f252209f24469693dbef7050ec39d199c",
+            "nombre": "The Troggs",
+            "popularidad": 54,
+            "seguidores": 177511
+        },
+        {
+            "generos": [
+                "art rock",
+                "brill building pop",
+                "british invasion",
+                "bubblegum pop",
+                "classic rock",
+                "country rock",
+                "folk",
+                "folk rock",
+                "mellow gold",
+                "merseybeat",
+                "psychedelic rock",
+                "rock",
+                "rock-and-roll",
+                "soft rock"
+            ],
+            "id": "6waa8mKu91GjzD4NlONlNJ",
+            "img_url": "https://i.scdn.co/image/722e36849bde408b99330c713ebeb19157eabc89",
+            "nombre": "The Hollies",
+            "popularidad": 67,
+            "seguidores": 711654
+        },
+        {
+            "generos": [
+                "brill building pop",
+                "bubblegum pop",
+                "classic rock",
+                "country rock",
+                "folk",
+                "folk rock",
+                "mellow gold",
+                "merseybeat",
+                "psychedelic rock",
+                "rock",
+                "rock-and-roll",
+                "roots rock",
+                "soft rock",
+                "traditional folk"
+            ],
+            "id": "7CCn4PFRRRZF127jtCBAUe",
+            "img_url": "https://i.scdn.co/image/d0fc74cb2e10858c1b0b2436e6f14cee0944f8df",
+            "nombre": "The Lovin' Spoonful",
+            "popularidad": 61,
+            "seguidores": 288979
+        },
+        {
+            "generos": [
+                "brill building pop",
+                "british blues",
+                "british invasion",
+                "bubblegum pop",
+                "classic rock",
+                "classic uk pop",
+                "folk rock",
+                "merseybeat",
+                "rock-and-roll",
+                "rockabilly"
+            ],
+            "id": "5670CyWrIOA7702gNjsGMZ",
+            "img_url": "https://i.scdn.co/image/c06b9e6723a6ec5be9ac73454ef807e3e3e1f27f",
+            "nombre": "Manfred Mann",
+            "popularidad": 56,
+            "seguidores": 219650
+        },
+        {
+            "generos": [
+                "brill building pop",
+                "bubblegum pop",
+                "classic rock",
+                "folk rock",
+                "psychedelic rock"
+            ],
+            "id": "2VIoWte1HPDbZ2WqHd2La7",
+            "img_url": "https://i.scdn.co/image/1065764f6bfae289f03651c9927dbd84eabae766",
+            "nombre": "The Turtles",
+            "popularidad": 63,
+            "seguidores": 353930
+        },
+        {
+            "generos": [
+                "adult standards",
+                "brill building pop",
+                "british invasion",
+                "bubblegum pop",
+                "classic rock",
+                "folk",
+                "folk rock",
+                "mellow gold",
+                "merseybeat",
+                "rock-and-roll"
+            ],
+            "id": "48YxSlb23RAaCd4RyHcV9V",
+            "img_url": "https://i.scdn.co/image/661423f5d26a62a4a2947488c2892a6c5c4a5e34",
+            "nombre": "Herman's Hermits",
+            "popularidad": 57,
+            "seguidores": 281286
+        },
+        {
+            "generos": [
+                "beatlesque",
+                "brill building pop",
+                "bubblegum pop",
+                "classic rock",
+                "country rock",
+                "folk rock",
+                "mellow gold",
+                "psychedelic rock",
+                "rock",
+                "soft rock",
+                "sunshine pop"
+            ],
+            "id": "320EPCSEezHt1rtbfwH6Ck",
+            "img_url": "https://i.scdn.co/image/e544a32232ce0952eb27aa70f3061164190772ab",
+            "nombre": "The Monkees",
+            "popularidad": 68,
+            "seguidores": 699450
+        },
+        {
+            "generos": [
+                "album rock",
+                "art rock",
+                "british invasion",
+                "classic rock",
+                "dance rock",
+                "folk rock",
+                "glam rock",
+                "mellow gold",
+                "protopunk",
+                "rock"
+            ],
+            "id": "1SQRv42e4PjEYfPhS0Tk9E",
+            "img_url": "https://i.scdn.co/image/b2e933a1a7ae670aa2e217c79710fe2f18ebad3d",
+            "nombre": "The Kinks",
+            "popularidad": 72,
+            "seguidores": 1644005
+        },
+        {
+            "generos": [
+                "brill building pop",
+                "bubblegum pop",
+                "classic garage rock",
+                "classic rock",
+                "folk rock",
+                "mellow gold",
+                "merseybeat",
+                "psychedelic rock",
+                "rock",
+                "rock-and-roll",
+                "soft rock"
+            ],
+            "id": "01hRNr3yF5bYnPq4wZ88iI",
+            "img_url": "https://i.scdn.co/image/b4f5f1e236beb34db2205b782d6ba38dcd7a7c79",
+            "nombre": "Tommy James & The Shondells",
+            "popularidad": 59,
+            "seguidores": 177134
+        },
+        {
+            "generos": [
+                "album rock",
+                "blues rock",
+                "classic rock",
+                "country rock",
+                "hard rock",
+                "psychedelic rock",
+                "rock"
+            ],
+            "id": "7LCp4MN0SOIVWlssid9KyE",
+            "img_url": "https://i.scdn.co/image/c602229d8663c4cce1fc123e7d45185fcd27eb9f",
+            "nombre": "Mountain",
+            "popularidad": 58,
+            "seguidores": 176151
+        },
+        {
+            "generos": [
+                "album rock",
+                "art rock",
+                "blues rock",
+                "classic rock",
+                "country rock",
+                "folk rock",
+                "hard rock",
+                "mellow gold",
+                "psychedelic rock",
+                "rock",
+                "roots rock",
+                "soft rock",
+                "symphonic rock"
+            ],
+            "id": "0qEcf3SFlpRcb3lK3f2GZI",
+            "img_url": "https://i.scdn.co/image/c5245cfbe18d033bce1c5ff2907299c61dfae6e5",
+            "nombre": "Grand Funk Railroad",
+            "popularidad": 59,
+            "seguidores": 572993
+        },
+        {
+            "generos": [
+                "album rock",
+                "art rock",
+                "blues rock",
+                "classic rock",
+                "country rock",
+                "folk rock",
+                "glam rock",
+                "hard rock",
+                "mellow gold",
+                "protopunk",
+                "psychedelic rock",
+                "rock",
+                "roots rock",
+                "soft rock"
+            ],
+            "id": "3v4feUQnU3VEUqFrjmtekL",
+            "img_url": "https://i.scdn.co/image/016b5ccee6aae8ff1701a3ba8ff183161a51f504",
+            "nombre": "Faces",
+            "popularidad": 63,
+            "seguidores": 251180
+        },
+        {
+            "generos": [
+                "album rock",
+                "art rock",
+                "blues rock",
+                "classic rock",
+                "country rock",
+                "folk rock",
+                "hard rock",
+                "mellow gold",
+                "psychedelic rock",
+                "rock",
+                "roots rock",
+                "soft rock",
+                "southern rock"
+            ],
+            "id": "5hfOHpGMsi8O3DA0ROLGqF",
+            "img_url": "https://i.scdn.co/image/b7accd8373ed5f6b920ef11d6c1609761cc8ac60",
+            "nombre": "James Gang",
+            "popularidad": 54,
+            "seguidores": 197622
+        },
+        {
+            "generos": [
+                "album rock",
+                "blues rock",
+                "british blues",
+                "classic rock",
+                "country rock",
+                "hard rock",
+                "heartland rock",
+                "mellow gold",
+                "rock",
+                "soft rock"
+            ],
+            "id": "6x33CmZWo2Ve4hxYl2Craq",
+            "img_url": "https://i.scdn.co/image/6d2dc153ca624db479f78740a4cf62a4e55a97ae",
+            "nombre": "Foghat",
+            "popularidad": 58,
+            "seguidores": 499171
+        },
+        {
+            "generos": [
+                "blues rock",
+                "classic rock",
+                "hard rock",
+                "psychedelic blues-rock",
+                "psychedelic rock"
+            ],
+            "id": "0GLvcqWIueXNjv3212pJAj",
+            "img_url": "https://i.scdn.co/image/71b09795f3b94a2f4a99e071fa3329de2af34e15",
+            "nombre": "Cactus",
+            "popularidad": 37,
+            "seguidores": 41432
+        },
+        {
+            "generos": [
+                "album rock",
+                "art rock",
+                "blues rock",
+                "classic canadian rock",
+                "classic rock",
+                "country rock",
+                "folk rock",
+                "hard rock",
+                "mellow gold",
+                "rock",
+                "soft rock"
+            ],
+            "id": "5q4AzEtCoYJyXjMMoEkSU5",
+            "img_url": "https://i.scdn.co/image/85889b4eca7e1158430b00889dc88d4715941ab5",
+            "nombre": "Bachman-Turner Overdrive",
+            "popularidad": 62,
+            "seguidores": 551525
+        },
+        {
+            "generos": [
+                "album rock",
+                "blues rock",
+                "classic rock",
+                "hard rock",
+                "metal",
+                "rock"
+            ],
+            "id": "568ZhdwyaiCyOGJRtNYhWf",
+            "img_url": "https://i.scdn.co/image/d8dc5a44c417ae8ee8f0a5f45165172a27aed1ba",
+            "nombre": "Deep Purple",
+            "popularidad": 73,
+            "seguidores": 3420126
+        },
+        {
+            "generos": [
+                "album rock",
+                "art rock",
+                "blues rock",
+                "classic rock",
+                "folk rock",
+                "hard rock",
+                "mellow gold",
+                "progressive rock",
+                "rock",
+                "roots rock",
+                "soft rock",
+                "symphonic rock",
+                "uk americana"
+            ],
+            "id": "1OwarW4LEHnoep20ixRA0y",
+            "img_url": "https://i.scdn.co/image/6a29772fd3afae9ec890a860c500fa55267d8870",
+            "nombre": "Robert Plant",
+            "popularidad": 60,
+            "seguidores": 684186
+        },
+        {
+            "generos": [
+                "album rock",
+                "blues rock",
+                "classic rock",
+                "country rock",
+                "hard rock",
+                "mellow gold",
+                "rock",
+                "southern rock"
+            ],
+            "id": "4MVyzYMgTwdP7Z49wAZHx0",
+            "img_url": "https://i.scdn.co/image/ae580d5ee491fc30bb9077018331e6c3e3ecd089",
+            "nombre": "Lynyrd Skynyrd",
+            "popularidad": 76,
+            "seguidores": 2995128
+        },
+        {
+            "generos": [
+                "album rock",
+                "art rock",
+                "british invasion",
+                "classic rock",
+                "folk rock",
+                "hard rock",
+                "mellow gold",
+                "rock",
+                "roots rock"
+            ],
+            "id": "67ea9eGLXYMsO2eYQRui3w",
+            "img_url": "https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150",
+            "nombre": "The Who",
+            "popularidad": 74,
+            "seguidores": 3564612
+        },
+        {
+            "generos": [
+                "album rock",
+                "art rock",
+                "blues rock",
+                "classic rock",
+                "hard rock",
+                "metal",
+                "rock",
+                "soft rock"
+            ],
+            "id": "00tVTdpEhQQw1bqdu8RCx2",
+            "img_url": "https://i.scdn.co/image/7baef9857e572fd10f069314076a99e9e9e82629",
+            "nombre": "Blue \u00d6yster Cult",
+            "popularidad": 69,
+            "seguidores": 936334
+        },
+        {
+            "generos": [
+                "album rock",
+                "blues rock",
+                "classic rock",
+                "country rock",
+                "hard rock",
+                "rock"
+            ],
+            "id": "2AM4ilv6UzW0uMRuqKtDgN",
+            "img_url": "https://i.scdn.co/image/684172db801f534639d3f047dc8095da623892e3",
+            "nombre": "ZZ Top",
+            "popularidad": 73,
+            "seguidores": 2640997
+        },
+        {
+            "generos": [
+                "album rock",
+                "birmingham metal",
+                "classic rock",
+                "hard rock",
+                "metal",
+                "rock",
+                "stoner rock",
+                "uk doom metal"
+            ],
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "img_url": "https://i.scdn.co/image/5931700f9515dd6587230130beb615e0549e47dc",
+            "nombre": "Black Sabbath",
+            "popularidad": 76,
+            "seguidores": 4777983
+        },
+        {
+            "generos": [
+                "album rock",
+                "blues rock",
+                "classic rock",
+                "country rock",
+                "folk rock",
+                "hard rock",
+                "heartland rock",
+                "mellow gold",
+                "psychedelic rock",
+                "rock",
+                "roots rock",
+                "soft rock"
+            ],
+            "id": "6QtGlUje9TIkLrgPZrESuk",
+            "img_url": "https://i.scdn.co/image/3ce0d684c68941157eeac95f3a0916c3200fc541",
+            "nombre": "Steve Miller Band",
+            "popularidad": 72,
+            "seguidores": 1700456
+        },
+        {
+            "generos": [
+                "album rock",
+                "alternative rock",
+                "blues rock",
+                "classic rock",
+                "country rock",
+                "hard rock",
+                "jam band",
+                "mellow gold",
+                "pop rock",
+                "rock",
+                "roots rock",
+                "southern rock"
+            ],
+            "id": "5krkohEVJYw0qoB5VWwxaC",
+            "img_url": "https://i.scdn.co/image/8e0491f7e0e19403ef6f3465d0558cae733560c0",
+            "nombre": "The Black Crowes",
+            "popularidad": 65,
+            "seguidores": 450617
+        },
+        {
+            "generos": [
+                "album rock",
+                "blues rock",
+                "classic rock",
+                "hard rock",
+                "irish rock",
+                "metal",
+                "rock"
+            ],
+            "id": "6biWAmrHyiMkX49LkycGqQ",
+            "img_url": "https://i.scdn.co/image/cbebfb93be8c2ac47ef6b8a2186d11b3298abe49",
+            "nombre": "Thin Lizzy",
+            "popularidad": 68,
+            "seguidores": 774886
+        },
+        {
+            "generos": [
+                "acid rock",
+                "album rock",
+                "blues rock",
+                "classic rock",
+                "country rock",
+                "glam metal",
+                "hard rock",
+                "metal",
+                "rock",
+                "southern rock"
+            ],
+            "id": "21ysNsPzHdqYN2fQ75ZswG",
+            "img_url": "https://i.scdn.co/image/ad9bd428f136c100b76030958a11c5dc7e4a6ace",
+            "nombre": "Ted Nugent",
+            "popularidad": 62,
+            "seguidores": 688979
+        },
+        {
+            "generos": [
+                "album rock",
+                "british invasion",
+                "classic rock",
+                "rock"
+            ],
+            "id": "22bE4uQ6baNwSHPVcDxLCe",
+            "img_url": "https://i.scdn.co/image/85d9cb252ab4d8410d31820be40214c59f2597a1",
+            "nombre": "The Rolling Stones",
+            "popularidad": 84,
+            "seguidores": 9161346
+        },
+        {
+            "generos": [
+                "album rock",
+                "blues rock",
+                "classic rock",
+                "glam metal",
+                "glam rock",
+                "hard rock",
+                "metal",
+                "protopunk",
+                "rock"
+            ],
+            "id": "3EhbVgyfGd7HkpsagwL9GS",
+            "img_url": "https://i.scdn.co/image/36d00cd83099a598cf31070765158235efd745ca",
+            "nombre": "Alice Cooper",
+            "popularidad": 68,
+            "seguidores": 2182194
+        },
+        {
+            "generos": [
+                "album rock",
+                "art rock",
+                "classic rock",
+                "country rock",
+                "folk rock",
+                "mellow gold",
+                "power pop",
+                "pub rock",
+                "rock",
+                "roots rock",
+                "singer-songwriter",
+                "soft rock",
+                "symphonic rock"
+            ],
+            "id": "24Wa5wIZIo1sPkzVGP0B5p",
+            "img_url": "https://i.scdn.co/image/7970b65abb635b49a8993fa11c440f1243bb37ae",
+            "nombre": "Pete Townshend",
+            "popularidad": 51,
+            "seguidores": 213166
+        },
+        {
+            "generos": [
+                "album rock",
+                "blues rock",
+                "classic rock",
+                "country rock",
+                "folk rock",
+                "hard rock",
+                "heartland rock",
+                "mellow gold",
+                "rock",
+                "roots rock",
+                "soft rock",
+                "southern rock",
+                "symphonic rock"
+            ],
+            "id": "5bDxAyJiTYBat1YnFJhvEK",
+            "img_url": "https://i.scdn.co/image/d710b1d866858b418e298b6b7b087e6f841f27c1",
+            "nombre": "Joe Walsh",
+            "popularidad": 63,
+            "seguidores": 703233
+        },
+        {
+            "generos": [
+                "album rock",
+                "art rock",
+                "blues rock",
+                "classic rock",
+                "dance rock",
+                "folk rock",
+                "glam rock",
+                "protopunk",
+                "psychedelic rock",
+                "rock"
+            ],
+            "id": "3dBVyJ7JuOMt4GE9607Qin",
+            "img_url": "https://i.scdn.co/image/19f0a382ca74ba65eb6eae435fc37a4cf7157df9",
+            "nombre": "T. Rex",
+            "popularidad": 67,
+            "seguidores": 602322
+        },
+        {
+            "generos": [
+                "blues",
+                "blues rock",
+                "british blues",
+                "classic rock",
+                "electric blues",
+                "harmonica blues",
+                "modern blues"
+            ],
+            "id": "5s4z3mRAE7nxE3jjft8J3h",
+            "img_url": "https://i.scdn.co/image/260eb5bd77f2505817e3df2bf5b3d6efdad7fe79",
+            "nombre": "John Mayall",
+            "popularidad": 46,
+            "seguidores": 158289
+        },
+        {
+            "generos": [
+                "blues",
+                "blues rock",
+                "chicago blues",
+                "country rock",
+                "electric blues",
+                "harmonica blues",
+                "psychedelic rock",
+                "traditional blues"
+            ],
+            "id": "6kz7WuPaUa4QVreP27I33i",
+            "img_url": "https://i.scdn.co/image/96dc0eb644f50cb20363c23f0a58765b2c85eb9f",
+            "nombre": "The Paul Butterfield Blues Band",
+            "popularidad": 42,
+            "seguidores": 62378
+        },
+        {
+            "generos": [
+                "blues",
+                "blues rock",
+                "british blues",
+                "classic rock",
+                "country rock",
+                "electric blues",
+                "hard rock",
+                "modern blues",
+                "psychedelic rock",
+                "roots rock"
+            ],
+            "id": "17obwOahRWI121iMUZznh2",
+            "img_url": "https://i.scdn.co/image/0002ab8f6022318fbf89f72ca03843859c5d7b43",
+            "nombre": "Savoy Brown",
+            "popularidad": 45,
+            "seguidores": 80164
+        },
+        {
+            "generos": [
+                "blues",
+                "blues rock",
+                "classic rock",
+                "country rock",
+                "electric blues",
+                "folk rock",
+                "psychedelic rock",
+                "rock keyboard",
+                "roots rock"
+            ],
+            "id": "49JvZ17o0VaAmXaJv5kZlv",
+            "img_url": "https://i.scdn.co/image/c36de36e231dc3a7d7237d62c7ac100ca850ff67",
+            "nombre": "Al Kooper",
+            "popularidad": 47,
+            "seguidores": 35738
+        },
+        {
+            "generos": [
+                "blues",
+                "blues rock",
+                "british blues",
+                "classic rock",
+                "electric blues",
+                "modern blues",
+                "roots rock"
+            ],
+            "id": "3y1DgnVXqckGJrbwOKchdU",
+            "img_url": "https://i.scdn.co/image/b5b279bb54a940e4f2e566587a1dfc608ad1a3ad",
+            "nombre": "Peter Green",
+            "popularidad": 52,
+            "seguidores": 147776
+        },
+        {
+            "generos": [
+                "blues",
+                "blues rock",
+                "classic rock",
+                "country rock",
+                "folk rock",
+                "mellow gold",
+                "rock",
+                "roots rock"
+            ],
+            "id": "06nsZ3qSOYZ2hPVIMcr1IN",
+            "img_url": "https://i.scdn.co/image/63c3a9c0a7029e04935d8fc6c7eb1bef0a196c58",
+            "nombre": "J.J. Cale",
+            "popularidad": 65,
+            "seguidores": 445374
+        },
+        {
+            "generos": [
+                "blues",
+                "blues rock",
+                "classic rock",
+                "electric blues",
+                "texas blues",
+                "traditional blues"
+            ],
+            "id": "5dCuFngSPyOOnTAvrC7v2s",
+            "img_url": "https://i.scdn.co/image/6c1f3c786fbc542e29df368b40d6ad888fe010be",
+            "nombre": "Freddie King",
+            "popularidad": 54,
+            "seguidores": 256798
+        },
+        {
+            "generos": [
+                "blues",
+                "blues rock",
+                "classic rock",
+                "delta blues",
+                "electric blues",
+                "memphis blues",
+                "soul",
+                "traditional blues"
+            ],
+            "id": "1yNOfXGQNGjAynk77wv85x",
+            "img_url": "https://i.scdn.co/image/ed03ad28dfc9dee708810b3404f0db2fa09330c8",
+            "nombre": "John Lee Hooker",
+            "popularidad": 59,
+            "seguidores": 558874
+        },
+        {
+            "generos": [
+                "alternative rock",
+                "anti-folk",
+                "art rock",
+                "boston rock",
+                "dance rock",
+                "folk rock",
+                "indie rock",
+                "lo-fi",
+                "new wave",
+                "psychedelic rock",
+                "punk",
+                "punk blues"
+            ],
+            "id": "2eRdPaLHWAL4d1WcNUO9Vz",
+            "img_url": "https://i.scdn.co/image/5dd1c6e3dcc39208194333159f7a5df2c92dbd5e",
+            "nombre": "The Modern Lovers",
+            "popularidad": 54,
+            "seguidores": 114975
+        },
+        {
+            "generos": [
+                "alternative rock",
+                "art punk",
+                "art rock",
+                "dance rock",
+                "experimental",
+                "indie rock",
+                "new wave",
+                "no wave",
+                "post-punk",
+                "protopunk",
+                "psychedelic rock",
+                "punk",
+                "punk blues",
+                "rock"
+            ],
+            "id": "0S7Zur2g8YhqlzqtlYStli",
+            "img_url": "https://i.scdn.co/image/26da5a74d4273e0e9116ac7cbb4443def62fa3be",
+            "nombre": "Television",
+            "popularidad": 54,
+            "seguidores": 229257
+        },
+        {
+            "generos": [
+                "art rock",
+                "classic rock",
+                "dance rock",
+                "glam rock",
+                "permanent wave",
+                "psychedelic rock",
+                "rock",
+                "singer-songwriter"
+            ],
+            "id": "42TFhl7WlMRXiNqzSrnzPL",
+            "img_url": "https://i.scdn.co/image/2e1e9a6fe696b536a1f9e6a27fc1ed23d2c97099",
+            "nombre": "Lou Reed",
+            "popularidad": 69,
+            "seguidores": 1199144
+        },
+        {
+            "generos": [
+                "alternative rock",
+                "classic rock",
+                "dance rock",
+                "garage rock",
+                "permanent wave",
+                "post-punk",
+                "protopunk",
+                "psychedelic rock",
+                "punk",
+                "punk blues",
+                "rock"
+            ],
+            "id": "4BFMTELQyWJU1SwqcXMBm3",
+            "img_url": "https://i.scdn.co/image/1d9f0cf8e6d8d51f28369eccd78dca2882fb0d83",
+            "nombre": "The Stooges",
+            "popularidad": 58,
+            "seguidores": 400393
+        },
+        {
+            "generos": [
+                "art punk",
+                "art rock",
+                "dance rock",
+                "folk rock",
+                "permanent wave",
+                "protopunk",
+                "rock"
+            ],
+            "id": "0vYkHhJ48Bs3jWcvZXvOrP",
+            "img_url": "https://i.scdn.co/image/20e52d0b168541016f901d9ec6d4f2a0e41f193b",
+            "nombre": "Patti Smith",
+            "popularidad": 63,
+            "seguidores": 658857
+        },
+        {
+            "generos": [
+                "alternative rock",
+                "anti-folk",
+                "art pop",
+                "art rock",
+                "country rock",
+                "dance rock",
+                "experimental",
+                "folk",
+                "folk rock",
+                "melancholia",
+                "post-punk",
+                "psychedelic rock",
+                "pub rock",
+                "roots rock",
+                "singer-songwriter",
+                "traditional folk",
+                "uk post-punk"
+            ],
+            "id": "5MWBg16f5UYiaSlyVhzlIW",
+            "img_url": "https://i.scdn.co/image/ab6772690000c46c1d8c27730e94015b42625261",
+            "nombre": "John Cale",
+            "popularidad": 55,
+            "seguidores": 119685
+        },
+        {
+            "generos": [
+                "alternative rock",
+                "art pop",
+                "art rock",
+                "experimental",
+                "folk rock",
+                "melancholia",
+                "post-punk",
+                "psychedelic rock"
+            ],
+            "id": "0IwlY33zbBXN7zlS9DP2Cj",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b27398260c528e6eec9dd431c1d7",
+            "nombre": "Nico",
+            "popularidad": 64,
+            "seguidores": 171248
+        },
+        {
+            "generos": [
+                "alternative rock",
+                "anti-folk",
+                "art pop",
+                "art rock",
+                "dance rock",
+                "dream pop",
+                "freak folk",
+                "gbvfi",
+                "indie pop",
+                "indie rock",
+                "lo-fi",
+                "melancholia",
+                "new wave",
+                "noise pop",
+                "nu gaze",
+                "shoegaze",
+                "slowcore"
+            ],
+            "id": "6guTJsgPymDUVfqDJyz5UG",
+            "img_url": "https://i.scdn.co/image/1c01d10b1b0eb6434f96f1167cae521c33b8dbb0",
+            "nombre": "Galaxie 500",
+            "popularidad": 50,
+            "seguidores": 100098
+        },
+        {
+            "generos": [
+                "alternative rock",
+                "classic rock",
+                "dance rock",
+                "glam rock",
+                "new wave",
+                "permanent wave",
+                "post-punk",
+                "protopunk",
+                "punk",
+                "rock"
+            ],
+            "id": "33EUXrFKGjpUSGacqEHhU4",
+            "img_url": "https://i.scdn.co/image/4ad7f961423843597bc7d6c6691c9988883dd794",
+            "nombre": "Iggy Pop",
+            "popularidad": 68,
+            "seguidores": 1041776
+        },
+        {
+            "generos": [
+                "alternative rock",
+                "art rock",
+                "dance rock",
+                "dance-punk",
+                "experimental",
+                "experimental rock",
+                "industrial",
+                "lo-fi",
+                "new wave",
+                "no wave",
+                "psychedelic rock",
+                "punk",
+                "synth punk"
+            ],
+            "id": "6uVeWolwyRDrT84lLsaZyW",
+            "img_url": "https://i.scdn.co/image/4ec33d5a13bbfc863c674da4be04f893418ddf28",
+            "nombre": "Suicide",
+            "popularidad": 50,
+            "seguidores": 103624
+        },
+        {
+            "generos": [
+                "alternative rock",
+                "art pop",
+                "art punk",
+                "art rock",
+                "dance rock",
+                "dance-punk",
+                "experimental",
+                "experimental rock",
+                "gbvfi",
+                "new wave",
+                "post-hardcore",
+                "post-punk",
+                "psychedelic rock",
+                "punk",
+                "punk blues",
+                "uk post-punk"
+            ],
+            "id": "2i8ynmFv4qgRksyDlBgi6d",
+            "img_url": "https://i.scdn.co/image/45eb48ce33d13777a2f0884de827fb53ead77831",
+            "nombre": "Wire",
+            "popularidad": 51,
+            "seguidores": 119013
+        },
+        {
+            "generos": [
+                "alternative rock",
+                "art rock",
+                "baroque pop",
+                "beatlesque",
+                "country rock",
+                "dance rock",
+                "folk",
+                "folk rock",
+                "gbvfi",
+                "indie rock",
+                "jangle pop",
+                "melancholia",
+                "power pop",
+                "psychedelic rock",
+                "pub rock",
+                "roots rock"
+            ],
+            "id": "3UvcmAOZt64oKpP95f6MMM",
+            "img_url": "https://i.scdn.co/image/f14be5a9d0ae296706b8b46f39b4b5d8e8c34da3",
+            "nombre": "Big Star",
+            "popularidad": 52,
+            "seguidores": 99643
+        },
+        {
+            "generos": [
+                "alternative rock",
+                "anti-folk",
+                "art rock",
+                "dance rock",
+                "lo-fi",
+                "protopunk",
+                "singer-songwriter",
+                "traditional folk"
+            ],
+            "id": "6hkch2KhRl0tywpeVK5xR5",
+            "img_url": "https://i.scdn.co/image/67b06c05d9e998d4cce7b549ddb6ddf9c28bb4c8",
+            "nombre": "Jonathan Richman",
+            "popularidad": 49,
+            "seguidores": 51071
+        },
+        {
+            "generos": [
+                "alternative rock",
+                "anti-folk",
+                "art rock",
+                "dance rock",
+                "freak folk",
+                "indie pop",
+                "indie rock",
+                "lo-fi",
+                "modern rock",
+                "new wave",
+                "rock"
+            ],
+            "id": "3inCNiUr4R6XQ3W43s9Aqi",
+            "img_url": "https://i.scdn.co/image/80c16daae85fd73f63aa9d64a30aa4029056bea3",
+            "nombre": "Pavement",
+            "popularidad": 61,
+            "seguidores": 313497
+        },
+        {
+            "generos": [
+                "alternative rock",
+                "anti-folk",
+                "art punk",
+                "lo-fi",
+                "madchester",
+                "post-punk",
+                "punk",
+                "punk blues",
+                "uk post-punk"
+            ],
+            "id": "6WoTvA9qinpHtSRJuldYh6",
+            "img_url": "https://i.scdn.co/image/6ae52f49810c82f17fb2fc56f9130662b340e0f3",
+            "nombre": "The Fall",
+            "popularidad": 52,
+            "seguidores": 131299
+        },
+        {
+            "generos": [
+                "alternative rock",
+                "art rock",
+                "dance rock",
+                "dance-punk",
+                "experimental",
+                "experimental rock",
+                "krautrock",
+                "post-punk",
+                "psychedelic rock",
+                "space rock"
+            ],
+            "id": "4l8xPGtl6DHR2uvunqrl8r",
+            "img_url": "https://i.scdn.co/image/1594332f1db6e175441fe41954cbb8474ca60b0a",
+            "nombre": "CAN",
+            "popularidad": 56,
+            "seguidores": 187807
+        },
+        {
+            "generos": [
+                "album rock",
+                "art rock",
+                "beatlesque",
+                "blues rock",
+                "bubblegum pop",
+                "classic rock",
+                "country rock",
+                "folk rock",
+                "jangle pop",
+                "mellow gold",
+                "power pop",
+                "psychedelic rock",
+                "rock",
+                "roots rock",
+                "soft rock",
+                "symphonic rock"
+            ],
+            "id": "4pJCawaKSZ40EnxN0YEYw3",
+            "img_url": "https://i.scdn.co/image/b97b494de7eb8619b1e2765ec5b0fe327e09b809",
+            "nombre": "Badfinger",
+            "popularidad": 57,
+            "seguidores": 212833
+        },
+        {
+            "generos": [
+                "brill building pop",
+                "bubblegum pop",
+                "classic rock",
+                "folk",
+                "folk rock",
+                "mellow gold",
+                "psychedelic rock",
+                "rock",
+                "soft rock",
+                "sunshine pop"
+            ],
+            "id": "1bs7HoMkSyQwcobCpE9KpN",
+            "img_url": "https://i.scdn.co/image/6fce95df71363a9432e4adc75765e2dae269430b",
+            "nombre": "The Mamas & The Papas",
+            "popularidad": 70,
+            "seguidores": 946853
+        },
+        {
+            "generos": [
+                "acid rock",
+                "classic garage rock",
+                "experimental",
+                "folk rock",
+                "freakbeat",
+                "protopunk",
+                "psychedelic rock"
+            ],
+            "id": "7xYxgSJaIf7yOFLmknYX38",
+            "img_url": "https://i.scdn.co/image/28a9fd41516d5ad8cd092a2afed48346612dcfa8",
+            "nombre": "13th Floor Elevators",
+            "popularidad": 46,
+            "seguidores": 85833
+        },
+        {
+            "generos": [
+                "art rock",
+                "british folk",
+                "canterbury scene",
+                "country rock",
+                "experimental",
+                "folk rock",
+                "progressive rock",
+                "psychedelic rock",
+                "pub rock",
+                "space rock",
+                "symphonic rock"
+            ],
+            "id": "5k5yIvxtsqHqWrRBF3nhSY",
+            "img_url": "https://i.scdn.co/image/1e8b05d517ec6570e5420ab505745a061d7b4493",
+            "nombre": "Kevin Ayers",
+            "popularidad": 42,
+            "seguidores": 31687
+        },
+        {
+            "generos": [
+                "acid rock",
+                "brill building pop",
+                "classic garage rock",
+                "experimental",
+                "folk rock",
+                "freakbeat",
+                "protopunk",
+                "psychedelic rock"
+            ],
+            "id": "1kkpNi8Ii5MhBMxmUhN5g9",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b2730483232f2c2961c731e9346e",
+            "nombre": "The Electric Prunes",
+            "popularidad": 41,
+            "seguidores": 44727
+        },
+        {
+            "generos": [
+                "british folk",
+                "canterbury scene",
+                "experimental",
+                "folk",
+                "folk rock",
+                "psychedelic folk",
+                "psychedelic rock",
+                "traditional folk"
+            ],
+            "id": "0tQzBYPjAardhWpGkqVdNW",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b2730987b713f60b59957f2681fe",
+            "nombre": "The Incredible String Band",
+            "popularidad": 36,
+            "seguidores": 35193
+        },
+        {
+            "generos": [
+                "classic garage rock",
+                "classic psychedelic rock",
+                "folk rock",
+                "freakbeat",
+                "psychedelic rock"
+            ],
+            "id": "16gYwSgslBoQ1b6wfxoHOF",
+            "img_url": "https://i.scdn.co/image/7fe027ff687519de3bbfed8911199ccf8840f1c7",
+            "nombre": "Kaleidoscope",
+            "popularidad": 33,
+            "seguidores": 24108
+        },
+        {
+            "generos": [
+                "experimental",
+                "psychedelic rock"
+            ],
+            "id": "5pq14S4AFVXGSyYbIGJC6Q",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b273fdb51b1feb42fbe3e41a2353",
+            "nombre": "The United States Of America",
+            "popularidad": 27,
+            "seguidores": 12472
+        },
+        {
+            "generos": [
+                "art rock",
+                "canterbury scene",
+                "dance rock",
+                "experimental",
+                "experimental rock",
+                "folk rock",
+                "outsider",
+                "post-punk",
+                "protopunk",
+                "psychedelic rock",
+                "roots rock",
+                "zolo"
+            ],
+            "id": "2k8kY9zHUWxuTtwV4UutHw",
+            "img_url": "https://i.scdn.co/image/49afcbded4da4e8f8508fb499422beb3141147a2",
+            "nombre": "Captain Beefheart & His Magic Band",
+            "popularidad": 52,
+            "seguidores": 127268
+        },
+        {
+            "generos": [
+                "british folk",
+                "cosmic american",
+                "country rock",
+                "experimental",
+                "folk rock",
+                "outsider",
+                "psychedelic rock"
+            ],
+            "id": "25e8CxfStX7gVfGIQL2qMd",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b273ff39e1c459aa3900ccb9de21",
+            "nombre": "Alexander 'Skip' Spence",
+            "popularidad": 28,
+            "seguidores": 8407
+        },
+        {
+            "generos": [
+                "art rock",
+                "british folk",
+                "canterbury scene",
+                "experimental",
+                "experimental rock",
+                "fourth world",
+                "post-punk",
+                "psychedelic rock",
+                "zolo"
+            ],
+            "id": "5iksmHDN2qZQcgFfXqIXtT",
+            "img_url": "https://i.scdn.co/image/e8fc5c927b24a4b9db3e595e57ead0ac7a2d3a98",
+            "nombre": "Robert Wyatt",
+            "popularidad": 45,
+            "seguidores": 55740
+        },
+        {
+            "generos": [
+                "art pop",
+                "art rock",
+                "cosmic american",
+                "country rock",
+                "experimental",
+                "folk",
+                "folk rock",
+                "psychedelic folk",
+                "psychedelic rock",
+                "roots rock",
+                "singer-songwriter",
+                "traditional folk"
+            ],
+            "id": "6zHRqvws8dVeqL8D31ponr",
+            "img_url": "https://i.scdn.co/image/d1058a1dd29c50ab5814dab42ad2137eb25ee8d6",
+            "nombre": "Tim Buckley",
+            "popularidad": 53,
+            "seguidores": 141912
+        },
+        {
+            "generos": [
+                "art rock",
+                "dance-punk",
+                "experimental",
+                "experimental rock",
+                "industrial",
+                "post-punk",
+                "psychedelic rock",
+                "zolo"
+            ],
+            "id": "6dP7OHshDvGHaNNSwunol4",
+            "img_url": "https://i.scdn.co/image/150e46972230c23330765e0e0250d599afaba622",
+            "nombre": "Silver Apples",
+            "popularidad": 40,
+            "seguidores": 36441
+        },
+        {
+            "generos": [
+                "art rock",
+                "canterbury scene",
+                "experimental",
+                "jazz fusion",
+                "jazz rock",
+                "progressive rock",
+                "psychedelic rock",
+                "space rock",
+                "symphonic rock",
+                "zolo"
+            ],
+            "id": "5A0MH7JfEBEMySevsmauds",
+            "img_url": "https://i.scdn.co/image/6d1a3e811561a488c1c7d0b320403268ec027b70",
+            "nombre": "Soft Machine",
+            "popularidad": 42,
+            "seguidores": 79532
+        },
+        {
+            "generos": [
+                "album rock",
+                "beatlesque",
+                "classic rock",
+                "folk rock",
+                "mellow gold",
+                "psychedelic rock",
+                "rock",
+                "roots rock",
+                "soft rock"
+            ],
+            "id": "7FIoB5PHdrMZVC3q2HE5MS",
+            "img_url": "https://i.scdn.co/image/8d1b36f226245c6c6d5f9fa1d020f95a5e0d3253",
+            "nombre": "George Harrison",
+            "popularidad": 71,
+            "seguidores": 1627101
+        },
+        {
+            "generos": [
+                "album rock",
+                "blues rock",
+                "classic canadian rock",
+                "classic rock",
+                "cosmic american",
+                "country rock",
+                "folk",
+                "folk rock",
+                "heartland rock",
+                "jam band",
+                "mellow gold",
+                "psychedelic rock",
+                "rock",
+                "roots rock",
+                "soft rock",
+                "swamp rock",
+                "traditional folk"
+            ],
+            "id": "4vpDg7Y7fU982Ds30zawDA",
+            "img_url": "https://i.scdn.co/image/750c386b0ca07258347328b68e171bfcc1addead",
+            "nombre": "The Band",
+            "popularidad": 69,
+            "seguidores": 681849
+        },
+        {
+            "generos": [
+                "blues rock",
+                "classic rock",
+                "rock",
+                "rock-and-roll",
+                "rockabilly",
+                "soul"
+            ],
+            "id": "293zczrfYafIItmnmM3coR",
+            "img_url": "https://i.scdn.co/image/d58323616d4f5d22b51e9dfe0ba53aedabe53cd4",
+            "nombre": "Chuck Berry",
+            "popularidad": 69,
+            "seguidores": 1213718
+        },
+        {
+            "generos": [
+                "album rock",
+                "art rock",
+                "beatlesque",
+                "classic rock",
+                "folk rock",
+                "mellow gold",
+                "psychedelic rock",
+                "rock"
+            ],
+            "id": "4x1nvY2FN8jxqAFA0DA02H",
+            "img_url": "https://i.scdn.co/image/bb44a853b1bae0d3ad25816af544085791f09600",
+            "nombre": "John Lennon",
+            "popularidad": 74,
+            "seguidores": 3673960
+        },
+        {
+            "generos": [
+                "album rock",
+                "classic rock",
+                "country rock",
+                "rock",
+                "roots rock",
+                "southern rock",
+                "swamp rock"
+            ],
+            "id": "3IYUhFvPQItj6xySrBmZkd",
+            "img_url": "https://i.scdn.co/image/a02c89d6abef58ad10832020c06f6a8a38dd9a32",
+            "nombre": "Creedence Clearwater Revival",
+            "popularidad": 81,
+            "seguidores": 3739141
+        },
+        {
+            "generos": [
+                "album rock",
+                "classic rock",
+                "country rock",
+                "folk rock",
+                "hard rock",
+                "heartland rock",
+                "mellow gold",
+                "pop rock",
+                "psychedelic rock",
+                "rock",
+                "roots rock",
+                "soft rock"
+            ],
+            "id": "4tX2TplrkIP4v05BNC903e",
+            "img_url": "https://i.scdn.co/image/b3c930705d502022b13f9c7134db8ae84a8ae71f",
+            "nombre": "Tom Petty and the Heartbreakers",
+            "popularidad": 73,
+            "seguidores": 1531802
+        },
+        {
+            "generos": [
+                "art rock",
+                "brill building pop",
+                "classic rock",
+                "country rock",
+                "folk",
+                "folk rock",
+                "mellow gold",
+                "rock",
+                "roots rock",
+                "singer-songwriter",
+                "soft rock",
+                "traditional folk"
+            ],
+            "id": "3RTzAwFprBqiskp550eSJX",
+            "img_url": "https://i.scdn.co/image/775f9134b3f1cf04551b7a666eb811b796f2ca8c",
+            "nombre": "Harry Nilsson",
+            "popularidad": 63,
+            "seguidores": 264059
+        },
+        {
+            "generos": [
+                "beatlesque",
+                "country rock",
+                "folk rock",
+                "power pop"
+            ],
+            "id": "1yap1SgRPMxgyfrrDlQ95y",
+            "img_url": "https://i.scdn.co/image/f65dc2462cb205dd045133afeed772a2b5afe0b6",
+            "nombre": "Emitt Rhodes",
+            "popularidad": 44,
+            "seguidores": 17219
+        },
+        {
+            "generos": [
+                "adult standards",
+                "brill building pop",
+                "bubblegum pop",
+                "classic rock",
+                "country rock",
+                "folk",
+                "folk rock",
+                "mellow gold",
+                "merseybeat",
+                "psychedelic rock",
+                "soft rock",
+                "sunshine pop"
+            ],
+            "id": "2kuNswDC82PL9xRbfaZJaS",
+            "img_url": "https://i.scdn.co/image/12b6e1639f825d48564b201aec846639bade25d8",
+            "nombre": "The Association",
+            "popularidad": 51,
+            "seguidores": 134929
+        },
+        {
+            "generos": [
+                "classic garage rock",
+                "folk rock",
+                "freakbeat",
+                "garage rock",
+                "protopunk",
+                "psychedelic rock",
+                "punk blues"
+            ],
+            "id": "5mcarhiatlvfCghqcn73rC",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b273fcb35a573a3811f1a67e15a6",
+            "nombre": "The Seeds",
+            "popularidad": 42,
+            "seguidores": 48321
+        },
+        {
+            "generos": [
+                "album rock",
+                "classic rock",
+                "glam metal",
+                "hard rock",
+                "metal",
+                "rock"
+            ],
+            "id": "6SLAMfhOi7UJI0fMztaK0m",
+            "img_url": "https://i.scdn.co/image/e0ad73e5231086142031094d86e8bef61576268c",
+            "nombre": "Rainbow",
+            "popularidad": 64,
+            "seguidores": 860382
+        },
+        {
+            "generos": [
+                "album rock",
+                "blues rock",
+                "classic rock",
+                "hard rock",
+                "mellow gold",
+                "metal",
+                "rock"
+            ],
+            "id": "6fvN9GmMCVKb5LY0WsnjFP",
+            "img_url": "https://i.scdn.co/image/9ab3e0255bee09e6a21ed101fb80800eff568ab3",
+            "nombre": "Nazareth",
+            "popularidad": 63,
+            "seguidores": 776851
+        },
+        {
+            "generos": [
+                "album rock",
+                "art rock",
+                "blues rock",
+                "classic rock",
+                "hard rock",
+                "metal",
+                "progressive rock",
+                "psychedelic rock",
+                "rock",
+                "symphonic rock"
+            ],
+            "id": "45O9BwPMyywM755SYUK0sP",
+            "img_url": "https://i.scdn.co/image/ab9f63929e7f3410f0a6b04f690cd096354d4e63",
+            "nombre": "Uriah Heep",
+            "popularidad": 57,
+            "seguidores": 460512
+        },
+        {
+            "generos": [
+                "album rock",
+                "blues rock",
+                "classic rock",
+                "glam metal",
+                "hard rock",
+                "metal",
+                "rock"
+            ],
+            "id": "2Omy3P5hFZym7FKum1JA1s",
+            "img_url": "https://i.scdn.co/image/f15893f87a3f460765776905100bb6ea17e3920c",
+            "nombre": "UFO",
+            "popularidad": 56,
+            "seguidores": 334113
+        },
+        {
+            "generos": [
+                "album rock",
+                "classic rock",
+                "glam metal",
+                "hard rock",
+                "metal",
+                "power metal",
+                "rock",
+                "speed metal"
+            ],
+            "id": "4CYeVo5iZbtYGBN4Isc3n6",
+            "img_url": "https://i.scdn.co/image/1cfd898d7f1eedf88c520ba373c2b448189db4f3",
+            "nombre": "Dio",
+            "popularidad": 65,
+            "seguidores": 1449109
+        },
+        {
+            "generos": [
+                "album rock",
+                "birmingham metal",
+                "classic rock",
+                "hard rock",
+                "metal",
+                "power metal",
+                "rock"
+            ],
+            "id": "2tRsMl4eGxwoNabM08Dm4I",
+            "img_url": "https://i.scdn.co/image/d6df710d0a8244dc02fae361d89b7d2ffb4dfba3",
+            "nombre": "Judas Priest",
+            "popularidad": 70,
+            "seguidores": 2253221
+        },
+        {
+            "generos": [
+                "album rock",
+                "blues rock",
+                "german hard rock",
+                "glam metal",
+                "hard rock",
+                "metal",
+                "neo classical metal",
+                "rock"
+            ],
+            "id": "5uSY4FF3dZMCVSkZslKCHi",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b27369d45b47df650ef564dc1709",
+            "nombre": "Michael Schenker Group",
+            "popularidad": 44,
+            "seguidores": 112496
+        },
+        {
+            "generos": [
+                "album rock",
+                "british blues",
+                "classic rock",
+                "glam metal",
+                "hard rock",
+                "metal",
+                "rock"
+            ],
+            "id": "3UbyYnvNIT5DFXU4WgiGpP",
+            "img_url": "https://i.scdn.co/image/cf364f9aefbcb7d8e3ab1c4c355a169fdd65e22a",
+            "nombre": "Whitesnake",
+            "popularidad": 70,
+            "seguidores": 1733042
+        },
+        {
+            "generos": [
+                "album rock",
+                "art rock",
+                "blues rock",
+                "glam rock",
+                "hard rock",
+                "rock"
+            ],
+            "id": "10n5lhNDoSMUHWLlnST1yw",
+            "img_url": "https://i.scdn.co/image/bfb524af354a6542bd2c5f56070806186636b8dc",
+            "nombre": "Slade",
+            "popularidad": 55,
+            "seguidores": 195312
+        },
+        {
+            "generos": [
+                "album rock",
+                "german metal",
+                "glam metal",
+                "hard rock",
+                "metal",
+                "power metal",
+                "rock",
+                "speed metal",
+                "thrash metal"
+            ],
+            "id": "3JDIAtVrJdQ7GFOX26LYpv",
+            "img_url": "https://i.scdn.co/image/311aa9cae606cb5202daef71f826544c02cb800e",
+            "nombre": "Accept",
+            "popularidad": 60,
+            "seguidores": 513754
+        },
+        {
+            "generos": [
+                "album rock",
+                "hard rock",
+                "metal",
+                "power metal",
+                "rock",
+                "speed metal"
+            ],
+            "id": "4UjiBRkTw9VmvDZiJZKPJ7",
+            "img_url": "https://i.scdn.co/image/efaf546ae3e4bcadcadff23508feb742dc469637",
+            "nombre": "Heaven & Hell",
+            "popularidad": 39,
+            "seguidores": 136914
+        },
+        {
+            "generos": [
+                "album rock",
+                "blues rock",
+                "british blues",
+                "classic rock",
+                "electric blues",
+                "hard rock",
+                "rock"
+            ],
+            "id": "23wr9RJZg0PmYvVFyNkQ4j",
+            "img_url": "https://i.scdn.co/image/b3120e0f1cd061fb792dca4e20c3c8f61cc34fec",
+            "nombre": "Gary Moore",
+            "popularidad": 62,
+            "seguidores": 376909
+        },
+        {
+            "generos": [
+                "album rock",
+                "glam metal",
+                "hard rock",
+                "metal",
+                "nwobhm",
+                "power metal",
+                "rock",
+                "speed metal"
+            ],
+            "id": "71vVmHeNgCVSa5SVmfvscU",
+            "img_url": "https://i.scdn.co/image/b32a524dbac6ca33f9f840660df06f0b8520f8aa",
+            "nombre": "Saxon",
+            "popularidad": 56,
+            "seguidores": 344361
+        }
+    ]
+}

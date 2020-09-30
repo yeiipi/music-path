@@ -1,0 +1,4804 @@
+{
+    "generos": [
+        "dance pop",
+        "pop",
+        "hollywood",
+        "new wave pop",
+        "disco",
+        "europop",
+        "soft rock",
+        "adult standards",
+        "folk",
+        "mellow gold",
+        "dance rock",
+        "permanent wave",
+        "pop rock",
+        "urban contemporary",
+        "new romantic",
+        "diva house",
+        "strut",
+        "vocal house",
+        "australian dance",
+        "bubblegum pop",
+        "hi-nrg",
+        "motown",
+        "bubblegum dance",
+        "electropop",
+        "album rock",
+        "jangle pop",
+        "new wave",
+        "paisley underground",
+        "rock",
+        "australian pop",
+        "disco house",
+        "eurodance",
+        "girl group",
+        "quiet storm",
+        "swedish pop",
+        "canadian pop",
+        "latin pop",
+        "canadian latin",
+        "pop rap",
+        "post-teen pop",
+        "hip pop",
+        "neo mellow",
+        "hip hop",
+        "r&b",
+        "lilith",
+        "uk pop",
+        "art pop",
+        "scandipop",
+        "swedish electropop",
+        "synthpop",
+        "sophisti-pop",
+        "candy pop",
+        "power pop",
+        "classic rock",
+        "minneapolis sound",
+        "art rock",
+        "lgbtq+ hip hop",
+        "escape room",
+        "vogue",
+        "electropowerpop",
+        "alternative rock",
+        "la indie",
+        "metropopolis",
+        "neo-synthpop",
+        "boy band",
+        "freestyle",
+        "new jack swing",
+        "post-disco",
+        "electro",
+        "funk",
+        "rock drums",
+        "italian disco",
+        "neo soul",
+        "atl hip hop",
+        "pop r&b",
+        "viral pop",
+        "philly rap",
+        "rap",
+        "southern hip hop",
+        "soul",
+        "east coast hip hop",
+        "trap queen",
+        "philly soul",
+        "classic soul",
+        "hammond organ",
+        "electronica",
+        "classic girl group",
+        "british soul",
+        "hip house",
+        "yacht rock",
+        "talent show",
+        "indie poptimism",
+        "classic uk pop",
+        "alternative dance",
+        "new rave",
+        "trip hop",
+        "electroclash",
+        "bmore",
+        "indie pop",
+        "swedish indie pop",
+        "swedish alternative rock",
+        "swedish synthpop",
+        "indietronica",
+        "dance-punk",
+        "electro-pop francais",
+        "filter house",
+        "french indie pop",
+        "big beat",
+        "chamber psych",
+        "chillwave",
+        "indie soul",
+        "uk alternative pop",
+        "pop soul",
+        "tropical house",
+        "afrofuturism",
+        "alternative r&b",
+        "gothenburg indie",
+        "etherpop",
+        "indie r&b",
+        "shimmer pop",
+        "shiver pop",
+        "vapor soul",
+        "hyperpop",
+        "uk garage",
+        "spanish pop"
+    ],
+    "links": [
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "72OaDtakiy6yFqkt4TsiFt"
+        },
+        {
+            "source": "72OaDtakiy6yFqkt4TsiFt",
+            "target": "1zuJe6b1roixEKMOtyrEak"
+        },
+        {
+            "source": "72OaDtakiy6yFqkt4TsiFt",
+            "target": "13y0kncDD4J9wxCyfKr10W"
+        },
+        {
+            "source": "72OaDtakiy6yFqkt4TsiFt",
+            "target": "0SD4eZCN4Kr0wQk56hCdh2"
+        },
+        {
+            "source": "72OaDtakiy6yFqkt4TsiFt",
+            "target": "2BTZIqw0ntH9MvilQ3ewNY"
+        },
+        {
+            "source": "72OaDtakiy6yFqkt4TsiFt",
+            "target": "4PpmBoqphQusNFsxuVKb6j"
+        },
+        {
+            "source": "72OaDtakiy6yFqkt4TsiFt",
+            "target": "7xkAwz0bQTGDSbkofyQt3U"
+        },
+        {
+            "source": "72OaDtakiy6yFqkt4TsiFt",
+            "target": "5MspMQqdVbdwP6ax3GXqum"
+        },
+        {
+            "source": "72OaDtakiy6yFqkt4TsiFt",
+            "target": "2SdOKxC1sSxEyv8JYERaNe"
+        },
+        {
+            "source": "72OaDtakiy6yFqkt4TsiFt",
+            "target": "6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+            "source": "72OaDtakiy6yFqkt4TsiFt",
+            "target": "4BoRxUdrcgbbq1rxJvvhg9"
+        },
+        {
+            "source": "72OaDtakiy6yFqkt4TsiFt",
+            "target": "2eogQKWWoohI3BSnoG7E2U"
+        },
+        {
+            "source": "72OaDtakiy6yFqkt4TsiFt",
+            "target": "60vX3zLcdKRXvKLITVh5Df"
+        },
+        {
+            "source": "72OaDtakiy6yFqkt4TsiFt",
+            "target": "51l0uqRxGaczYr4271pVIC"
+        },
+        {
+            "source": "72OaDtakiy6yFqkt4TsiFt",
+            "target": "4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+            "source": "72OaDtakiy6yFqkt4TsiFt",
+            "target": "0uq5PttqEjj3IH1bzwcrXF"
+        },
+        {
+            "source": "72OaDtakiy6yFqkt4TsiFt",
+            "target": "2kreKea2n96dXjcyAU9j5N"
+        },
+        {
+            "source": "72OaDtakiy6yFqkt4TsiFt",
+            "target": "2SHhfs4BiDxGQ3oxqf0UHY"
+        },
+        {
+            "source": "72OaDtakiy6yFqkt4TsiFt",
+            "target": "4S9EykWXhStSc15wEx8QFK"
+        },
+        {
+            "source": "72OaDtakiy6yFqkt4TsiFt",
+            "target": "3sc7iUG1Wwpwx7bHeZolgx"
+        },
+        {
+            "source": "72OaDtakiy6yFqkt4TsiFt",
+            "target": "5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+            "source": "2jw70GZXlAI8QzWeY2bgRc",
+            "target": "2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+            "source": "2jw70GZXlAI8QzWeY2bgRc",
+            "target": "26dSoYclwsYLMAKD3tpOr4"
+        },
+        {
+            "source": "2jw70GZXlAI8QzWeY2bgRc",
+            "target": "6wPhSqRtPu1UhRCDX5yaDJ"
+        },
+        {
+            "source": "2jw70GZXlAI8QzWeY2bgRc",
+            "target": "4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+            "source": "2jw70GZXlAI8QzWeY2bgRc",
+            "target": "7o95ZoZt5ZYn31e9z1Hc0a"
+        },
+        {
+            "source": "2jw70GZXlAI8QzWeY2bgRc",
+            "target": "3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+            "source": "2jw70GZXlAI8QzWeY2bgRc",
+            "target": "40xbWSB4JPdOkRyuTDy1oP"
+        },
+        {
+            "source": "2jw70GZXlAI8QzWeY2bgRc",
+            "target": "6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+            "source": "2jw70GZXlAI8QzWeY2bgRc",
+            "target": "4hqDqHtBlgxXpLXVYf7c8L"
+        },
+        {
+            "source": "2jw70GZXlAI8QzWeY2bgRc",
+            "target": "1vkJFCwstOoJO7yQ4lTtLK"
+        },
+        {
+            "source": "2jw70GZXlAI8QzWeY2bgRc",
+            "target": "7rZNSLWMjTbwdLNskFbzFf"
+        },
+        {
+            "source": "2jw70GZXlAI8QzWeY2bgRc",
+            "target": "4vRSocKbGh7PsQrYRDVMEF"
+        },
+        {
+            "source": "2jw70GZXlAI8QzWeY2bgRc",
+            "target": "2S9W9aSAd7e5mp8WqWxN2h"
+        },
+        {
+            "source": "2jw70GZXlAI8QzWeY2bgRc",
+            "target": "4eAOcbAXIF4BmbN6E1QIlw"
+        },
+        {
+            "source": "2jw70GZXlAI8QzWeY2bgRc",
+            "target": "60vX3zLcdKRXvKLITVh5Df"
+        },
+        {
+            "source": "2jw70GZXlAI8QzWeY2bgRc",
+            "target": "1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+            "source": "2jw70GZXlAI8QzWeY2bgRc",
+            "target": "2Q3eZMfDQgT8MhPowKFXYO"
+        },
+        {
+            "source": "2jw70GZXlAI8QzWeY2bgRc",
+            "target": "4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+            "source": "2jw70GZXlAI8QzWeY2bgRc",
+            "target": "0dlOr0VIysztGWvU1dpjmP"
+        },
+        {
+            "source": "2jw70GZXlAI8QzWeY2bgRc",
+            "target": "2siHvYaxjaW5rKVRiIrMYH"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+            "source": "4RVnAU35WRWra6OZ3CbbMA",
+            "target": "60vX3zLcdKRXvKLITVh5Df"
+        },
+        {
+            "source": "4RVnAU35WRWra6OZ3CbbMA",
+            "target": "6XCS9JCn56Q252cMOTbeq6"
+        },
+        {
+            "source": "4RVnAU35WRWra6OZ3CbbMA",
+            "target": "7rZNSLWMjTbwdLNskFbzFf"
+        },
+        {
+            "source": "4RVnAU35WRWra6OZ3CbbMA",
+            "target": "12EtLdLfJ41vUOoVzPZIUy"
+        },
+        {
+            "source": "4RVnAU35WRWra6OZ3CbbMA",
+            "target": "5orH1OWgjAYUX8sZ5gihTv"
+        },
+        {
+            "source": "4RVnAU35WRWra6OZ3CbbMA",
+            "target": "2cBh5lVMg222FFuRU7EfDE"
+        },
+        {
+            "source": "4RVnAU35WRWra6OZ3CbbMA",
+            "target": "5TDVKqW9uhqGjwwwKGuma4"
+        },
+        {
+            "source": "4RVnAU35WRWra6OZ3CbbMA",
+            "target": "17UkABEasVRlCcIFZ3wHb7"
+        },
+        {
+            "source": "4RVnAU35WRWra6OZ3CbbMA",
+            "target": "0uq5PttqEjj3IH1bzwcrXF"
+        },
+        {
+            "source": "4RVnAU35WRWra6OZ3CbbMA",
+            "target": "15qI5w4XJFLRMwOp2VrlD5"
+        },
+        {
+            "source": "4RVnAU35WRWra6OZ3CbbMA",
+            "target": "6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+            "source": "4RVnAU35WRWra6OZ3CbbMA",
+            "target": "1vkJFCwstOoJO7yQ4lTtLK"
+        },
+        {
+            "source": "4RVnAU35WRWra6OZ3CbbMA",
+            "target": "6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+            "source": "4RVnAU35WRWra6OZ3CbbMA",
+            "target": "3sc7iUG1Wwpwx7bHeZolgx"
+        },
+        {
+            "source": "4RVnAU35WRWra6OZ3CbbMA",
+            "target": "2SdOKxC1sSxEyv8JYERaNe"
+        },
+        {
+            "source": "4RVnAU35WRWra6OZ3CbbMA",
+            "target": "3Y10boYzeuFCJ4Qgp53w6o"
+        },
+        {
+            "source": "4RVnAU35WRWra6OZ3CbbMA",
+            "target": "40xbWSB4JPdOkRyuTDy1oP"
+        },
+        {
+            "source": "4RVnAU35WRWra6OZ3CbbMA",
+            "target": "2AEEnr6Le5zHzBwpnlZSmq"
+        },
+        {
+            "source": "4RVnAU35WRWra6OZ3CbbMA",
+            "target": "4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+            "source": "4RVnAU35WRWra6OZ3CbbMA",
+            "target": "72OaDtakiy6yFqkt4TsiFt"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "2BTZIqw0ntH9MvilQ3ewNY"
+        },
+        {
+            "source": "2BTZIqw0ntH9MvilQ3ewNY",
+            "target": "7xkAwz0bQTGDSbkofyQt3U"
+        },
+        {
+            "source": "2BTZIqw0ntH9MvilQ3ewNY",
+            "target": "51l0uqRxGaczYr4271pVIC"
+        },
+        {
+            "source": "2BTZIqw0ntH9MvilQ3ewNY",
+            "target": "6kz53iCdBSqhQCZ21CoLcc"
+        },
+        {
+            "source": "2BTZIqw0ntH9MvilQ3ewNY",
+            "target": "3sc7iUG1Wwpwx7bHeZolgx"
+        },
+        {
+            "source": "2BTZIqw0ntH9MvilQ3ewNY",
+            "target": "4463nfFMmK1cwAWBQDwT5e"
+        },
+        {
+            "source": "2BTZIqw0ntH9MvilQ3ewNY",
+            "target": "73a6pNH4YtLNgDbPQwXveo"
+        },
+        {
+            "source": "2BTZIqw0ntH9MvilQ3ewNY",
+            "target": "0SD4eZCN4Kr0wQk56hCdh2"
+        },
+        {
+            "source": "2BTZIqw0ntH9MvilQ3ewNY",
+            "target": "2aS6jYh7ysTL1ZUsHneNgM"
+        },
+        {
+            "source": "2BTZIqw0ntH9MvilQ3ewNY",
+            "target": "1zuJe6b1roixEKMOtyrEak"
+        },
+        {
+            "source": "2BTZIqw0ntH9MvilQ3ewNY",
+            "target": "72OaDtakiy6yFqkt4TsiFt"
+        },
+        {
+            "source": "2BTZIqw0ntH9MvilQ3ewNY",
+            "target": "0NKDgy9j66h3DLnN8qu1bB"
+        },
+        {
+            "source": "2BTZIqw0ntH9MvilQ3ewNY",
+            "target": "18jZvCsW1PJ4FDQ5gEXuKp"
+        },
+        {
+            "source": "2BTZIqw0ntH9MvilQ3ewNY",
+            "target": "2mG8HHQ9S9kcbjcrb5N1FE"
+        },
+        {
+            "source": "2BTZIqw0ntH9MvilQ3ewNY",
+            "target": "5MspMQqdVbdwP6ax3GXqum"
+        },
+        {
+            "source": "2BTZIqw0ntH9MvilQ3ewNY",
+            "target": "43mhFhQ4JAknA7Ik1bOZuV"
+        },
+        {
+            "source": "2BTZIqw0ntH9MvilQ3ewNY",
+            "target": "3oZa8Xs6IjlIUGLAhVyK4G"
+        },
+        {
+            "source": "2BTZIqw0ntH9MvilQ3ewNY",
+            "target": "5dcOK4stT4JDkP6Dqhbz5s"
+        },
+        {
+            "source": "2BTZIqw0ntH9MvilQ3ewNY",
+            "target": "2kreKea2n96dXjcyAU9j5N"
+        },
+        {
+            "source": "2BTZIqw0ntH9MvilQ3ewNY",
+            "target": "6rqU9HQ57NYGBnBzbrY3a4"
+        },
+        {
+            "source": "2BTZIqw0ntH9MvilQ3ewNY",
+            "target": "2SHhfs4BiDxGQ3oxqf0UHY"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "2SdOKxC1sSxEyv8JYERaNe"
+        },
+        {
+            "source": "2SdOKxC1sSxEyv8JYERaNe",
+            "target": "6l0msaZPAzFDz1UDDv6BV8"
+        },
+        {
+            "source": "2SdOKxC1sSxEyv8JYERaNe",
+            "target": "5UxnCYXggRNdaKBUgPIviq"
+        },
+        {
+            "source": "2SdOKxC1sSxEyv8JYERaNe",
+            "target": "4k2ggpJpzdQHCBQ84f1jBy"
+        },
+        {
+            "source": "2SdOKxC1sSxEyv8JYERaNe",
+            "target": "1cJCVvFLO8SLM8W9EITe1g"
+        },
+        {
+            "source": "2SdOKxC1sSxEyv8JYERaNe",
+            "target": "4PpmBoqphQusNFsxuVKb6j"
+        },
+        {
+            "source": "2SdOKxC1sSxEyv8JYERaNe",
+            "target": "72OaDtakiy6yFqkt4TsiFt"
+        },
+        {
+            "source": "2SdOKxC1sSxEyv8JYERaNe",
+            "target": "5l1BwcEGGLpX6Y9668D8sd"
+        },
+        {
+            "source": "2SdOKxC1sSxEyv8JYERaNe",
+            "target": "3tdsh4B7GuigHI4vPtUs87"
+        },
+        {
+            "source": "2SdOKxC1sSxEyv8JYERaNe",
+            "target": "7yPRmfUuRcpGwOsHVqQgae"
+        },
+        {
+            "source": "2SdOKxC1sSxEyv8JYERaNe",
+            "target": "6XCS9JCn56Q252cMOTbeq6"
+        },
+        {
+            "source": "2SdOKxC1sSxEyv8JYERaNe",
+            "target": "0fWt4FY87imqsBJpt2QVL0"
+        },
+        {
+            "source": "2SdOKxC1sSxEyv8JYERaNe",
+            "target": "4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+            "source": "2SdOKxC1sSxEyv8JYERaNe",
+            "target": "1vkJFCwstOoJO7yQ4lTtLK"
+        },
+        {
+            "source": "2SdOKxC1sSxEyv8JYERaNe",
+            "target": "6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+            "source": "2SdOKxC1sSxEyv8JYERaNe",
+            "target": "0FrOnmhn1KtQ2n5mHF2SD6"
+        },
+        {
+            "source": "2SdOKxC1sSxEyv8JYERaNe",
+            "target": "6rYhtNKtoVz8SxSylWyUeR"
+        },
+        {
+            "source": "2SdOKxC1sSxEyv8JYERaNe",
+            "target": "27x5boWqlA0tWUHq9F1UPb"
+        },
+        {
+            "source": "2SdOKxC1sSxEyv8JYERaNe",
+            "target": "0ZVqyfTk5GaaRiQNQaW9jg"
+        },
+        {
+            "source": "2SdOKxC1sSxEyv8JYERaNe",
+            "target": "6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+            "source": "2SdOKxC1sSxEyv8JYERaNe",
+            "target": "6uPnr3XdPsToaX6kKfptwd"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+            "source": "4yiQZ8tQPux8cPriYMWUFP",
+            "target": "6wPhSqRtPu1UhRCDX5yaDJ"
+        },
+        {
+            "source": "4yiQZ8tQPux8cPriYMWUFP",
+            "target": "1vkJFCwstOoJO7yQ4lTtLK"
+        },
+        {
+            "source": "4yiQZ8tQPux8cPriYMWUFP",
+            "target": "3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+            "source": "4yiQZ8tQPux8cPriYMWUFP",
+            "target": "2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+            "source": "4yiQZ8tQPux8cPriYMWUFP",
+            "target": "40xbWSB4JPdOkRyuTDy1oP"
+        },
+        {
+            "source": "4yiQZ8tQPux8cPriYMWUFP",
+            "target": "4hqDqHtBlgxXpLXVYf7c8L"
+        },
+        {
+            "source": "4yiQZ8tQPux8cPriYMWUFP",
+            "target": "0cQbJU1aAzvbEmTuljWLlF"
+        },
+        {
+            "source": "4yiQZ8tQPux8cPriYMWUFP",
+            "target": "7o95ZoZt5ZYn31e9z1Hc0a"
+        },
+        {
+            "source": "4yiQZ8tQPux8cPriYMWUFP",
+            "target": "4vRSocKbGh7PsQrYRDVMEF"
+        },
+        {
+            "source": "4yiQZ8tQPux8cPriYMWUFP",
+            "target": "26dSoYclwsYLMAKD3tpOr4"
+        },
+        {
+            "source": "4yiQZ8tQPux8cPriYMWUFP",
+            "target": "7rZNSLWMjTbwdLNskFbzFf"
+        },
+        {
+            "source": "4yiQZ8tQPux8cPriYMWUFP",
+            "target": "2S9W9aSAd7e5mp8WqWxN2h"
+        },
+        {
+            "source": "4yiQZ8tQPux8cPriYMWUFP",
+            "target": "2tFN9ubMXEhdAQvdQxcsma"
+        },
+        {
+            "source": "4yiQZ8tQPux8cPriYMWUFP",
+            "target": "1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+            "source": "4yiQZ8tQPux8cPriYMWUFP",
+            "target": "2Q3eZMfDQgT8MhPowKFXYO"
+        },
+        {
+            "source": "4yiQZ8tQPux8cPriYMWUFP",
+            "target": "0uq5PttqEjj3IH1bzwcrXF"
+        },
+        {
+            "source": "4yiQZ8tQPux8cPriYMWUFP",
+            "target": "4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+            "source": "4yiQZ8tQPux8cPriYMWUFP",
+            "target": "12EtLdLfJ41vUOoVzPZIUy"
+        },
+        {
+            "source": "4yiQZ8tQPux8cPriYMWUFP",
+            "target": "0bOlhT8OcoC1lCpN69NcFP"
+        },
+        {
+            "source": "4yiQZ8tQPux8cPriYMWUFP",
+            "target": "7pyhre5oEEFMqcgMEvJY7q"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "0uq5PttqEjj3IH1bzwcrXF"
+        },
+        {
+            "source": "0uq5PttqEjj3IH1bzwcrXF",
+            "target": "5TDVKqW9uhqGjwwwKGuma4"
+        },
+        {
+            "source": "0uq5PttqEjj3IH1bzwcrXF",
+            "target": "2AEEnr6Le5zHzBwpnlZSmq"
+        },
+        {
+            "source": "0uq5PttqEjj3IH1bzwcrXF",
+            "target": "5orH1OWgjAYUX8sZ5gihTv"
+        },
+        {
+            "source": "0uq5PttqEjj3IH1bzwcrXF",
+            "target": "7rZNSLWMjTbwdLNskFbzFf"
+        },
+        {
+            "source": "0uq5PttqEjj3IH1bzwcrXF",
+            "target": "60vX3zLcdKRXvKLITVh5Df"
+        },
+        {
+            "source": "0uq5PttqEjj3IH1bzwcrXF",
+            "target": "12EtLdLfJ41vUOoVzPZIUy"
+        },
+        {
+            "source": "0uq5PttqEjj3IH1bzwcrXF",
+            "target": "1kM5rgJvkiDMOoKX56H6pX"
+        },
+        {
+            "source": "0uq5PttqEjj3IH1bzwcrXF",
+            "target": "17UkABEasVRlCcIFZ3wHb7"
+        },
+        {
+            "source": "0uq5PttqEjj3IH1bzwcrXF",
+            "target": "54w1dJI7MTjkRGNfGuu2fc"
+        },
+        {
+            "source": "0uq5PttqEjj3IH1bzwcrXF",
+            "target": "6JMHws5haIO6V35YNYDnDw"
+        },
+        {
+            "source": "0uq5PttqEjj3IH1bzwcrXF",
+            "target": "6rEzedK7cKWjeQWdAYvWVG"
+        },
+        {
+            "source": "0uq5PttqEjj3IH1bzwcrXF",
+            "target": "5zMgvYBz4AW0gFyPtg7fR9"
+        },
+        {
+            "source": "0uq5PttqEjj3IH1bzwcrXF",
+            "target": "6kBjAFKyd0he7LiA5GQ3Gz"
+        },
+        {
+            "source": "0uq5PttqEjj3IH1bzwcrXF",
+            "target": "3RjnAn8EWb7zaLlGWVxQeP"
+        },
+        {
+            "source": "0uq5PttqEjj3IH1bzwcrXF",
+            "target": "2vJU4d2jRQb4zJJIQRkyDB"
+        },
+        {
+            "source": "0uq5PttqEjj3IH1bzwcrXF",
+            "target": "7L12TqJ0fbwtFljTbwfwRI"
+        },
+        {
+            "source": "0uq5PttqEjj3IH1bzwcrXF",
+            "target": "72eP0W3rIhkxd0NHGg4w4u"
+        },
+        {
+            "source": "0uq5PttqEjj3IH1bzwcrXF",
+            "target": "15qI5w4XJFLRMwOp2VrlD5"
+        },
+        {
+            "source": "0uq5PttqEjj3IH1bzwcrXF",
+            "target": "2tFN9ubMXEhdAQvdQxcsma"
+        },
+        {
+            "source": "0uq5PttqEjj3IH1bzwcrXF",
+            "target": "6X9aYHnQ75YI8o08aoa0iS"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "4PpmBoqphQusNFsxuVKb6j"
+        },
+        {
+            "source": "4PpmBoqphQusNFsxuVKb6j",
+            "target": "32lVGr0fSRGT6okLKHiP68"
+        },
+        {
+            "source": "4PpmBoqphQusNFsxuVKb6j",
+            "target": "5nPz5R1FDPTMI3Dw4JnTGb"
+        },
+        {
+            "source": "4PpmBoqphQusNFsxuVKb6j",
+            "target": "18jZvCsW1PJ4FDQ5gEXuKp"
+        },
+        {
+            "source": "4PpmBoqphQusNFsxuVKb6j",
+            "target": "3AHq6rutf72JF0ul8GB6G2"
+        },
+        {
+            "source": "4PpmBoqphQusNFsxuVKb6j",
+            "target": "71aKjsWKYqASAffyIQaocZ"
+        },
+        {
+            "source": "4PpmBoqphQusNFsxuVKb6j",
+            "target": "40enFxfEXXsEXKOt1vgx0k"
+        },
+        {
+            "source": "4PpmBoqphQusNFsxuVKb6j",
+            "target": "4C3uGP8vRDzxrhJxZiOjTe"
+        },
+        {
+            "source": "4PpmBoqphQusNFsxuVKb6j",
+            "target": "702AvACMk5mieXIYlC2Gxx"
+        },
+        {
+            "source": "4PpmBoqphQusNFsxuVKb6j",
+            "target": "5dcOK4stT4JDkP6Dqhbz5s"
+        },
+        {
+            "source": "4PpmBoqphQusNFsxuVKb6j",
+            "target": "1yMYjh77WgOVafRkI50mim"
+        },
+        {
+            "source": "4PpmBoqphQusNFsxuVKb6j",
+            "target": "3vRclCt9VnNhYIxFMQCxuM"
+        },
+        {
+            "source": "4PpmBoqphQusNFsxuVKb6j",
+            "target": "5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+            "source": "4PpmBoqphQusNFsxuVKb6j",
+            "target": "2zVsfeSyFbCey7rq7PasHp"
+        },
+        {
+            "source": "4PpmBoqphQusNFsxuVKb6j",
+            "target": "1vgjN6nIPNKiiQGE9PtzTT"
+        },
+        {
+            "source": "4PpmBoqphQusNFsxuVKb6j",
+            "target": "18xgcedCGxFbqLbIQn5R8F"
+        },
+        {
+            "source": "4PpmBoqphQusNFsxuVKb6j",
+            "target": "6OQrOpxSIfPai3cFaN4v4P"
+        },
+        {
+            "source": "4PpmBoqphQusNFsxuVKb6j",
+            "target": "0ym94xKp2PIOJtTZKpxbAa"
+        },
+        {
+            "source": "4PpmBoqphQusNFsxuVKb6j",
+            "target": "1QtIfAa6y7w2JhxYJhYeUG"
+        },
+        {
+            "source": "4PpmBoqphQusNFsxuVKb6j",
+            "target": "4qwGe91Bz9K2T8jXTZ815W"
+        },
+        {
+            "source": "4PpmBoqphQusNFsxuVKb6j",
+            "target": "75L9s8KVrhCNtBUkZFnDFW"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+            "source": "2DlGxzQSjYe5N6G9nkYghR",
+            "target": "2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+            "source": "2DlGxzQSjYe5N6G9nkYghR",
+            "target": "26dSoYclwsYLMAKD3tpOr4"
+        },
+        {
+            "source": "2DlGxzQSjYe5N6G9nkYghR",
+            "target": "6wPhSqRtPu1UhRCDX5yaDJ"
+        },
+        {
+            "source": "2DlGxzQSjYe5N6G9nkYghR",
+            "target": "40xbWSB4JPdOkRyuTDy1oP"
+        },
+        {
+            "source": "2DlGxzQSjYe5N6G9nkYghR",
+            "target": "4eAOcbAXIF4BmbN6E1QIlw"
+        },
+        {
+            "source": "2DlGxzQSjYe5N6G9nkYghR",
+            "target": "1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+            "source": "2DlGxzQSjYe5N6G9nkYghR",
+            "target": "4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+            "source": "2DlGxzQSjYe5N6G9nkYghR",
+            "target": "0bOlhT8OcoC1lCpN69NcFP"
+        },
+        {
+            "source": "2DlGxzQSjYe5N6G9nkYghR",
+            "target": "1Y8cdNmUJH7yBTd9yOvr5i"
+        },
+        {
+            "source": "2DlGxzQSjYe5N6G9nkYghR",
+            "target": "3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+            "source": "2DlGxzQSjYe5N6G9nkYghR",
+            "target": "0uq5PttqEjj3IH1bzwcrXF"
+        },
+        {
+            "source": "2DlGxzQSjYe5N6G9nkYghR",
+            "target": "3AuMNF8rQAKOzjYppFNAoB"
+        },
+        {
+            "source": "2DlGxzQSjYe5N6G9nkYghR",
+            "target": "6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+            "source": "2DlGxzQSjYe5N6G9nkYghR",
+            "target": "2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+            "source": "2DlGxzQSjYe5N6G9nkYghR",
+            "target": "7rZNSLWMjTbwdLNskFbzFf"
+        },
+        {
+            "source": "2DlGxzQSjYe5N6G9nkYghR",
+            "target": "2AQjGvtT0pFYfxR3neFcvz"
+        },
+        {
+            "source": "2DlGxzQSjYe5N6G9nkYghR",
+            "target": "4qwGe91Bz9K2T8jXTZ815W"
+        },
+        {
+            "source": "2DlGxzQSjYe5N6G9nkYghR",
+            "target": "2tFN9ubMXEhdAQvdQxcsma"
+        },
+        {
+            "source": "2DlGxzQSjYe5N6G9nkYghR",
+            "target": "4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+            "source": "2DlGxzQSjYe5N6G9nkYghR",
+            "target": "4d3yvTptO48nOYTPBcPFZC"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "4qwGe91Bz9K2T8jXTZ815W"
+        },
+        {
+            "source": "4qwGe91Bz9K2T8jXTZ815W",
+            "target": "5fikk4h5qbEebqK2Fc6e48"
+        },
+        {
+            "source": "4qwGe91Bz9K2T8jXTZ815W",
+            "target": "3X458ddYA2YcVWuVIGGOYe"
+        },
+        {
+            "source": "4qwGe91Bz9K2T8jXTZ815W",
+            "target": "05oH07COxkXKIMt6mIPRee"
+        },
+        {
+            "source": "4qwGe91Bz9K2T8jXTZ815W",
+            "target": "08rMCq2ek1YjdDBsCPVH2s"
+        },
+        {
+            "source": "4qwGe91Bz9K2T8jXTZ815W",
+            "target": "0TImkz4nPqjegtVSMZnMRq"
+        },
+        {
+            "source": "4qwGe91Bz9K2T8jXTZ815W",
+            "target": "4PpmBoqphQusNFsxuVKb6j"
+        },
+        {
+            "source": "4qwGe91Bz9K2T8jXTZ815W",
+            "target": "6nzxy2wXs6tLgzEtqOkEi2"
+        },
+        {
+            "source": "4qwGe91Bz9K2T8jXTZ815W",
+            "target": "6lHL3ubAMgSasKjNqKb8HF"
+        },
+        {
+            "source": "4qwGe91Bz9K2T8jXTZ815W",
+            "target": "5NDMothbpdpq2xHqSjrrWn"
+        },
+        {
+            "source": "4qwGe91Bz9K2T8jXTZ815W",
+            "target": "2NmK5FyrQ18HOPXq1UBzqa"
+        },
+        {
+            "source": "4qwGe91Bz9K2T8jXTZ815W",
+            "target": "0le01dl1WllSHhjEXRl4in"
+        },
+        {
+            "source": "4qwGe91Bz9K2T8jXTZ815W",
+            "target": "0urTpYCsixqZwgNTkPJOJ4"
+        },
+        {
+            "source": "4qwGe91Bz9K2T8jXTZ815W",
+            "target": "5z2cHsOmmmWcAPNG1oEhw0"
+        },
+        {
+            "source": "4qwGe91Bz9K2T8jXTZ815W",
+            "target": "62sPt3fswraiEPnKQpAbdE"
+        },
+        {
+            "source": "4qwGe91Bz9K2T8jXTZ815W",
+            "target": "601893mmW5hl1FBOykWZHG"
+        },
+        {
+            "source": "4qwGe91Bz9K2T8jXTZ815W",
+            "target": "2S8UlyXW4JjjHcbeg8ddIo"
+        },
+        {
+            "source": "4qwGe91Bz9K2T8jXTZ815W",
+            "target": "3AuMNF8rQAKOzjYppFNAoB"
+        },
+        {
+            "source": "4qwGe91Bz9K2T8jXTZ815W",
+            "target": "3SRJWVa6lZnqRHOyAHmDrX"
+        },
+        {
+            "source": "4qwGe91Bz9K2T8jXTZ815W",
+            "target": "7vWlb4pM85jCHvV771qZZW"
+        },
+        {
+            "source": "4qwGe91Bz9K2T8jXTZ815W",
+            "target": "5tth2a3v0sWwV1C7bApBdX"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "2eogQKWWoohI3BSnoG7E2U"
+        },
+        {
+            "source": "2eogQKWWoohI3BSnoG7E2U",
+            "target": "6V6WCgi7waF55bJmylC4H5"
+        },
+        {
+            "source": "2eogQKWWoohI3BSnoG7E2U",
+            "target": "2kreKea2n96dXjcyAU9j5N"
+        },
+        {
+            "source": "2eogQKWWoohI3BSnoG7E2U",
+            "target": "6gkWznnJkdkwRPVcmnrays"
+        },
+        {
+            "source": "2eogQKWWoohI3BSnoG7E2U",
+            "target": "0dCKce6tJJdHvlWnDMwzPW"
+        },
+        {
+            "source": "2eogQKWWoohI3BSnoG7E2U",
+            "target": "1zgNpeHQe8GulzfVkYP2VK"
+        },
+        {
+            "source": "2eogQKWWoohI3BSnoG7E2U",
+            "target": "5TGTpu4g8siFOIctZuQO7y"
+        },
+        {
+            "source": "2eogQKWWoohI3BSnoG7E2U",
+            "target": "3mQBpAOMWYqAZyxtyeo4Lo"
+        },
+        {
+            "source": "2eogQKWWoohI3BSnoG7E2U",
+            "target": "0Xf8oDAJYd2D0k3NLI19OV"
+        },
+        {
+            "source": "2eogQKWWoohI3BSnoG7E2U",
+            "target": "5QHvbEwccF3WANUD5lEIuA"
+        },
+        {
+            "source": "2eogQKWWoohI3BSnoG7E2U",
+            "target": "3LfO03nEZMdWNHG2tLpMa0"
+        },
+        {
+            "source": "2eogQKWWoohI3BSnoG7E2U",
+            "target": "5b4SvpTqll0LSqJWPpXya5"
+        },
+        {
+            "source": "2eogQKWWoohI3BSnoG7E2U",
+            "target": "3MdG05syQeRYPPcClLaUGl"
+        },
+        {
+            "source": "2eogQKWWoohI3BSnoG7E2U",
+            "target": "1HvcqyRLS9nF8hAbTWOqpr"
+        },
+        {
+            "source": "2eogQKWWoohI3BSnoG7E2U",
+            "target": "3oZa8Xs6IjlIUGLAhVyK4G"
+        },
+        {
+            "source": "2eogQKWWoohI3BSnoG7E2U",
+            "target": "7Jbs4wPCLaKXPxrTxZ2zaa"
+        },
+        {
+            "source": "2eogQKWWoohI3BSnoG7E2U",
+            "target": "2f9ZiYA2ic1r1voObUimdd"
+        },
+        {
+            "source": "2eogQKWWoohI3BSnoG7E2U",
+            "target": "0lwRI7lvmlRY5DiA5Xa6wQ"
+        },
+        {
+            "source": "2eogQKWWoohI3BSnoG7E2U",
+            "target": "4BoRxUdrcgbbq1rxJvvhg9"
+        },
+        {
+            "source": "2eogQKWWoohI3BSnoG7E2U",
+            "target": "3rfgbfpPSfXY40lzRK7Syt"
+        },
+        {
+            "source": "2eogQKWWoohI3BSnoG7E2U",
+            "target": "2zpFG5cvw00QmrYTUsjApa"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "7xkAwz0bQTGDSbkofyQt3U"
+        },
+        {
+            "source": "7xkAwz0bQTGDSbkofyQt3U",
+            "target": "40enFxfEXXsEXKOt1vgx0k"
+        },
+        {
+            "source": "7xkAwz0bQTGDSbkofyQt3U",
+            "target": "47qTcvYlqJGAEsCI7BcENC"
+        },
+        {
+            "source": "7xkAwz0bQTGDSbkofyQt3U",
+            "target": "73a6pNH4YtLNgDbPQwXveo"
+        },
+        {
+            "source": "7xkAwz0bQTGDSbkofyQt3U",
+            "target": "51l0uqRxGaczYr4271pVIC"
+        },
+        {
+            "source": "7xkAwz0bQTGDSbkofyQt3U",
+            "target": "4463nfFMmK1cwAWBQDwT5e"
+        },
+        {
+            "source": "7xkAwz0bQTGDSbkofyQt3U",
+            "target": "3sc7iUG1Wwpwx7bHeZolgx"
+        },
+        {
+            "source": "7xkAwz0bQTGDSbkofyQt3U",
+            "target": "1yMYjh77WgOVafRkI50mim"
+        },
+        {
+            "source": "7xkAwz0bQTGDSbkofyQt3U",
+            "target": "18jZvCsW1PJ4FDQ5gEXuKp"
+        },
+        {
+            "source": "7xkAwz0bQTGDSbkofyQt3U",
+            "target": "4C3uGP8vRDzxrhJxZiOjTe"
+        },
+        {
+            "source": "7xkAwz0bQTGDSbkofyQt3U",
+            "target": "5dcOK4stT4JDkP6Dqhbz5s"
+        },
+        {
+            "source": "7xkAwz0bQTGDSbkofyQt3U",
+            "target": "7ooOn6bokl4mGV4CEaUz6A"
+        },
+        {
+            "source": "7xkAwz0bQTGDSbkofyQt3U",
+            "target": "0s0rOb0gT2S9N0SDcjtPC4"
+        },
+        {
+            "source": "7xkAwz0bQTGDSbkofyQt3U",
+            "target": "32lVGr0fSRGT6okLKHiP68"
+        },
+        {
+            "source": "7xkAwz0bQTGDSbkofyQt3U",
+            "target": "7kCL98rPFsNKjAHDmWrMac"
+        },
+        {
+            "source": "7xkAwz0bQTGDSbkofyQt3U",
+            "target": "0grdhNhiRLFBaFVyybqsj6"
+        },
+        {
+            "source": "7xkAwz0bQTGDSbkofyQt3U",
+            "target": "6rqU9HQ57NYGBnBzbrY3a4"
+        },
+        {
+            "source": "7xkAwz0bQTGDSbkofyQt3U",
+            "target": "6zpPKMhpOoG646kJgZ7RKf"
+        },
+        {
+            "source": "7xkAwz0bQTGDSbkofyQt3U",
+            "target": "0ym94xKp2PIOJtTZKpxbAa"
+        },
+        {
+            "source": "7xkAwz0bQTGDSbkofyQt3U",
+            "target": "2TzHIUhVpeeDxyJPpQfnV3"
+        },
+        {
+            "source": "7xkAwz0bQTGDSbkofyQt3U",
+            "target": "5nPz5R1FDPTMI3Dw4JnTGb"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "1zuJe6b1roixEKMOtyrEak"
+        },
+        {
+            "source": "1zuJe6b1roixEKMOtyrEak",
+            "target": "5MspMQqdVbdwP6ax3GXqum"
+        },
+        {
+            "source": "1zuJe6b1roixEKMOtyrEak",
+            "target": "72OaDtakiy6yFqkt4TsiFt"
+        },
+        {
+            "source": "1zuJe6b1roixEKMOtyrEak",
+            "target": "0SD4eZCN4Kr0wQk56hCdh2"
+        },
+        {
+            "source": "1zuJe6b1roixEKMOtyrEak",
+            "target": "7xkAwz0bQTGDSbkofyQt3U"
+        },
+        {
+            "source": "1zuJe6b1roixEKMOtyrEak",
+            "target": "13y0kncDD4J9wxCyfKr10W"
+        },
+        {
+            "source": "1zuJe6b1roixEKMOtyrEak",
+            "target": "2kreKea2n96dXjcyAU9j5N"
+        },
+        {
+            "source": "1zuJe6b1roixEKMOtyrEak",
+            "target": "2jS7I1u7BpgWT9ssG62Zr1"
+        },
+        {
+            "source": "1zuJe6b1roixEKMOtyrEak",
+            "target": "6rqU9HQ57NYGBnBzbrY3a4"
+        },
+        {
+            "source": "1zuJe6b1roixEKMOtyrEak",
+            "target": "51l0uqRxGaczYr4271pVIC"
+        },
+        {
+            "source": "1zuJe6b1roixEKMOtyrEak",
+            "target": "0NKDgy9j66h3DLnN8qu1bB"
+        },
+        {
+            "source": "1zuJe6b1roixEKMOtyrEak",
+            "target": "3lcbKPLl0ci2mKRdcP5Etf"
+        },
+        {
+            "source": "1zuJe6b1roixEKMOtyrEak",
+            "target": "1fa0cOhromAZdq2xRA4vv8"
+        },
+        {
+            "source": "1zuJe6b1roixEKMOtyrEak",
+            "target": "2BTZIqw0ntH9MvilQ3ewNY"
+        },
+        {
+            "source": "1zuJe6b1roixEKMOtyrEak",
+            "target": "0s0rOb0gT2S9N0SDcjtPC4"
+        },
+        {
+            "source": "1zuJe6b1roixEKMOtyrEak",
+            "target": "3gMaNLQm7D9MornNILzdSl"
+        },
+        {
+            "source": "1zuJe6b1roixEKMOtyrEak",
+            "target": "6kz53iCdBSqhQCZ21CoLcc"
+        },
+        {
+            "source": "1zuJe6b1roixEKMOtyrEak",
+            "target": "5lpH0xAS4fVfLkACg9DAuM"
+        },
+        {
+            "source": "1zuJe6b1roixEKMOtyrEak",
+            "target": "3oZa8Xs6IjlIUGLAhVyK4G"
+        },
+        {
+            "source": "1zuJe6b1roixEKMOtyrEak",
+            "target": "5IDs1CK15HegSAhGEbSYXo"
+        },
+        {
+            "source": "1zuJe6b1roixEKMOtyrEak",
+            "target": "19ra5tSw0tWufvUp8GotLo"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "26dSoYclwsYLMAKD3tpOr4"
+        },
+        {
+            "source": "26dSoYclwsYLMAKD3tpOr4",
+            "target": "2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+            "source": "26dSoYclwsYLMAKD3tpOr4",
+            "target": "2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+            "source": "26dSoYclwsYLMAKD3tpOr4",
+            "target": "6wPhSqRtPu1UhRCDX5yaDJ"
+        },
+        {
+            "source": "26dSoYclwsYLMAKD3tpOr4",
+            "target": "4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+            "source": "26dSoYclwsYLMAKD3tpOr4",
+            "target": "2S9W9aSAd7e5mp8WqWxN2h"
+        },
+        {
+            "source": "26dSoYclwsYLMAKD3tpOr4",
+            "target": "3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+            "source": "26dSoYclwsYLMAKD3tpOr4",
+            "target": "1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+            "source": "26dSoYclwsYLMAKD3tpOr4",
+            "target": "4hqDqHtBlgxXpLXVYf7c8L"
+        },
+        {
+            "source": "26dSoYclwsYLMAKD3tpOr4",
+            "target": "6dJeKm76NjfXBNTpHmOhfO"
+        },
+        {
+            "source": "26dSoYclwsYLMAKD3tpOr4",
+            "target": "0uq5PttqEjj3IH1bzwcrXF"
+        },
+        {
+            "source": "26dSoYclwsYLMAKD3tpOr4",
+            "target": "6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+            "source": "26dSoYclwsYLMAKD3tpOr4",
+            "target": "6LqNN22kT3074XbTVUrhzX"
+        },
+        {
+            "source": "26dSoYclwsYLMAKD3tpOr4",
+            "target": "4vRSocKbGh7PsQrYRDVMEF"
+        },
+        {
+            "source": "26dSoYclwsYLMAKD3tpOr4",
+            "target": "0p4nmQO2msCgU4IF37Wi3j"
+        },
+        {
+            "source": "26dSoYclwsYLMAKD3tpOr4",
+            "target": "40xbWSB4JPdOkRyuTDy1oP"
+        },
+        {
+            "source": "26dSoYclwsYLMAKD3tpOr4",
+            "target": "3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+            "source": "26dSoYclwsYLMAKD3tpOr4",
+            "target": "2tFN9ubMXEhdAQvdQxcsma"
+        },
+        {
+            "source": "26dSoYclwsYLMAKD3tpOr4",
+            "target": "4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+            "source": "26dSoYclwsYLMAKD3tpOr4",
+            "target": "2AQjGvtT0pFYfxR3neFcvz"
+        },
+        {
+            "source": "26dSoYclwsYLMAKD3tpOr4",
+            "target": "5wugb0kaq0J6nyQ5Xgd17i"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "3sc7iUG1Wwpwx7bHeZolgx"
+        },
+        {
+            "source": "3sc7iUG1Wwpwx7bHeZolgx",
+            "target": "73a6pNH4YtLNgDbPQwXveo"
+        },
+        {
+            "source": "3sc7iUG1Wwpwx7bHeZolgx",
+            "target": "4k7b3DWqBnYpobDWbNWLdM"
+        },
+        {
+            "source": "3sc7iUG1Wwpwx7bHeZolgx",
+            "target": "7xkAwz0bQTGDSbkofyQt3U"
+        },
+        {
+            "source": "3sc7iUG1Wwpwx7bHeZolgx",
+            "target": "6kz53iCdBSqhQCZ21CoLcc"
+        },
+        {
+            "source": "3sc7iUG1Wwpwx7bHeZolgx",
+            "target": "5HP4SpcujgIKC6tHBwfy42"
+        },
+        {
+            "source": "3sc7iUG1Wwpwx7bHeZolgx",
+            "target": "5WWSL6rElJeUk3Uc1S2RyD"
+        },
+        {
+            "source": "3sc7iUG1Wwpwx7bHeZolgx",
+            "target": "0s0rOb0gT2S9N0SDcjtPC4"
+        },
+        {
+            "source": "3sc7iUG1Wwpwx7bHeZolgx",
+            "target": "5bnNgwp3nooah9yHAHsnR4"
+        },
+        {
+            "source": "3sc7iUG1Wwpwx7bHeZolgx",
+            "target": "0ym94xKp2PIOJtTZKpxbAa"
+        },
+        {
+            "source": "3sc7iUG1Wwpwx7bHeZolgx",
+            "target": "5ZfzzHE7rxONfoksJsLXrX"
+        },
+        {
+            "source": "3sc7iUG1Wwpwx7bHeZolgx",
+            "target": "40enFxfEXXsEXKOt1vgx0k"
+        },
+        {
+            "source": "3sc7iUG1Wwpwx7bHeZolgx",
+            "target": "1nUUfnmwd9mdpTPwMcM1hd"
+        },
+        {
+            "source": "3sc7iUG1Wwpwx7bHeZolgx",
+            "target": "47qTcvYlqJGAEsCI7BcENC"
+        },
+        {
+            "source": "3sc7iUG1Wwpwx7bHeZolgx",
+            "target": "0gxyHStUsqpMadRV0Di1Qt"
+        },
+        {
+            "source": "3sc7iUG1Wwpwx7bHeZolgx",
+            "target": "6zpPKMhpOoG646kJgZ7RKf"
+        },
+        {
+            "source": "3sc7iUG1Wwpwx7bHeZolgx",
+            "target": "5jVeqi3PNaTOajfvBa4uFn"
+        },
+        {
+            "source": "3sc7iUG1Wwpwx7bHeZolgx",
+            "target": "7kCL98rPFsNKjAHDmWrMac"
+        },
+        {
+            "source": "3sc7iUG1Wwpwx7bHeZolgx",
+            "target": "4toJT7YydhWcrYNgWJK4hW"
+        },
+        {
+            "source": "3sc7iUG1Wwpwx7bHeZolgx",
+            "target": "2s79xe5F6eUQkjwjww27Fh"
+        },
+        {
+            "source": "3sc7iUG1Wwpwx7bHeZolgx",
+            "target": "2LKrAJVB1842xPDvx4uuwU"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "2kreKea2n96dXjcyAU9j5N"
+        },
+        {
+            "source": "2kreKea2n96dXjcyAU9j5N",
+            "target": "3oZa8Xs6IjlIUGLAhVyK4G"
+        },
+        {
+            "source": "2kreKea2n96dXjcyAU9j5N",
+            "target": "5IDs1CK15HegSAhGEbSYXo"
+        },
+        {
+            "source": "2kreKea2n96dXjcyAU9j5N",
+            "target": "6gkWznnJkdkwRPVcmnrays"
+        },
+        {
+            "source": "2kreKea2n96dXjcyAU9j5N",
+            "target": "2eogQKWWoohI3BSnoG7E2U"
+        },
+        {
+            "source": "2kreKea2n96dXjcyAU9j5N",
+            "target": "5dcOK4stT4JDkP6Dqhbz5s"
+        },
+        {
+            "source": "2kreKea2n96dXjcyAU9j5N",
+            "target": "5b4SvpTqll0LSqJWPpXya5"
+        },
+        {
+            "source": "2kreKea2n96dXjcyAU9j5N",
+            "target": "6V6WCgi7waF55bJmylC4H5"
+        },
+        {
+            "source": "2kreKea2n96dXjcyAU9j5N",
+            "target": "19xz1vcuKNjniGEftTOSSH"
+        },
+        {
+            "source": "2kreKea2n96dXjcyAU9j5N",
+            "target": "1HvcqyRLS9nF8hAbTWOqpr"
+        },
+        {
+            "source": "2kreKea2n96dXjcyAU9j5N",
+            "target": "1zgNpeHQe8GulzfVkYP2VK"
+        },
+        {
+            "source": "2kreKea2n96dXjcyAU9j5N",
+            "target": "32lVGr0fSRGT6okLKHiP68"
+        },
+        {
+            "source": "2kreKea2n96dXjcyAU9j5N",
+            "target": "5lpH0xAS4fVfLkACg9DAuM"
+        },
+        {
+            "source": "2kreKea2n96dXjcyAU9j5N",
+            "target": "3MdG05syQeRYPPcClLaUGl"
+        },
+        {
+            "source": "2kreKea2n96dXjcyAU9j5N",
+            "target": "6mQfAAqZGBzIfrmlZCeaYT"
+        },
+        {
+            "source": "2kreKea2n96dXjcyAU9j5N",
+            "target": "3LfO03nEZMdWNHG2tLpMa0"
+        },
+        {
+            "source": "2kreKea2n96dXjcyAU9j5N",
+            "target": "3REpOYo13YkVj1dFzda12A"
+        },
+        {
+            "source": "2kreKea2n96dXjcyAU9j5N",
+            "target": "18xgcedCGxFbqLbIQn5R8F"
+        },
+        {
+            "source": "2kreKea2n96dXjcyAU9j5N",
+            "target": "3mQBpAOMWYqAZyxtyeo4Lo"
+        },
+        {
+            "source": "2kreKea2n96dXjcyAU9j5N",
+            "target": "2zpFG5cvw00QmrYTUsjApa"
+        },
+        {
+            "source": "2kreKea2n96dXjcyAU9j5N",
+            "target": "0Xf8oDAJYd2D0k3NLI19OV"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+            "source": "6UE7nl9mha6s8z0wFQFIZ2",
+            "target": "3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+            "source": "6UE7nl9mha6s8z0wFQFIZ2",
+            "target": "7zt6Af78CalxaPDqORfw8L"
+        },
+        {
+            "source": "6UE7nl9mha6s8z0wFQFIZ2",
+            "target": "3K2zB87GZv1krx031en5VA"
+        },
+        {
+            "source": "6UE7nl9mha6s8z0wFQFIZ2",
+            "target": "7pyhre5oEEFMqcgMEvJY7q"
+        },
+        {
+            "source": "6UE7nl9mha6s8z0wFQFIZ2",
+            "target": "7gRhy3MIPHQo5CXYfWaw9I"
+        },
+        {
+            "source": "6UE7nl9mha6s8z0wFQFIZ2",
+            "target": "6oBm8HB0yfrIc9IHbxs6in"
+        },
+        {
+            "source": "6UE7nl9mha6s8z0wFQFIZ2",
+            "target": "0MoXIHcFwhIWnFgBfdvQ30"
+        },
+        {
+            "source": "6UE7nl9mha6s8z0wFQFIZ2",
+            "target": "2YL0l5fnyHE9FEf1bwFGCc"
+        },
+        {
+            "source": "6UE7nl9mha6s8z0wFQFIZ2",
+            "target": "6UOcY6w4K6Ek5Lw5rFDHdP"
+        },
+        {
+            "source": "6UE7nl9mha6s8z0wFQFIZ2",
+            "target": "4hiLNlqr4vQdiuo1aQKSXS"
+        },
+        {
+            "source": "6UE7nl9mha6s8z0wFQFIZ2",
+            "target": "0WbqAlM1WvfUD6dF7omThd"
+        },
+        {
+            "source": "6UE7nl9mha6s8z0wFQFIZ2",
+            "target": "5BKsn7SCN2XmbF7apdCpRS"
+        },
+        {
+            "source": "6UE7nl9mha6s8z0wFQFIZ2",
+            "target": "4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+            "source": "6UE7nl9mha6s8z0wFQFIZ2",
+            "target": "6SYIsHAQ1sPokVxmzpaDBU"
+        },
+        {
+            "source": "6UE7nl9mha6s8z0wFQFIZ2",
+            "target": "5Mq7iqCWBzofK39FBqblNc"
+        },
+        {
+            "source": "6UE7nl9mha6s8z0wFQFIZ2",
+            "target": "6ueGR6SWhUJfvEhqkvMsVs"
+        },
+        {
+            "source": "6UE7nl9mha6s8z0wFQFIZ2",
+            "target": "6SsTlCsuCYleNza6xGwynu"
+        },
+        {
+            "source": "6UE7nl9mha6s8z0wFQFIZ2",
+            "target": "7eQZTqEMozBcuSubfu52i4"
+        },
+        {
+            "source": "6UE7nl9mha6s8z0wFQFIZ2",
+            "target": "5QuBVnBPEzwYvFrgBbwpmU"
+        },
+        {
+            "source": "6UE7nl9mha6s8z0wFQFIZ2",
+            "target": "4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "7rZNSLWMjTbwdLNskFbzFf"
+        },
+        {
+            "source": "7rZNSLWMjTbwdLNskFbzFf",
+            "target": "12EtLdLfJ41vUOoVzPZIUy"
+        },
+        {
+            "source": "7rZNSLWMjTbwdLNskFbzFf",
+            "target": "15qI5w4XJFLRMwOp2VrlD5"
+        },
+        {
+            "source": "7rZNSLWMjTbwdLNskFbzFf",
+            "target": "6JMHws5haIO6V35YNYDnDw"
+        },
+        {
+            "source": "7rZNSLWMjTbwdLNskFbzFf",
+            "target": "5TDVKqW9uhqGjwwwKGuma4"
+        },
+        {
+            "source": "7rZNSLWMjTbwdLNskFbzFf",
+            "target": "60vX3zLcdKRXvKLITVh5Df"
+        },
+        {
+            "source": "7rZNSLWMjTbwdLNskFbzFf",
+            "target": "7LP4hiTAVkw3Rtc1hqtLi4"
+        },
+        {
+            "source": "7rZNSLWMjTbwdLNskFbzFf",
+            "target": "2AEEnr6Le5zHzBwpnlZSmq"
+        },
+        {
+            "source": "7rZNSLWMjTbwdLNskFbzFf",
+            "target": "5orH1OWgjAYUX8sZ5gihTv"
+        },
+        {
+            "source": "7rZNSLWMjTbwdLNskFbzFf",
+            "target": "3f5W9NEwkc1SAIPFuumcaf"
+        },
+        {
+            "source": "7rZNSLWMjTbwdLNskFbzFf",
+            "target": "1g5PorBgjWrL60NdotRE6Q"
+        },
+        {
+            "source": "7rZNSLWMjTbwdLNskFbzFf",
+            "target": "3RjnAn8EWb7zaLlGWVxQeP"
+        },
+        {
+            "source": "7rZNSLWMjTbwdLNskFbzFf",
+            "target": "7L12TqJ0fbwtFljTbwfwRI"
+        },
+        {
+            "source": "7rZNSLWMjTbwdLNskFbzFf",
+            "target": "6htUPs3clIStnkvg5jimKZ"
+        },
+        {
+            "source": "7rZNSLWMjTbwdLNskFbzFf",
+            "target": "1kM5rgJvkiDMOoKX56H6pX"
+        },
+        {
+            "source": "7rZNSLWMjTbwdLNskFbzFf",
+            "target": "17UkABEasVRlCcIFZ3wHb7"
+        },
+        {
+            "source": "7rZNSLWMjTbwdLNskFbzFf",
+            "target": "5jLwURKdEPDvuYnac74s9c"
+        },
+        {
+            "source": "7rZNSLWMjTbwdLNskFbzFf",
+            "target": "7gRmesSjINzb4xXApfMV5E"
+        },
+        {
+            "source": "7rZNSLWMjTbwdLNskFbzFf",
+            "target": "6csA2rxNLkQJXeEa7lyGXn"
+        },
+        {
+            "source": "7rZNSLWMjTbwdLNskFbzFf",
+            "target": "0uq5PttqEjj3IH1bzwcrXF"
+        },
+        {
+            "source": "7rZNSLWMjTbwdLNskFbzFf",
+            "target": "2U6gqwyl9F33YxawnFrZG7"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+            "source": "5IFCkqu9J6xdWeYMk5I889",
+            "target": "32lVGr0fSRGT6okLKHiP68"
+        },
+        {
+            "source": "5IFCkqu9J6xdWeYMk5I889",
+            "target": "10n1KB2sjTrGdyuC83y8jW"
+        },
+        {
+            "source": "5IFCkqu9J6xdWeYMk5I889",
+            "target": "4PpmBoqphQusNFsxuVKb6j"
+        },
+        {
+            "source": "5IFCkqu9J6xdWeYMk5I889",
+            "target": "2Gop8SbSVt5SaJzuaRFa7D"
+        },
+        {
+            "source": "5IFCkqu9J6xdWeYMk5I889",
+            "target": "5dcOK4stT4JDkP6Dqhbz5s"
+        },
+        {
+            "source": "5IFCkqu9J6xdWeYMk5I889",
+            "target": "18jZvCsW1PJ4FDQ5gEXuKp"
+        },
+        {
+            "source": "5IFCkqu9J6xdWeYMk5I889",
+            "target": "18xgcedCGxFbqLbIQn5R8F"
+        },
+        {
+            "source": "5IFCkqu9J6xdWeYMk5I889",
+            "target": "1yMYjh77WgOVafRkI50mim"
+        },
+        {
+            "source": "5IFCkqu9J6xdWeYMk5I889",
+            "target": "5nPz5R1FDPTMI3Dw4JnTGb"
+        },
+        {
+            "source": "5IFCkqu9J6xdWeYMk5I889",
+            "target": "75L9s8KVrhCNtBUkZFnDFW"
+        },
+        {
+            "source": "5IFCkqu9J6xdWeYMk5I889",
+            "target": "2jS7I1u7BpgWT9ssG62Zr1"
+        },
+        {
+            "source": "5IFCkqu9J6xdWeYMk5I889",
+            "target": "0grdhNhiRLFBaFVyybqsj6"
+        },
+        {
+            "source": "5IFCkqu9J6xdWeYMk5I889",
+            "target": "4BoRxUdrcgbbq1rxJvvhg9"
+        },
+        {
+            "source": "5IFCkqu9J6xdWeYMk5I889",
+            "target": "0gxyHStUsqpMadRV0Di1Qt"
+        },
+        {
+            "source": "5IFCkqu9J6xdWeYMk5I889",
+            "target": "3AHq6rutf72JF0ul8GB6G2"
+        },
+        {
+            "source": "5IFCkqu9J6xdWeYMk5I889",
+            "target": "3oZa8Xs6IjlIUGLAhVyK4G"
+        },
+        {
+            "source": "5IFCkqu9J6xdWeYMk5I889",
+            "target": "4C3uGP8vRDzxrhJxZiOjTe"
+        },
+        {
+            "source": "5IFCkqu9J6xdWeYMk5I889",
+            "target": "368rTiMKMrz3b03az6B14w"
+        },
+        {
+            "source": "5IFCkqu9J6xdWeYMk5I889",
+            "target": "4463nfFMmK1cwAWBQDwT5e"
+        },
+        {
+            "source": "5IFCkqu9J6xdWeYMk5I889",
+            "target": "6YHEMoNPbcheiWS2haGzkn"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "60vX3zLcdKRXvKLITVh5Df"
+        },
+        {
+            "source": "60vX3zLcdKRXvKLITVh5Df",
+            "target": "2AEEnr6Le5zHzBwpnlZSmq"
+        },
+        {
+            "source": "60vX3zLcdKRXvKLITVh5Df",
+            "target": "7rZNSLWMjTbwdLNskFbzFf"
+        },
+        {
+            "source": "60vX3zLcdKRXvKLITVh5Df",
+            "target": "5orH1OWgjAYUX8sZ5gihTv"
+        },
+        {
+            "source": "60vX3zLcdKRXvKLITVh5Df",
+            "target": "54w1dJI7MTjkRGNfGuu2fc"
+        },
+        {
+            "source": "60vX3zLcdKRXvKLITVh5Df",
+            "target": "2vJU4d2jRQb4zJJIQRkyDB"
+        },
+        {
+            "source": "60vX3zLcdKRXvKLITVh5Df",
+            "target": "7LP4hiTAVkw3Rtc1hqtLi4"
+        },
+        {
+            "source": "60vX3zLcdKRXvKLITVh5Df",
+            "target": "7gRmesSjINzb4xXApfMV5E"
+        },
+        {
+            "source": "60vX3zLcdKRXvKLITVh5Df",
+            "target": "12EtLdLfJ41vUOoVzPZIUy"
+        },
+        {
+            "source": "60vX3zLcdKRXvKLITVh5Df",
+            "target": "0uq5PttqEjj3IH1bzwcrXF"
+        },
+        {
+            "source": "60vX3zLcdKRXvKLITVh5Df",
+            "target": "5TDVKqW9uhqGjwwwKGuma4"
+        },
+        {
+            "source": "60vX3zLcdKRXvKLITVh5Df",
+            "target": "3RjnAn8EWb7zaLlGWVxQeP"
+        },
+        {
+            "source": "60vX3zLcdKRXvKLITVh5Df",
+            "target": "6JMHws5haIO6V35YNYDnDw"
+        },
+        {
+            "source": "60vX3zLcdKRXvKLITVh5Df",
+            "target": "0dlOr0VIysztGWvU1dpjmP"
+        },
+        {
+            "source": "60vX3zLcdKRXvKLITVh5Df",
+            "target": "6XCS9JCn56Q252cMOTbeq6"
+        },
+        {
+            "source": "60vX3zLcdKRXvKLITVh5Df",
+            "target": "3fWTpVNnrGmdo0jMbsRsRf"
+        },
+        {
+            "source": "60vX3zLcdKRXvKLITVh5Df",
+            "target": "17UkABEasVRlCcIFZ3wHb7"
+        },
+        {
+            "source": "60vX3zLcdKRXvKLITVh5Df",
+            "target": "2U6gqwyl9F33YxawnFrZG7"
+        },
+        {
+            "source": "60vX3zLcdKRXvKLITVh5Df",
+            "target": "7L12TqJ0fbwtFljTbwfwRI"
+        },
+        {
+            "source": "60vX3zLcdKRXvKLITVh5Df",
+            "target": "15qI5w4XJFLRMwOp2VrlD5"
+        },
+        {
+            "source": "60vX3zLcdKRXvKLITVh5Df",
+            "target": "6htUPs3clIStnkvg5jimKZ"
+        }
+    ],
+    "nodes": [
+        {
+            "generos": [
+                "dance pop",
+                "pop"
+            ],
+            "id": "6tbjWDEIzxoDsBA1FuhfPW",
+            "img_url": "https://i.scdn.co/image/96b4818a65820e91e0e17fcf55a4d2213b019ad4",
+            "nombre": "Madonna",
+            "popularidad": 81,
+            "seguidores": 4418305
+        },
+        {
+            "generos": [
+                "dance pop",
+                "hollywood",
+                "new wave pop",
+                "pop"
+            ],
+            "id": "72OaDtakiy6yFqkt4TsiFt",
+            "img_url": "https://i.scdn.co/image/13a478575f4e6a9b83dce3617603b3994d8c0f6a",
+            "nombre": "Cher",
+            "popularidad": 73,
+            "seguidores": 1746153
+        },
+        {
+            "generos": [
+                "disco",
+                "europop",
+                "new wave pop",
+                "soft rock"
+            ],
+            "id": "1zuJe6b1roixEKMOtyrEak",
+            "img_url": "https://i.scdn.co/image/cf860c0e880d74dafe187f732c0093af95fda142",
+            "nombre": "Tina Turner",
+            "popularidad": 78,
+            "seguidores": 2023125
+        },
+        {
+            "generos": [
+                "adult standards",
+                "folk",
+                "mellow gold",
+                "new wave pop",
+                "soft rock"
+            ],
+            "id": "13y0kncDD4J9wxCyfKr10W",
+            "img_url": "https://i.scdn.co/image/a87715e524d6751a54c70abf7074aaf810ff8a4b",
+            "nombre": "Bette Midler",
+            "popularidad": 63,
+            "seguidores": 407397
+        },
+        {
+            "generos": [
+                "europop",
+                "new wave pop",
+                "soft rock"
+            ],
+            "id": "0SD4eZCN4Kr0wQk56hCdh2",
+            "img_url": "https://i.scdn.co/image/a6da08f0fba0b1a7bf6f34eb033b530fae80e99e",
+            "nombre": "Bonnie Tyler",
+            "popularidad": 71,
+            "seguidores": 968795
+        },
+        {
+            "generos": [
+                "dance rock",
+                "europop",
+                "mellow gold",
+                "new wave pop",
+                "permanent wave",
+                "pop rock",
+                "soft rock"
+            ],
+            "id": "2BTZIqw0ntH9MvilQ3ewNY",
+            "img_url": "https://i.scdn.co/image/3d63775a2e6398ed8bed1dfaf130874dfedc1cc4",
+            "nombre": "Cyndi Lauper",
+            "popularidad": 74,
+            "seguidores": 1383638
+        },
+        {
+            "generos": [
+                "dance pop",
+                "europop",
+                "new wave pop",
+                "pop rock",
+                "urban contemporary"
+            ],
+            "id": "4PpmBoqphQusNFsxuVKb6j",
+            "img_url": "https://i.scdn.co/image/77e347336ee1d05b4bf5ee77c602fff52c6630c1",
+            "nombre": "Paula Abdul",
+            "popularidad": 58,
+            "seguidores": 598223
+        },
+        {
+            "generos": [
+                "dance pop",
+                "dance rock",
+                "europop",
+                "new romantic",
+                "new wave pop",
+                "pop rock",
+                "soft rock"
+            ],
+            "id": "7xkAwz0bQTGDSbkofyQt3U",
+            "img_url": "https://i.scdn.co/image/34255893ffd5d4ccc522458d377b31bb434cf5ac",
+            "nombre": "Belinda Carlisle",
+            "popularidad": 65,
+            "seguidores": 467687
+        },
+        {
+            "generos": [
+                "europop",
+                "mellow gold",
+                "new wave pop",
+                "pop rock",
+                "soft rock"
+            ],
+            "id": "5MspMQqdVbdwP6ax3GXqum",
+            "img_url": "https://i.scdn.co/image/fb1b39783fdc9625bcba0837e7da9882969eaa03",
+            "nombre": "Annie Lennox",
+            "popularidad": 75,
+            "seguidores": 886598
+        },
+        {
+            "generos": [
+                "dance pop",
+                "diva house",
+                "pop",
+                "strut",
+                "vocal house"
+            ],
+            "id": "2SdOKxC1sSxEyv8JYERaNe",
+            "img_url": "https://i.scdn.co/image/02b3bea6925094d916d56d21da5bd989380e1a57",
+            "nombre": "RuPaul",
+            "popularidad": 67,
+            "seguidores": 489758
+        },
+        {
+            "generos": [
+                "adult standards",
+                "australian dance",
+                "bubblegum pop",
+                "disco",
+                "mellow gold",
+                "new wave pop",
+                "soft rock"
+            ],
+            "id": "4BoRxUdrcgbbq1rxJvvhg9",
+            "img_url": "https://i.scdn.co/image/a9c4bea41f06c1be30efa9e06cb6e1a07f27e3f5",
+            "nombre": "Olivia Newton-John",
+            "popularidad": 69,
+            "seguidores": 745937
+        },
+        {
+            "generos": [
+                "dance pop",
+                "disco",
+                "europop",
+                "hi-nrg",
+                "motown",
+                "new wave pop"
+            ],
+            "id": "2eogQKWWoohI3BSnoG7E2U",
+            "img_url": "https://i.scdn.co/image/34c3513ef98084a71829f6b93ac04ce0aa66b07d",
+            "nombre": "Donna Summer",
+            "popularidad": 72,
+            "seguidores": 1110130
+        },
+        {
+            "generos": [
+                "bubblegum dance",
+                "dance pop",
+                "electropop",
+                "europop",
+                "new wave pop",
+                "pop rock"
+            ],
+            "id": "60vX3zLcdKRXvKLITVh5Df",
+            "img_url": "https://i.scdn.co/image/a25f78ed594c4b1a6142c6fe601df7023927f5c3",
+            "nombre": "Melanie C",
+            "popularidad": 62,
+            "seguidores": 207967
+        },
+        {
+            "generos": [
+                "album rock",
+                "dance rock",
+                "europop",
+                "jangle pop",
+                "mellow gold",
+                "new romantic",
+                "new wave",
+                "new wave pop",
+                "paisley underground",
+                "pop rock",
+                "rock",
+                "soft rock"
+            ],
+            "id": "51l0uqRxGaczYr4271pVIC",
+            "img_url": "https://i.scdn.co/image/f31c3cd8e3fc1fbbadeb56943b0cb9f84f50e478",
+            "nombre": "The Bangles",
+            "popularidad": 67,
+            "seguidores": 750076
+        },
+        {
+            "generos": [
+                "australian dance",
+                "australian pop",
+                "dance pop",
+                "disco house",
+                "electropop",
+                "eurodance",
+                "europop",
+                "new wave pop",
+                "pop"
+            ],
+            "id": "4RVnAU35WRWra6OZ3CbbMA",
+            "img_url": "https://i.scdn.co/image/471aae2bc20f974dbf573adeba5c3e00b9a6dd7b",
+            "nombre": "Kylie Minogue",
+            "popularidad": 73,
+            "seguidores": 1096801
+        },
+        {
+            "generos": [
+                "dance pop",
+                "europop",
+                "girl group",
+                "pop"
+            ],
+            "id": "0uq5PttqEjj3IH1bzwcrXF",
+            "img_url": "https://i.scdn.co/image/19734cdc70263d6c2bb1bf31199a68b9fe5cae10",
+            "nombre": "Spice Girls",
+            "popularidad": 72,
+            "seguidores": 1920518
+        },
+        {
+            "generos": [
+                "dance pop",
+                "dance rock",
+                "disco",
+                "europop",
+                "girl group",
+                "hi-nrg",
+                "mellow gold",
+                "motown",
+                "new wave pop",
+                "quiet storm",
+                "soft rock"
+            ],
+            "id": "2kreKea2n96dXjcyAU9j5N",
+            "img_url": "https://i.scdn.co/image/ab6772690000c46c8c57ac844d8c2170149462e3",
+            "nombre": "The Pointer Sisters",
+            "popularidad": 68,
+            "seguidores": 517129
+        },
+        {
+            "generos": [
+                "dance pop",
+                "europop",
+                "new wave pop",
+                "pop rock",
+                "soft rock",
+                "swedish pop"
+            ],
+            "id": "2SHhfs4BiDxGQ3oxqf0UHY",
+            "img_url": "https://i.scdn.co/image/7480fc0ad7ee03897fc1ba97d601f84ae81865ba",
+            "nombre": "Roxette",
+            "popularidad": 75,
+            "seguidores": 1210534
+        },
+        {
+            "generos": [
+                "canadian pop",
+                "dance pop"
+            ],
+            "id": "4S9EykWXhStSc15wEx8QFK",
+            "img_url": "https://i.scdn.co/image/3d579310822dcb55dc814b7bde9cd40c9c203fb3",
+            "nombre": "C\u00e9line Dion",
+            "popularidad": 78,
+            "seguidores": 4109079
+        },
+        {
+            "generos": [
+                "dance pop",
+                "dance rock",
+                "disco",
+                "europop",
+                "girl group",
+                "hi-nrg",
+                "new romantic",
+                "new wave",
+                "new wave pop",
+                "soft rock"
+            ],
+            "id": "3sc7iUG1Wwpwx7bHeZolgx",
+            "img_url": "https://i.scdn.co/image/2c8289546f95994820b4efecb458be872763fd4c",
+            "nombre": "Bananarama",
+            "popularidad": 61,
+            "seguidores": 437794
+        },
+        {
+            "generos": [
+                "dance pop",
+                "latin pop",
+                "new wave pop",
+                "pop",
+                "soft rock"
+            ],
+            "id": "5IFCkqu9J6xdWeYMk5I889",
+            "img_url": "https://i.scdn.co/image/835059154d14121bbdf88c611f756c0ac2a6835f",
+            "nombre": "Gloria Estefan",
+            "popularidad": 69,
+            "seguidores": 448006
+        },
+        {
+            "generos": [
+                "canadian latin",
+                "canadian pop",
+                "dance pop",
+                "pop",
+                "pop rap"
+            ],
+            "id": "2jw70GZXlAI8QzWeY2bgRc",
+            "img_url": "https://i.scdn.co/image/84893281888b8f84b1580f477dbcc7bbaa5a1712",
+            "nombre": "Nelly Furtado",
+            "popularidad": 75,
+            "seguidores": 2156981
+        },
+        {
+            "generos": [
+                "dance pop",
+                "pop",
+                "pop rap",
+                "post-teen pop",
+                "urban contemporary"
+            ],
+            "id": "2DlGxzQSjYe5N6G9nkYghR",
+            "img_url": "https://i.scdn.co/image/a23a2778e5787da9188cdaa959cedee9391ae4d2",
+            "nombre": "Jennifer Lopez",
+            "popularidad": 80,
+            "seguidores": 8672918
+        },
+        {
+            "generos": [
+                "dance pop",
+                "pop",
+                "pop rap",
+                "post-teen pop"
+            ],
+            "id": "26dSoYclwsYLMAKD3tpOr4",
+            "img_url": "https://i.scdn.co/image/3e47967513ccda2182b17a1b29c00810b8965bd9",
+            "nombre": "Britney Spears",
+            "popularidad": 82,
+            "seguidores": 7815956
+        },
+        {
+            "generos": [
+                "dance pop",
+                "girl group",
+                "pop",
+                "pop rap",
+                "post-teen pop",
+                "urban contemporary"
+            ],
+            "id": "6wPhSqRtPu1UhRCDX5yaDJ",
+            "img_url": "https://i.scdn.co/image/15793cac497b87ee337ed77a85b7896c23ae2b15",
+            "nombre": "The Pussycat Dolls",
+            "popularidad": 74,
+            "seguidores": 3777015
+        },
+        {
+            "generos": [
+                "dance pop",
+                "europop",
+                "hip pop",
+                "pop",
+                "pop rock",
+                "post-teen pop",
+                "urban contemporary"
+            ],
+            "id": "4yiQZ8tQPux8cPriYMWUFP",
+            "img_url": "https://i.scdn.co/image/5e97075f4f0f5b9ab433277f1e81711937831af9",
+            "nombre": "Gwen Stefani",
+            "popularidad": 77,
+            "seguidores": 4154096
+        },
+        {
+            "generos": [
+                "dance pop",
+                "europop",
+                "neo mellow",
+                "pop",
+                "pop rap",
+                "pop rock",
+                "post-teen pop"
+            ],
+            "id": "7o95ZoZt5ZYn31e9z1Hc0a",
+            "img_url": "https://i.scdn.co/image/980befa9b0f49cfdf4eb9a4b891039d26a35afda",
+            "nombre": "Natasha Bedingfield",
+            "popularidad": 69,
+            "seguidores": 1087684
+        },
+        {
+            "generos": [
+                "dance pop",
+                "pop",
+                "post-teen pop",
+                "urban contemporary"
+            ],
+            "id": "3r17AfJCCUqC9Lf0OAc73G",
+            "img_url": "https://i.scdn.co/image/8f3351450c30b08da0fcfc9a7c317570b6bb291d",
+            "nombre": "Fergie",
+            "popularidad": 73,
+            "seguidores": 3999655
+        },
+        {
+            "generos": [
+                "dance pop",
+                "europop",
+                "post-teen pop",
+                "urban contemporary"
+            ],
+            "id": "40xbWSB4JPdOkRyuTDy1oP",
+            "img_url": "https://i.scdn.co/image/fe101b8159bae89f1e97c55a96af263852a5513a",
+            "nombre": "Nicole Scherzinger",
+            "popularidad": 66,
+            "seguidores": 1583871
+        },
+        {
+            "generos": [
+                "dance pop",
+                "post-teen pop"
+            ],
+            "id": "4hqDqHtBlgxXpLXVYf7c8L",
+            "img_url": "https://i.scdn.co/image/ece1104250b6a3cde1f8bec1bcfc1d7656821d1b",
+            "nombre": "Ashlee Simpson",
+            "popularidad": 53,
+            "seguidores": 609974
+        },
+        {
+            "generos": [
+                "dance pop",
+                "post-teen pop"
+            ],
+            "id": "1vkJFCwstOoJO7yQ4lTtLK",
+            "img_url": "https://i.scdn.co/image/9bee01e23e359043891d152ce99e7994d3316a7b",
+            "nombre": "Paris Hilton",
+            "popularidad": 53,
+            "seguidores": 405906
+        },
+        {
+            "generos": [
+                "bubblegum dance",
+                "dance pop",
+                "europop",
+                "girl group",
+                "pop",
+                "pop rock",
+                "post-teen pop",
+                "urban contemporary"
+            ],
+            "id": "7rZNSLWMjTbwdLNskFbzFf",
+            "img_url": "https://i.scdn.co/image/8671e9ca9af449dbaa36fcd47d3740487d61d2af",
+            "nombre": "Sugababes",
+            "popularidad": 64,
+            "seguidores": 434121
+        },
+        {
+            "generos": [
+                "dance pop",
+                "pop",
+                "post-teen pop"
+            ],
+            "id": "4vRSocKbGh7PsQrYRDVMEF",
+            "img_url": "https://i.scdn.co/image/a37b0702dae5dc4b58b1727f39505fc031f1b894",
+            "nombre": "Lindsay Lohan",
+            "popularidad": 51,
+            "seguidores": 691724
+        },
+        {
+            "generos": [
+                "dance pop",
+                "europop",
+                "pop",
+                "post-teen pop"
+            ],
+            "id": "2S9W9aSAd7e5mp8WqWxN2h",
+            "img_url": "https://i.scdn.co/image/2b46c43a2c8d3af23f3183299c2070c2d42ad039",
+            "nombre": "Hilary Duff",
+            "popularidad": 61,
+            "seguidores": 1665651
+        },
+        {
+            "generos": [
+                "dance pop",
+                "europop",
+                "hip hop",
+                "hip pop",
+                "pop rap",
+                "r&b",
+                "urban contemporary"
+            ],
+            "id": "4eAOcbAXIF4BmbN6E1QIlw",
+            "img_url": "https://i.scdn.co/image/f5463b27334e1743de80eb8f94aa4864c1e95aad",
+            "nombre": "Christina Milian",
+            "popularidad": 57,
+            "seguidores": 859636
+        },
+        {
+            "generos": [
+                "dance pop",
+                "pop",
+                "pop rap",
+                "post-teen pop"
+            ],
+            "id": "1l7ZsJRRS8wlW3WfJfPfNS",
+            "img_url": "https://i.scdn.co/image/e3ea6d2340bba0d93450a813a0843fd9cf998e39",
+            "nombre": "Christina Aguilera",
+            "popularidad": 82,
+            "seguidores": 5458987
+        },
+        {
+            "generos": [
+                "dance pop",
+                "girl group"
+            ],
+            "id": "2Q3eZMfDQgT8MhPowKFXYO",
+            "img_url": "https://i.scdn.co/image/6ab48d7603adba52d452c4d2690dc9f3cb5f486a",
+            "nombre": "t.A.T.u.",
+            "popularidad": 65,
+            "seguidores": 470981
+        },
+        {
+            "generos": [
+                "dance pop",
+                "europop",
+                "lilith",
+                "new wave pop",
+                "pop rock"
+            ],
+            "id": "0dlOr0VIysztGWvU1dpjmP",
+            "img_url": "https://i.scdn.co/image/c9806a28963d1ebbb6046448b13acb21a5afc812",
+            "nombre": "Natalie Imbruglia",
+            "popularidad": 67,
+            "seguidores": 591207
+        },
+        {
+            "generos": [
+                "dance pop",
+                "europop"
+            ],
+            "id": "2siHvYaxjaW5rKVRiIrMYH",
+            "img_url": "https://i.scdn.co/image/d1348ab9d201a5bde1b6471d5fd3ed52f252b855",
+            "nombre": "Anastacia",
+            "popularidad": 63,
+            "seguidores": 216969
+        },
+        {
+            "generos": [
+                "australian dance",
+                "australian pop",
+                "bubblegum dance",
+                "dance pop",
+                "disco house",
+                "electropop",
+                "europop",
+                "new wave pop",
+                "strut",
+                "vocal house"
+            ],
+            "id": "6XCS9JCn56Q252cMOTbeq6",
+            "img_url": "https://i.scdn.co/image/92c4bb86ac96f2ca71156e9307c93845af9e8fbf",
+            "nombre": "Dannii Minogue",
+            "popularidad": 44,
+            "seguidores": 72099
+        },
+        {
+            "generos": [
+                "bubblegum dance",
+                "dance pop",
+                "electropop",
+                "europop",
+                "girl group",
+                "pop",
+                "post-teen pop"
+            ],
+            "id": "12EtLdLfJ41vUOoVzPZIUy",
+            "img_url": "https://i.scdn.co/image/917952893d58125cca37e8de6975000982fed0ba",
+            "nombre": "Girls Aloud",
+            "popularidad": 59,
+            "seguidores": 350854
+        },
+        {
+            "generos": [
+                "bubblegum dance",
+                "dance pop",
+                "electropop",
+                "europop"
+            ],
+            "id": "5orH1OWgjAYUX8sZ5gihTv",
+            "img_url": "https://i.scdn.co/image/cc71f83ac03f793818c88544cdb1c7c76f8c78d1",
+            "nombre": "Geri Halliwell",
+            "popularidad": 51,
+            "seguidores": 118800
+        },
+        {
+            "generos": [
+                "dance pop",
+                "disco house",
+                "europop",
+                "new wave pop",
+                "pop rock"
+            ],
+            "id": "2cBh5lVMg222FFuRU7EfDE",
+            "img_url": "https://i.scdn.co/image/f8d19766b0b25df00e474382b188bf2a79986ad9",
+            "nombre": "Sophie Ellis-Bextor",
+            "popularidad": 60,
+            "seguidores": 273902
+        },
+        {
+            "generos": [
+                "bubblegum dance",
+                "dance pop",
+                "electropop",
+                "europop",
+                "girl group",
+                "new wave pop",
+                "pop rock"
+            ],
+            "id": "5TDVKqW9uhqGjwwwKGuma4",
+            "img_url": "https://i.scdn.co/image/7955ee6482bdcb8f10a6390df7e5328a1350da7f",
+            "nombre": "All Saints",
+            "popularidad": 60,
+            "seguidores": 329565
+        },
+        {
+            "generos": [
+                "bubblegum dance",
+                "dance pop",
+                "diva house",
+                "europop"
+            ],
+            "id": "17UkABEasVRlCcIFZ3wHb7",
+            "img_url": "https://i.scdn.co/image/393954e773567d96bf0347cf81f23f4e598ff705",
+            "nombre": "Steps",
+            "popularidad": 60,
+            "seguidores": 242189
+        },
+        {
+            "generos": [
+                "bubblegum dance",
+                "dance pop",
+                "electropop",
+                "europop",
+                "girl group",
+                "pop",
+                "post-teen pop",
+                "uk pop"
+            ],
+            "id": "15qI5w4XJFLRMwOp2VrlD5",
+            "img_url": "https://i.scdn.co/image/ffd7c8a05e0374e50cbbddeb27ac8d2de85c564e",
+            "nombre": "The Saturdays",
+            "popularidad": 59,
+            "seguidores": 552055
+        },
+        {
+            "generos": [
+                "art pop",
+                "dance pop",
+                "electropop",
+                "europop",
+                "pop",
+                "pop rock",
+                "scandipop",
+                "swedish electropop",
+                "swedish pop"
+            ],
+            "id": "6UE7nl9mha6s8z0wFQFIZ2",
+            "img_url": "https://i.scdn.co/image/2bc5f72017b642d898bd1dfbfca7b8a43bd54163",
+            "nombre": "Robyn",
+            "popularidad": 69,
+            "seguidores": 676211
+        },
+        {
+            "generos": [
+                "dance pop",
+                "electropop",
+                "europop",
+                "pop rock"
+            ],
+            "id": "3Y10boYzeuFCJ4Qgp53w6o",
+            "img_url": "https://i.scdn.co/image/3c723df87d70f6ce82661a539ff43b81a842848d",
+            "nombre": "Scissor Sisters",
+            "popularidad": 65,
+            "seguidores": 379064
+        },
+        {
+            "generos": [
+                "bubblegum dance",
+                "dance pop",
+                "europop"
+            ],
+            "id": "2AEEnr6Le5zHzBwpnlZSmq",
+            "img_url": "https://i.scdn.co/image/be57072b43e337812781fcfd3652997f786c69fa",
+            "nombre": "Emma Bunton",
+            "popularidad": 46,
+            "seguidores": 119072
+        },
+        {
+            "generos": [
+                "dance rock",
+                "disco",
+                "europop",
+                "new romantic",
+                "new wave",
+                "new wave pop",
+                "soft rock",
+                "synthpop"
+            ],
+            "id": "6kz53iCdBSqhQCZ21CoLcc",
+            "img_url": "https://i.scdn.co/image/56bdedf9264083a52f8bebd71e61738e0e5554e7",
+            "nombre": "Culture Club",
+            "popularidad": 67,
+            "seguidores": 901491
+        },
+        {
+            "generos": [
+                "dance rock",
+                "europop",
+                "new romantic",
+                "new wave pop",
+                "soft rock",
+                "synthpop"
+            ],
+            "id": "4463nfFMmK1cwAWBQDwT5e",
+            "img_url": "https://i.scdn.co/image/6870e1ae6b325ffa01da578649c583b26f5e0a6d",
+            "nombre": "Laura Branigan",
+            "popularidad": 63,
+            "seguidores": 333177
+        },
+        {
+            "generos": [
+                "dance rock",
+                "europop",
+                "new romantic",
+                "new wave",
+                "new wave pop",
+                "soft rock"
+            ],
+            "id": "73a6pNH4YtLNgDbPQwXveo",
+            "img_url": "https://i.scdn.co/image/2a69f85e193dcd72f84ee6909fbdbbc54f88a7b8",
+            "nombre": "Kim Wilde",
+            "popularidad": 62,
+            "seguidores": 355719
+        },
+        {
+            "generos": [
+                "dance rock",
+                "new romantic",
+                "new wave",
+                "new wave pop",
+                "soft rock",
+                "synthpop"
+            ],
+            "id": "2aS6jYh7ysTL1ZUsHneNgM",
+            "img_url": "https://i.scdn.co/image/5ea2bb74aaf41c33bfeec2a7ee1a28c706d59ba6",
+            "nombre": "Berlin",
+            "popularidad": 64,
+            "seguidores": 283664
+        },
+        {
+            "generos": [
+                "dance pop",
+                "dance rock",
+                "europop",
+                "mellow gold",
+                "new romantic",
+                "new wave",
+                "new wave pop",
+                "rock",
+                "soft rock",
+                "sophisti-pop",
+                "synthpop"
+            ],
+            "id": "0NKDgy9j66h3DLnN8qu1bB",
+            "img_url": "https://i.scdn.co/image/997d275fd7d135ea6221a71c9e045a87594e7eb3",
+            "nombre": "Eurythmics",
+            "popularidad": 72,
+            "seguidores": 1098177
+        },
+        {
+            "generos": [
+                "new wave pop",
+                "soft rock"
+            ],
+            "id": "18jZvCsW1PJ4FDQ5gEXuKp",
+            "img_url": "https://i.scdn.co/image/50d5ccc2956b491b9a667986b35b24821451c12b",
+            "nombre": "Debbie Gibson",
+            "popularidad": 58,
+            "seguidores": 301249
+        },
+        {
+            "generos": [
+                "album rock",
+                "candy pop",
+                "dance rock",
+                "girl group",
+                "jangle pop",
+                "mellow gold",
+                "new romantic",
+                "new wave",
+                "new wave pop",
+                "permanent wave",
+                "pop rock",
+                "power pop",
+                "rock",
+                "soft rock"
+            ],
+            "id": "2mG8HHQ9S9kcbjcrb5N1FE",
+            "img_url": "https://i.scdn.co/image/5506a4ed9d4abd277f4eda5a92239dc68073d46d",
+            "nombre": "The Go-Go's",
+            "popularidad": 58,
+            "seguidores": 404259
+        },
+        {
+            "generos": [
+                "album rock",
+                "classic rock",
+                "dance rock",
+                "mellow gold",
+                "new wave pop",
+                "pop rock",
+                "rock",
+                "soft rock"
+            ],
+            "id": "43mhFhQ4JAknA7Ik1bOZuV",
+            "img_url": "https://i.scdn.co/image/8cd9a623b274a9e694aa7bae28f541d3977673ec",
+            "nombre": "Pat Benatar",
+            "popularidad": 65,
+            "seguidores": 936474
+        },
+        {
+            "generos": [
+                "dance rock",
+                "disco",
+                "europop",
+                "new wave pop",
+                "soft rock"
+            ],
+            "id": "3oZa8Xs6IjlIUGLAhVyK4G",
+            "img_url": "https://i.scdn.co/image/6f67ead8aa38bba044f98ada0b1643e3a37ac1c0",
+            "nombre": "Irene Cara",
+            "popularidad": 65,
+            "seguidores": 215041
+        },
+        {
+            "generos": [
+                "adult standards",
+                "mellow gold",
+                "minneapolis sound",
+                "new romantic",
+                "new wave pop",
+                "soft rock"
+            ],
+            "id": "5dcOK4stT4JDkP6Dqhbz5s",
+            "img_url": "https://i.scdn.co/image/c89848e407aa02ab2ebfe404843812fe16cad5b7",
+            "nombre": "Sheena Easton",
+            "popularidad": 59,
+            "seguidores": 340393
+        },
+        {
+            "generos": [
+                "album rock",
+                "art rock",
+                "dance rock",
+                "disco",
+                "europop",
+                "mellow gold",
+                "new romantic",
+                "new wave",
+                "new wave pop",
+                "soft rock",
+                "synthpop"
+            ],
+            "id": "6rqU9HQ57NYGBnBzbrY3a4",
+            "img_url": "https://i.scdn.co/image/fe3b4a1cf19d63a030ffc7d7437201b38a0c6e72",
+            "nombre": "Paul Young",
+            "popularidad": 64,
+            "seguidores": 540845
+        },
+        {
+            "generos": [
+                "strut"
+            ],
+            "id": "6l0msaZPAzFDz1UDDv6BV8",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b273f9a28e683160f7d8ae1e0930",
+            "nombre": "Willam",
+            "popularidad": 40,
+            "seguidores": 51408
+        },
+        {
+            "generos": [
+                "lgbtq+ hip hop",
+                "strut"
+            ],
+            "id": "5UxnCYXggRNdaKBUgPIviq",
+            "img_url": "https://i.scdn.co/image/c5f0097902cc334617179fae3c765312265715a9",
+            "nombre": "Cazwell",
+            "popularidad": 32,
+            "seguidores": 23161
+        },
+        {
+            "generos": [
+                "dance pop",
+                "strut"
+            ],
+            "id": "4k2ggpJpzdQHCBQ84f1jBy",
+            "img_url": "https://i.scdn.co/image/34f2e766574f1517469f91a07141f79201f1c7cf",
+            "nombre": "Alaska Thunderfuck",
+            "popularidad": 49,
+            "seguidores": 132684
+        },
+        {
+            "generos": [
+                "strut"
+            ],
+            "id": "1cJCVvFLO8SLM8W9EITe1g",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b2732b3bd458b0009c2985112001",
+            "nombre": "Manila Luzon",
+            "popularidad": 33,
+            "seguidores": 26589
+        },
+        {
+            "generos": [
+                "electropop",
+                "strut"
+            ],
+            "id": "5l1BwcEGGLpX6Y9668D8sd",
+            "img_url": "https://i.scdn.co/image/2f5ec507a6204745be1f81dba036e20227198915",
+            "nombre": "Blair St. Clair",
+            "popularidad": 40,
+            "seguidores": 23785
+        },
+        {
+            "generos": [
+                "strut"
+            ],
+            "id": "3tdsh4B7GuigHI4vPtUs87",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b2737e5e67eb3de5abfa647185e2",
+            "nombre": "Adore Delano",
+            "popularidad": 45,
+            "seguidores": 127637
+        },
+        {
+            "generos": [
+                "strut"
+            ],
+            "id": "7yPRmfUuRcpGwOsHVqQgae",
+            "img_url": "https://i.scdn.co/image/5b2a2a6c2ba4ff9727e86812acea1bbf42ff5c3d",
+            "nombre": "Sharon Needles",
+            "popularidad": 34,
+            "seguidores": 43443
+        },
+        {
+            "generos": [
+                "escape room",
+                "strut"
+            ],
+            "id": "0fWt4FY87imqsBJpt2QVL0",
+            "img_url": "https://i.scdn.co/image/f8836615981eadcaa6240be57ede574bf20f90f2",
+            "nombre": "Aja",
+            "popularidad": 40,
+            "seguidores": 28265
+        },
+        {
+            "generos": [
+                "strut",
+                "vogue"
+            ],
+            "id": "0FrOnmhn1KtQ2n5mHF2SD6",
+            "img_url": "https://i.scdn.co/image/452f5153be404364bb9a1e4389ada944fda32d48",
+            "nombre": "Shea Coule\u00e9",
+            "popularidad": 39,
+            "seguidores": 18234
+        },
+        {
+            "generos": [
+                "strut"
+            ],
+            "id": "6rYhtNKtoVz8SxSylWyUeR",
+            "img_url": "https://i.scdn.co/image/9bc7e6ecfd61d8cbc48cfa32ccb5db541e957126",
+            "nombre": "Jinkx Monsoon",
+            "popularidad": 35,
+            "seguidores": 34563
+        },
+        {
+            "generos": [
+                "strut"
+            ],
+            "id": "27x5boWqlA0tWUHq9F1UPb",
+            "img_url": "https://i.scdn.co/image/42ad711d24657a544062c3dd8f0a79f3927a9dc1",
+            "nombre": "Lucian Piane",
+            "popularidad": 44,
+            "seguidores": 10506
+        },
+        {
+            "generos": [
+                "electropowerpop",
+                "strut"
+            ],
+            "id": "0ZVqyfTk5GaaRiQNQaW9jg",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b2738794d87eafb98ca6ab85192d",
+            "nombre": "Jeffree Star",
+            "popularidad": 41,
+            "seguidores": 146822
+        },
+        {
+            "generos": [
+                "strut"
+            ],
+            "id": "6uPnr3XdPsToaX6kKfptwd",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b27330a70b466dd1760b289f69e2",
+            "nombre": "KAZAKY",
+            "popularidad": 37,
+            "seguidores": 28732
+        },
+        {
+            "generos": [
+                "alternative rock",
+                "dance pop",
+                "permanent wave",
+                "pop rock"
+            ],
+            "id": "0cQbJU1aAzvbEmTuljWLlF",
+            "img_url": "https://i.scdn.co/image/f7e39e0ca7a4ba897150247190fb27b6ae6e0318",
+            "nombre": "No Doubt",
+            "popularidad": 71,
+            "seguidores": 1711019
+        },
+        {
+            "generos": [
+                "dance pop",
+                "post-teen pop",
+                "urban contemporary"
+            ],
+            "id": "2tFN9ubMXEhdAQvdQxcsma",
+            "img_url": "https://i.scdn.co/image/82af2788a1423143a5edd5ec1c3301df85717590",
+            "nombre": "Jessica Simpson",
+            "popularidad": 56,
+            "seguidores": 826496
+        },
+        {
+            "generos": [
+                "dance pop",
+                "post-teen pop"
+            ],
+            "id": "0bOlhT8OcoC1lCpN69NcFP",
+            "img_url": "https://i.scdn.co/image/0567ac2e5662d6807c74f01c094b1aa3c4155cf4",
+            "nombre": "Kat Deluna",
+            "popularidad": 55,
+            "seguidores": 517845
+        },
+        {
+            "generos": [
+                "art pop",
+                "candy pop",
+                "dance pop",
+                "electropop",
+                "escape room",
+                "la indie",
+                "metropopolis",
+                "neo-synthpop",
+                "post-teen pop"
+            ],
+            "id": "7pyhre5oEEFMqcgMEvJY7q",
+            "img_url": "https://i.scdn.co/image/a32b57e0deca1ed3926585036dd2ed88565ade0f",
+            "nombre": "Sky Ferreira",
+            "popularidad": 54,
+            "seguidores": 394277
+        },
+        {
+            "generos": [
+                "bubblegum dance",
+                "dance pop",
+                "europop"
+            ],
+            "id": "1kM5rgJvkiDMOoKX56H6pX",
+            "img_url": "https://i.scdn.co/image/b24d7f79496b9767e070fc7dc1a623eafb9d7674",
+            "nombre": "S Club 7",
+            "popularidad": 63,
+            "seguidores": 395122
+        },
+        {
+            "generos": [
+                "bubblegum dance",
+                "dance pop",
+                "europop"
+            ],
+            "id": "54w1dJI7MTjkRGNfGuu2fc",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b273fbc98313ab1556a6ddd18a0e",
+            "nombre": "Victoria Beckham",
+            "popularidad": 35,
+            "seguidores": 68270
+        },
+        {
+            "generos": [
+                "bubblegum dance",
+                "candy pop",
+                "dance pop",
+                "europop",
+                "girl group"
+            ],
+            "id": "6JMHws5haIO6V35YNYDnDw",
+            "img_url": "https://i.scdn.co/image/eb131e58b95649a42d5b1cb906b1c71919fe92b5",
+            "nombre": "Atomic Kitten",
+            "popularidad": 63,
+            "seguidores": 264951
+        },
+        {
+            "generos": [
+                "boy band",
+                "bubblegum dance",
+                "dance pop",
+                "europop"
+            ],
+            "id": "6rEzedK7cKWjeQWdAYvWVG",
+            "img_url": "https://i.scdn.co/image/c7912a1e12fc68c9e662d64149bf97d0a7a14b1d",
+            "nombre": "Five",
+            "popularidad": 59,
+            "seguidores": 294148
+        },
+        {
+            "generos": [
+                "bubblegum dance",
+                "dance pop",
+                "europop"
+            ],
+            "id": "5zMgvYBz4AW0gFyPtg7fR9",
+            "img_url": "https://i.scdn.co/image/02d0b6cc0b28a6c18c3575649170800b985dfc15",
+            "nombre": "A*Teens",
+            "popularidad": 51,
+            "seguidores": 118494
+        },
+        {
+            "generos": [
+                "bubblegum dance",
+                "dance pop",
+                "eurodance",
+                "europop"
+            ],
+            "id": "6kBjAFKyd0he7LiA5GQ3Gz",
+            "img_url": "https://i.scdn.co/image/5d74de14af11e618cbe9349bc781ad1b243dbd3b",
+            "nombre": "Aqua",
+            "popularidad": 65,
+            "seguidores": 331430
+        },
+        {
+            "generos": [
+                "bubblegum dance",
+                "dance pop",
+                "europop"
+            ],
+            "id": "3RjnAn8EWb7zaLlGWVxQeP",
+            "img_url": "https://i.scdn.co/image/47e87940f1ea405e0a4990bd25646139d28bc79a",
+            "nombre": "Billie Piper",
+            "popularidad": 39,
+            "seguidores": 70269
+        },
+        {
+            "generos": [
+                "bubblegum dance",
+                "dance pop",
+                "europop"
+            ],
+            "id": "2vJU4d2jRQb4zJJIQRkyDB",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b27311429634f4b8a4dba0d8bc1a",
+            "nombre": "Mel B",
+            "popularidad": 34,
+            "seguidores": 92454
+        },
+        {
+            "generos": [
+                "bubblegum dance",
+                "dance pop",
+                "europop"
+            ],
+            "id": "7L12TqJ0fbwtFljTbwfwRI",
+            "img_url": "https://i.scdn.co/image/35a9c4cf7d8ae21032f9d60c549f0a6f57ed3e17",
+            "nombre": "Samantha Mumba",
+            "popularidad": 47,
+            "seguidores": 100521
+        },
+        {
+            "generos": [
+                "bubblegum dance",
+                "dance pop",
+                "europop",
+                "girl group"
+            ],
+            "id": "72eP0W3rIhkxd0NHGg4w4u",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b273d304bce5fa67ae430a9ac558",
+            "nombre": "B*Witched",
+            "popularidad": 53,
+            "seguidores": 136414
+        },
+        {
+            "generos": [
+                "boy band",
+                "bubblegum dance",
+                "dance pop",
+                "europop",
+                "pop rock"
+            ],
+            "id": "6X9aYHnQ75YI8o08aoa0iS",
+            "img_url": "https://i.scdn.co/image/588a07548bc91a664fafbaa04c1936a4759f5bcf",
+            "nombre": "Boyzone",
+            "popularidad": 64,
+            "seguidores": 608126
+        },
+        {
+            "generos": [
+                "freestyle",
+                "hi-nrg",
+                "mellow gold",
+                "new wave pop",
+                "soft rock"
+            ],
+            "id": "32lVGr0fSRGT6okLKHiP68",
+            "img_url": "https://i.scdn.co/image/05af0ccd05614cd0721e8ce02e5ca643b6685f46",
+            "nombre": "Taylor Dayne",
+            "popularidad": 60,
+            "seguidores": 255775
+        },
+        {
+            "generos": [
+                "freestyle",
+                "new wave pop"
+            ],
+            "id": "5nPz5R1FDPTMI3Dw4JnTGb",
+            "img_url": "https://i.scdn.co/image/dd971867bf3590ea127dcbd195bfb854eae7bfcf",
+            "nombre": "Expos\u00e9",
+            "popularidad": 51,
+            "seguidores": 156853
+        },
+        {
+            "generos": [
+                "freestyle",
+                "minneapolis sound",
+                "new jack swing",
+                "new wave pop",
+                "quiet storm",
+                "soft rock",
+                "urban contemporary"
+            ],
+            "id": "3AHq6rutf72JF0ul8GB6G2",
+            "img_url": "https://i.scdn.co/image/088e8190270f14d67c666f9d4794038efcab4c24",
+            "nombre": "The Jets",
+            "popularidad": 49,
+            "seguidores": 153425
+        },
+        {
+            "generos": [
+                "disco",
+                "freestyle",
+                "minneapolis sound",
+                "new jack swing",
+                "new wave pop",
+                "post-disco",
+                "quiet storm",
+                "urban contemporary"
+            ],
+            "id": "71aKjsWKYqASAffyIQaocZ",
+            "img_url": "https://i.scdn.co/image/478e085f126109108b3ce9ec96687df3033aaf63",
+            "nombre": "Jody Watley",
+            "popularidad": 45,
+            "seguidores": 173777
+        },
+        {
+            "generos": [
+                "minneapolis sound",
+                "new wave pop"
+            ],
+            "id": "40enFxfEXXsEXKOt1vgx0k",
+            "img_url": "https://i.scdn.co/image/feae6ac7bfed92ffda49e997327aa05319916b61",
+            "nombre": "Martika",
+            "popularidad": 50,
+            "seguidores": 120392
+        },
+        {
+            "generos": [
+                "new wave pop",
+                "soft rock"
+            ],
+            "id": "4C3uGP8vRDzxrhJxZiOjTe",
+            "img_url": "https://i.scdn.co/image/6f268fc280ae20031d4f83ca1e1a53053950dd1b",
+            "nombre": "Tiffany",
+            "popularidad": 62,
+            "seguidores": 212161
+        },
+        {
+            "generos": [
+                "freestyle",
+                "new jack swing",
+                "quiet storm",
+                "urban contemporary"
+            ],
+            "id": "702AvACMk5mieXIYlC2Gxx",
+            "img_url": "https://i.scdn.co/image/5cd09b1f3bac8a69b4d98de86f57dbb1a9aaff9d",
+            "nombre": "Pebbles",
+            "popularidad": 43,
+            "seguidores": 157719
+        },
+        {
+            "generos": [
+                "girl group",
+                "new wave pop",
+                "pop rock",
+                "soft rock"
+            ],
+            "id": "1yMYjh77WgOVafRkI50mim",
+            "img_url": "https://i.scdn.co/image/9101beb98984fddaf5f65b6e918370ccea6d11da",
+            "nombre": "Wilson Phillips",
+            "popularidad": 58,
+            "seguidores": 312838
+        },
+        {
+            "generos": [
+                "new jack swing"
+            ],
+            "id": "3vRclCt9VnNhYIxFMQCxuM",
+            "img_url": "https://i.scdn.co/image/4dc58f9631820362dab315031d6008c27755701a",
+            "nombre": "Milli Vanilli",
+            "popularidad": 55,
+            "seguidores": 186253
+        },
+        {
+            "generos": [
+                "diva house",
+                "new wave pop"
+            ],
+            "id": "2zVsfeSyFbCey7rq7PasHp",
+            "img_url": "https://i.scdn.co/image/0c7722a46d98e1e88da1ea544a85dfd2f7145c57",
+            "nombre": "Cathy Dennis",
+            "popularidad": 36,
+            "seguidores": 23121
+        },
+        {
+            "generos": [
+                "electro",
+                "freestyle",
+                "funk",
+                "new jack swing",
+                "quiet storm",
+                "urban contemporary"
+            ],
+            "id": "1vgjN6nIPNKiiQGE9PtzTT",
+            "img_url": "https://i.scdn.co/image/21ec050a1444f2255acdc068fda8be40144fd3df",
+            "nombre": "Lisa Lisa & Cult Jam",
+            "popularidad": 51,
+            "seguidores": 193450
+        },
+        {
+            "generos": [
+                "new wave pop",
+                "soft rock"
+            ],
+            "id": "18xgcedCGxFbqLbIQn5R8F",
+            "img_url": "https://i.scdn.co/image/38f548be383c85e312b12491bd08b45c5fc6f241",
+            "nombre": "Miami Sound Machine",
+            "popularidad": 60,
+            "seguidores": 146010
+        },
+        {
+            "generos": [
+                "freestyle",
+                "funk",
+                "minneapolis sound",
+                "new jack swing",
+                "quiet storm",
+                "rock drums"
+            ],
+            "id": "6OQrOpxSIfPai3cFaN4v4P",
+            "img_url": "https://i.scdn.co/image/8d16f9985b11d08b5afabd52b5d84b65835ed5ac",
+            "nombre": "Sheila E.",
+            "popularidad": 46,
+            "seguidores": 190761
+        },
+        {
+            "generos": [
+                "europop",
+                "freestyle",
+                "hi-nrg",
+                "italian disco",
+                "new wave pop"
+            ],
+            "id": "0ym94xKp2PIOJtTZKpxbAa",
+            "img_url": "https://i.scdn.co/image/f0c0912bf32ffa50bc83deb459ff9d040447514b",
+            "nombre": "Samantha Fox",
+            "popularidad": 48,
+            "seguidores": 184806
+        },
+        {
+            "generos": [
+                "boy band",
+                "new jack swing",
+                "r&b",
+                "urban contemporary"
+            ],
+            "id": "1QtIfAa6y7w2JhxYJhYeUG",
+            "img_url": "https://i.scdn.co/image/71d76bfb79615b8dbf513442380a5cea5c52aaf5",
+            "nombre": "Color Me Badd",
+            "popularidad": 55,
+            "seguidores": 286890
+        },
+        {
+            "generos": [
+                "dance pop",
+                "hip pop",
+                "neo soul",
+                "new jack swing",
+                "pop",
+                "r&b",
+                "urban contemporary"
+            ],
+            "id": "4qwGe91Bz9K2T8jXTZ815W",
+            "img_url": "https://i.scdn.co/image/0f14833db64cd305f1d4a16322902c93764c8282",
+            "nombre": "Janet Jackson",
+            "popularidad": 70,
+            "seguidores": 2191253
+        },
+        {
+            "generos": [
+                "quiet storm",
+                "urban contemporary"
+            ],
+            "id": "75L9s8KVrhCNtBUkZFnDFW",
+            "img_url": "https://i.scdn.co/image/458af73774ab8a6411df7df25829c6bd345152fc",
+            "nombre": "Vanessa Williams",
+            "popularidad": 57,
+            "seguidores": 225721
+        },
+        {
+            "generos": [
+                "dance pop",
+                "girl group",
+                "hip pop",
+                "pop",
+                "r&b",
+                "urban contemporary"
+            ],
+            "id": "1Y8cdNmUJH7yBTd9yOvr5i",
+            "img_url": "https://i.scdn.co/image/9c5f885d075e811cc9efa77d0f6c367701c5553e",
+            "nombre": "Destiny's Child",
+            "popularidad": 76,
+            "seguidores": 4301414
+        },
+        {
+            "generos": [
+                "atl hip hop",
+                "dance pop",
+                "hip pop",
+                "neo soul",
+                "pop",
+                "pop r&b",
+                "pop rap",
+                "post-teen pop",
+                "r&b",
+                "urban contemporary"
+            ],
+            "id": "3AuMNF8rQAKOzjYppFNAoB",
+            "img_url": "https://i.scdn.co/image/1f55c76000e66001c5da2a3d393faad445a2182b",
+            "nombre": "Kelly Rowland",
+            "popularidad": 71,
+            "seguidores": 2399009
+        },
+        {
+            "generos": [
+                "dance pop",
+                "hip pop",
+                "pop",
+                "pop rap",
+                "post-teen pop",
+                "r&b",
+                "urban contemporary"
+            ],
+            "id": "2NdeV5rLm47xAvogXrYhJX",
+            "img_url": "https://i.scdn.co/image/50b2efea0870ebe54f7d8c34bf2673be4f8a4ca6",
+            "nombre": "Ciara",
+            "popularidad": 75,
+            "seguidores": 4539993
+        },
+        {
+            "generos": [
+                "dance pop",
+                "neo mellow",
+                "pop",
+                "pop rap",
+                "pop rock",
+                "post-teen pop",
+                "r&b",
+                "urban contemporary",
+                "viral pop"
+            ],
+            "id": "2AQjGvtT0pFYfxR3neFcvz",
+            "img_url": "https://i.scdn.co/image/cd7dd075376199bbeacd472734712ed35c6e6ea7",
+            "nombre": "Jordin Sparks",
+            "popularidad": 69,
+            "seguidores": 1548957
+        },
+        {
+            "generos": [
+                "dance pop",
+                "hip hop",
+                "hip pop",
+                "philly rap",
+                "pop rap",
+                "r&b",
+                "rap",
+                "urban contemporary"
+            ],
+            "id": "4d3yvTptO48nOYTPBcPFZC",
+            "img_url": "https://i.scdn.co/image/8d176bb912f0b30db3f2a1c5ff7c06903963b9bc",
+            "nombre": "Eve",
+            "popularidad": 69,
+            "seguidores": 755538
+        },
+        {
+            "generos": [
+                "dance pop",
+                "girl group",
+                "hip hop",
+                "hip pop",
+                "neo soul",
+                "new jack swing",
+                "r&b",
+                "urban contemporary"
+            ],
+            "id": "5fikk4h5qbEebqK2Fc6e48",
+            "img_url": "https://i.scdn.co/image/72fc22ee4af38947cb314d3b7e0c1a6be10fc504",
+            "nombre": "En Vogue",
+            "popularidad": 61,
+            "seguidores": 790799
+        },
+        {
+            "generos": [
+                "dance pop",
+                "hip pop",
+                "neo soul",
+                "new jack swing",
+                "pop",
+                "quiet storm",
+                "r&b",
+                "urban contemporary"
+            ],
+            "id": "3X458ddYA2YcVWuVIGGOYe",
+            "img_url": "https://i.scdn.co/image/613245bb9646ebb2eb167c2c12dfc72e7fc675f7",
+            "nombre": "Toni Braxton",
+            "popularidad": 69,
+            "seguidores": 2294950
+        },
+        {
+            "generos": [
+                "dance pop",
+                "hip pop",
+                "neo soul",
+                "pop",
+                "pop r&b",
+                "pop rap",
+                "r&b",
+                "urban contemporary"
+            ],
+            "id": "05oH07COxkXKIMt6mIPRee",
+            "img_url": "https://i.scdn.co/image/783792fe8f8a91c62685a3d686c8aa03366dc505",
+            "nombre": "Brandy",
+            "popularidad": 72,
+            "seguidores": 1816758
+        },
+        {
+            "generos": [
+                "dance pop",
+                "hip hop",
+                "hip pop",
+                "neo soul",
+                "pop r&b",
+                "pop rap",
+                "r&b",
+                "urban contemporary"
+            ],
+            "id": "08rMCq2ek1YjdDBsCPVH2s",
+            "img_url": "https://i.scdn.co/image/91c9bea2e8b07d3af8e3696fcb45e54febeafab6",
+            "nombre": "Amerie",
+            "popularidad": 58,
+            "seguidores": 567759
+        },
+        {
+            "generos": [
+                "atl hip hop",
+                "dance pop",
+                "girl group",
+                "hip hop",
+                "hip pop",
+                "new jack swing",
+                "pop",
+                "pop rap",
+                "r&b",
+                "urban contemporary"
+            ],
+            "id": "0TImkz4nPqjegtVSMZnMRq",
+            "img_url": "https://i.scdn.co/image/0a92641cc8acb39e4aee7e959cb2a42287ea4801",
+            "nombre": "TLC",
+            "popularidad": 72,
+            "seguidores": 2294869
+        },
+        {
+            "generos": [
+                "dance pop",
+                "hip pop",
+                "neo soul",
+                "new jack swing",
+                "pop r&b",
+                "pop rap",
+                "r&b",
+                "urban contemporary"
+            ],
+            "id": "6nzxy2wXs6tLgzEtqOkEi2",
+            "img_url": "https://i.scdn.co/image/328896170b380ff5fc06795a857c175e68bb526c",
+            "nombre": "Monica",
+            "popularidad": 69,
+            "seguidores": 1584626
+        },
+        {
+            "generos": [
+                "dance pop",
+                "hip pop",
+                "neo soul",
+                "pop",
+                "pop r&b",
+                "pop rap",
+                "r&b",
+                "southern hip hop",
+                "urban contemporary"
+            ],
+            "id": "6lHL3ubAMgSasKjNqKb8HF",
+            "img_url": "https://i.scdn.co/image/a66bcf14cb2a5367e5f277ba6c9cf4694b958158",
+            "nombre": "M\u00fda",
+            "popularidad": 66,
+            "seguidores": 839252
+        },
+        {
+            "generos": [
+                "dance pop",
+                "hip hop",
+                "hip pop",
+                "neo soul",
+                "new jack swing",
+                "quiet storm",
+                "r&b",
+                "urban contemporary"
+            ],
+            "id": "5NDMothbpdpq2xHqSjrrWn",
+            "img_url": "https://i.scdn.co/image/c9253b30e414af228d6353f1236bdfe3208bbeb2",
+            "nombre": "Faith Evans",
+            "popularidad": 69,
+            "seguidores": 890262
+        },
+        {
+            "generos": [
+                "dance pop",
+                "girl group",
+                "hip hop",
+                "hip pop",
+                "neo soul",
+                "new jack swing",
+                "pop",
+                "quiet storm",
+                "r&b",
+                "urban contemporary"
+            ],
+            "id": "2NmK5FyrQ18HOPXq1UBzqa",
+            "img_url": "https://i.scdn.co/image/3f0a799ccbddbeb012c61d1ceb9958dabad127b5",
+            "nombre": "SWV",
+            "popularidad": 66,
+            "seguidores": 1136262
+        },
+        {
+            "generos": [
+                "canadian pop",
+                "dance pop",
+                "hip pop",
+                "neo soul",
+                "new jack swing",
+                "pop r&b",
+                "quiet storm",
+                "r&b",
+                "urban contemporary"
+            ],
+            "id": "0le01dl1WllSHhjEXRl4in",
+            "img_url": "https://i.scdn.co/image/f8469bcb8ac0d193053b78477e8786e023ce2bfd",
+            "nombre": "Tamia",
+            "popularidad": 68,
+            "seguidores": 900628
+        },
+        {
+            "generos": [
+                "dance pop",
+                "hip hop",
+                "hip pop",
+                "neo soul",
+                "pop",
+                "pop rap",
+                "r&b",
+                "urban contemporary"
+            ],
+            "id": "0urTpYCsixqZwgNTkPJOJ4",
+            "img_url": "https://i.scdn.co/image/341693fbd0b8ed0e8ae042713598e2c9ea4870dc",
+            "nombre": "Aaliyah",
+            "popularidad": 64,
+            "seguidores": 2293654
+        },
+        {
+            "generos": [
+                "atl hip hop",
+                "dance pop",
+                "girl group",
+                "hip pop",
+                "neo soul",
+                "new jack swing",
+                "pop r&b",
+                "quiet storm",
+                "r&b",
+                "urban contemporary"
+            ],
+            "id": "5z2cHsOmmmWcAPNG1oEhw0",
+            "img_url": "https://i.scdn.co/image/e40197aeda853d1d769828b7e89fa07c32029808",
+            "nombre": "Xscape",
+            "popularidad": 57,
+            "seguidores": 950164
+        },
+        {
+            "generos": [
+                "dance pop",
+                "funk",
+                "hip hop",
+                "new jack swing",
+                "quiet storm",
+                "r&b",
+                "rap",
+                "urban contemporary"
+            ],
+            "id": "62sPt3fswraiEPnKQpAbdE",
+            "img_url": "https://i.scdn.co/image/7d381fcf203f0e83fbcfd5ce485dc9edbe593196",
+            "nombre": "Bobby Brown",
+            "popularidad": 61,
+            "seguidores": 663074
+        },
+        {
+            "generos": [
+                "canadian pop",
+                "hip pop",
+                "neo soul",
+                "new jack swing",
+                "quiet storm",
+                "r&b",
+                "urban contemporary",
+                "vocal house"
+            ],
+            "id": "601893mmW5hl1FBOykWZHG",
+            "img_url": "https://i.scdn.co/image/9c0f3c803d99965e6c6a2e3c40f217f128a0ddde",
+            "nombre": "Deborah Cox",
+            "popularidad": 55,
+            "seguidores": 451138
+        },
+        {
+            "generos": [
+                "girl group",
+                "hip pop",
+                "neo soul",
+                "new jack swing",
+                "r&b",
+                "urban contemporary"
+            ],
+            "id": "2S8UlyXW4JjjHcbeg8ddIo",
+            "img_url": "https://i.scdn.co/image/52467d6f26b4a94d6d6d344164fa6fdbeb7268f1",
+            "nombre": "702",
+            "popularidad": 54,
+            "seguidores": 449691
+        },
+        {
+            "generos": [
+                "dance pop",
+                "hip hop",
+                "hip pop",
+                "neo soul",
+                "new jack swing",
+                "pop rap",
+                "quiet storm",
+                "r&b",
+                "urban contemporary"
+            ],
+            "id": "3SRJWVa6lZnqRHOyAHmDrX",
+            "img_url": "https://i.scdn.co/image/ba476cf040939daadeff4c3a2915b234cd2ee6f3",
+            "nombre": "Jon B.",
+            "popularidad": 57,
+            "seguidores": 754738
+        },
+        {
+            "generos": [
+                "funk",
+                "hip pop",
+                "neo soul",
+                "new jack swing",
+                "quiet storm",
+                "r&b",
+                "soul",
+                "urban contemporary"
+            ],
+            "id": "7vWlb4pM85jCHvV771qZZW",
+            "img_url": "https://i.scdn.co/image/0052c043eab388b7bcecdc5e9ef859c1dfe0f148",
+            "nombre": "Tony! Toni! Ton\u00e9!",
+            "popularidad": 60,
+            "seguidores": 614684
+        },
+        {
+            "generos": [
+                "dance pop",
+                "east coast hip hop",
+                "escape room",
+                "hip hop",
+                "hip pop",
+                "pop",
+                "pop rap",
+                "r&b",
+                "rap",
+                "southern hip hop",
+                "trap queen",
+                "urban contemporary"
+            ],
+            "id": "5tth2a3v0sWwV1C7bApBdX",
+            "img_url": "https://i.scdn.co/image/cdcec269726e993fca65bdd19932128e380e62e4",
+            "nombre": "Lil' Kim",
+            "popularidad": 70,
+            "seguidores": 987909
+        },
+        {
+            "generos": [
+                "disco",
+                "europop"
+            ],
+            "id": "6V6WCgi7waF55bJmylC4H5",
+            "img_url": "https://i.scdn.co/image/9f94d5ed50793702d0639d7ecfca5a1a764ffe25",
+            "nombre": "Gloria Gaynor",
+            "popularidad": 67,
+            "seguidores": 523551
+        },
+        {
+            "generos": [
+                "dance pop",
+                "disco",
+                "disco house",
+                "funk",
+                "philly soul",
+                "post-disco",
+                "quiet storm",
+                "soul"
+            ],
+            "id": "6gkWznnJkdkwRPVcmnrays",
+            "img_url": "https://i.scdn.co/image/a459518ddd1782dc750ec87cffbf8033a4a7ec94",
+            "nombre": "Sister Sledge",
+            "popularidad": 66,
+            "seguidores": 389659
+        },
+        {
+            "generos": [
+                "disco",
+                "europop"
+            ],
+            "id": "0dCKce6tJJdHvlWnDMwzPW",
+            "img_url": "https://i.scdn.co/image/050236bfffbf4bbd4295299cb2962223412426aa",
+            "nombre": "Village People",
+            "popularidad": 64,
+            "seguidores": 310741
+        },
+        {
+            "generos": [
+                "disco",
+                "motown",
+                "philly soul",
+                "post-disco"
+            ],
+            "id": "1zgNpeHQe8GulzfVkYP2VK",
+            "img_url": "https://i.scdn.co/image/132abbf6df27334111679e99f73fdbae448c7767",
+            "nombre": "The Trammps",
+            "popularidad": 57,
+            "seguidores": 141535
+        },
+        {
+            "generos": [
+                "disco",
+                "hi-nrg",
+                "post-disco"
+            ],
+            "id": "5TGTpu4g8siFOIctZuQO7y",
+            "img_url": "https://i.scdn.co/image/2a04e29693ab3b2a6fb4c49c78fe67235db265d1",
+            "nombre": "Sylvester",
+            "popularidad": 54,
+            "seguidores": 99190
+        },
+        {
+            "generos": [
+                "disco",
+                "funk",
+                "motown",
+                "soft rock"
+            ],
+            "id": "3mQBpAOMWYqAZyxtyeo4Lo",
+            "img_url": "https://i.scdn.co/image/9bb10d98f17229e6cf1051d2d50e7a6afbdcc838",
+            "nombre": "KC & The Sunshine Band",
+            "popularidad": 67,
+            "seguidores": 591453
+        },
+        {
+            "generos": [
+                "disco",
+                "funk",
+                "motown",
+                "post-disco",
+                "quiet storm",
+                "soul"
+            ],
+            "id": "0Xf8oDAJYd2D0k3NLI19OV",
+            "img_url": "https://i.scdn.co/image/8e9c76e2392d995543a59d718d322f8bc1e530c0",
+            "nombre": "CHIC",
+            "popularidad": 65,
+            "seguidores": 442109
+        },
+        {
+            "generos": [
+                "disco"
+            ],
+            "id": "5QHvbEwccF3WANUD5lEIuA",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b2738daf12b034cab3d5442003dc",
+            "nombre": "Silver Convention",
+            "popularidad": 43,
+            "seguidores": 50491
+        },
+        {
+            "generos": [
+                "adult standards",
+                "classic soul",
+                "disco",
+                "motown",
+                "post-disco",
+                "quiet storm",
+                "soft rock"
+            ],
+            "id": "3LfO03nEZMdWNHG2tLpMa0",
+            "img_url": "https://i.scdn.co/image/657139eb6fd4b5ddc68d7954d8b0672948b6f791",
+            "nombre": "Tavares",
+            "popularidad": 56,
+            "seguidores": 169116
+        },
+        {
+            "generos": [
+                "disco",
+                "hammond organ",
+                "motown",
+                "post-disco",
+                "quiet storm"
+            ],
+            "id": "5b4SvpTqll0LSqJWPpXya5",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b273010ecd0b1a0141ed97f908ee",
+            "nombre": "Odyssey",
+            "popularidad": 52,
+            "seguidores": 58609
+        },
+        {
+            "generos": [
+                "adult standards",
+                "disco",
+                "funk",
+                "mellow gold",
+                "motown",
+                "quiet storm",
+                "soft rock",
+                "soul"
+            ],
+            "id": "3MdG05syQeRYPPcClLaUGl",
+            "img_url": "https://i.scdn.co/image/c69aa874ada7a686cc2b2651ae11c77a7c63808e",
+            "nombre": "Diana Ross",
+            "popularidad": 72,
+            "seguidores": 1135764
+        },
+        {
+            "generos": [
+                "disco",
+                "post-disco"
+            ],
+            "id": "1HvcqyRLS9nF8hAbTWOqpr",
+            "img_url": "https://i.scdn.co/image/2c87a93d296d821aa3fc384c8a4d90823925055b",
+            "nombre": "Dan Hartman",
+            "popularidad": 54,
+            "seguidores": 44901
+        },
+        {
+            "generos": [
+                "disco",
+                "hi-nrg"
+            ],
+            "id": "7Jbs4wPCLaKXPxrTxZ2zaa",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b2738b7d4436566a722d7869462f",
+            "nombre": "Tina Charles",
+            "popularidad": 51,
+            "seguidores": 58695
+        },
+        {
+            "generos": [
+                "art rock",
+                "dance pop",
+                "dance rock",
+                "disco",
+                "electronica",
+                "new romantic",
+                "new wave pop"
+            ],
+            "id": "2f9ZiYA2ic1r1voObUimdd",
+            "img_url": "https://i.scdn.co/image/baf6d631534e8e6788471280f3447f0b7fe0ee54",
+            "nombre": "Grace Jones",
+            "popularidad": 60,
+            "seguidores": 194996
+        },
+        {
+            "generos": [
+                "disco",
+                "minneapolis sound"
+            ],
+            "id": "0lwRI7lvmlRY5DiA5Xa6wQ",
+            "img_url": "https://i.scdn.co/image/448c91913c05c3562c33da989f68a8a2efe49814",
+            "nombre": "Lipps Inc.",
+            "popularidad": 61,
+            "seguidores": 57359
+        },
+        {
+            "generos": [
+                "adult standards",
+                "disco",
+                "funk",
+                "motown",
+                "quiet storm",
+                "soul"
+            ],
+            "id": "3rfgbfpPSfXY40lzRK7Syt",
+            "img_url": "https://i.scdn.co/image/c00b771ca8b6241bcfe316f8e8a11072714e79ef",
+            "nombre": "Barry White",
+            "popularidad": 70,
+            "seguidores": 1099967
+        },
+        {
+            "generos": [
+                "classic girl group",
+                "disco",
+                "motown",
+                "philly soul",
+                "quiet storm"
+            ],
+            "id": "2zpFG5cvw00QmrYTUsjApa",
+            "img_url": "https://i.scdn.co/image/713f5221f3b532797b2c3cf1d1b2890cff0264e4",
+            "nombre": "The Three Degrees",
+            "popularidad": 50,
+            "seguidores": 103750
+        },
+        {
+            "generos": [
+                "dance rock",
+                "new romantic",
+                "new wave",
+                "new wave pop",
+                "soft rock"
+            ],
+            "id": "47qTcvYlqJGAEsCI7BcENC",
+            "img_url": "https://i.scdn.co/image/d93dffc1ac7718df2f77af496590bde308126d59",
+            "nombre": "T'Pau",
+            "popularidad": 52,
+            "seguidores": 109829
+        },
+        {
+            "generos": [
+                "candy pop",
+                "new wave pop"
+            ],
+            "id": "7ooOn6bokl4mGV4CEaUz6A",
+            "img_url": "https://i.scdn.co/image/0ee21e714f415dc1b5208fcbcf4a8f8fda3d0b3c",
+            "nombre": "Shakespears Sister",
+            "popularidad": 46,
+            "seguidores": 60296
+        },
+        {
+            "generos": [
+                "art rock",
+                "dance rock",
+                "europop",
+                "new romantic",
+                "new wave",
+                "new wave pop",
+                "soft rock",
+                "sophisti-pop",
+                "synthpop"
+            ],
+            "id": "0s0rOb0gT2S9N0SDcjtPC4",
+            "img_url": "https://i.scdn.co/image/41d722fdde2751e423088919592e6624a33d826e",
+            "nombre": "Alison Moyet",
+            "popularidad": 54,
+            "seguidores": 265290
+        },
+        {
+            "generos": [
+                "dance rock",
+                "europop",
+                "new romantic",
+                "new wave",
+                "new wave pop",
+                "soft rock",
+                "synthpop"
+            ],
+            "id": "7kCL98rPFsNKjAHDmWrMac",
+            "img_url": "https://i.scdn.co/image/6e92dbfd07d0d17b28e210e9ca09809b38ed84f7",
+            "nombre": "Nik Kershaw",
+            "popularidad": 60,
+            "seguidores": 190722
+        },
+        {
+            "generos": [
+                "album rock",
+                "mellow gold",
+                "new wave pop",
+                "soft rock"
+            ],
+            "id": "0grdhNhiRLFBaFVyybqsj6",
+            "img_url": "https://i.scdn.co/image/45e105cbad8c0baf748952db3b2db067ce8f1fc2",
+            "nombre": "Richard Marx",
+            "popularidad": 67,
+            "seguidores": 668023
+        },
+        {
+            "generos": [
+                "dance rock",
+                "mellow gold",
+                "new romantic",
+                "new wave",
+                "new wave pop",
+                "soft rock",
+                "sophisti-pop",
+                "synthpop"
+            ],
+            "id": "6zpPKMhpOoG646kJgZ7RKf",
+            "img_url": "https://i.scdn.co/image/a701c6eafb15327e8f4277e48a07a53d7ea46a4d",
+            "nombre": "Johnny Hates Jazz",
+            "popularidad": 53,
+            "seguidores": 120870
+        },
+        {
+            "generos": [
+                "new wave pop"
+            ],
+            "id": "2TzHIUhVpeeDxyJPpQfnV3",
+            "img_url": "https://i.scdn.co/image/733bf3eb9178fd24dbce4a9a5ec64d0c870ea822",
+            "nombre": "Katrina & The Waves",
+            "popularidad": 66,
+            "seguidores": 48667
+        },
+        {
+            "generos": [
+                "british soul",
+                "disco",
+                "new wave pop",
+                "soft rock"
+            ],
+            "id": "2jS7I1u7BpgWT9ssG62Zr1",
+            "img_url": "https://i.scdn.co/image/8f17cec1f5f45a1c47b9e51c0db1ff45d358c475",
+            "nombre": "Lisa Stansfield",
+            "popularidad": 59,
+            "seguidores": 436230
+        },
+        {
+            "generos": [
+                "dance pop",
+                "disco",
+                "diva house",
+                "europop",
+                "hip house",
+                "new romantic",
+                "new wave pop",
+                "sophisti-pop"
+            ],
+            "id": "3lcbKPLl0ci2mKRdcP5Etf",
+            "img_url": "https://i.scdn.co/image/3cdc2713a08a7266dff1365292153dd9b24823ae",
+            "nombre": "M People",
+            "popularidad": 57,
+            "seguidores": 154491
+        },
+        {
+            "generos": [
+                "british soul",
+                "dance rock",
+                "mellow gold",
+                "new romantic",
+                "new wave",
+                "new wave pop",
+                "soft rock",
+                "sophisti-pop"
+            ],
+            "id": "1fa0cOhromAZdq2xRA4vv8",
+            "img_url": "https://i.scdn.co/image/d163774eb4d26d377ee0a5ebbc4051a29aa911bb",
+            "nombre": "Simply Red",
+            "popularidad": 72,
+            "seguidores": 1346989
+        },
+        {
+            "generos": [
+                "adult standards",
+                "disco",
+                "mellow gold",
+                "motown",
+                "quiet storm",
+                "soft rock"
+            ],
+            "id": "3gMaNLQm7D9MornNILzdSl",
+            "img_url": "https://i.scdn.co/image/7df837642a5107f47066431904e464eb0a3575f3",
+            "nombre": "Lionel Richie",
+            "popularidad": 75,
+            "seguidores": 1812413
+        },
+        {
+            "generos": [
+                "dance pop",
+                "dance rock",
+                "disco",
+                "europop",
+                "new romantic",
+                "new wave",
+                "new wave pop",
+                "soft rock"
+            ],
+            "id": "5lpH0xAS4fVfLkACg9DAuM",
+            "img_url": "https://i.scdn.co/image/028bf41acbd7858a4a8acf688a392d4ee9e369ef",
+            "nombre": "Wham!",
+            "popularidad": 72,
+            "seguidores": 1327258
+        },
+        {
+            "generos": [
+                "dance rock",
+                "disco",
+                "europop",
+                "mellow gold",
+                "motown",
+                "new wave pop",
+                "soft rock",
+                "yacht rock"
+            ],
+            "id": "5IDs1CK15HegSAhGEbSYXo",
+            "img_url": "https://i.scdn.co/image/c71e40591ecd321eb8226bb16f3ca795e8e8df34",
+            "nombre": "Billy Ocean",
+            "popularidad": 67,
+            "seguidores": 578861
+        },
+        {
+            "generos": [
+                "dance rock",
+                "new wave pop",
+                "soft rock"
+            ],
+            "id": "19ra5tSw0tWufvUp8GotLo",
+            "img_url": "https://i.scdn.co/image/3c6625e90191fcdffadb0ff5c613f4662a2e4b82",
+            "nombre": "George Michael",
+            "popularidad": 76,
+            "seguidores": 2646787
+        },
+        {
+            "generos": [
+                "dance pop",
+                "pop",
+                "pop rap",
+                "post-teen pop",
+                "viral pop"
+            ],
+            "id": "6dJeKm76NjfXBNTpHmOhfO",
+            "img_url": "https://i.scdn.co/image/469b6a74f5ddca9560e9f5137842e3772c8576c0",
+            "nombre": "Selena Gomez & The Scene",
+            "popularidad": 71,
+            "seguidores": 5786408
+        },
+        {
+            "generos": [
+                "dance pop",
+                "electropop",
+                "pop",
+                "post-teen pop"
+            ],
+            "id": "6LqNN22kT3074XbTVUrhzX",
+            "img_url": "https://i.scdn.co/image/282055081bba71c1f715c6459de13d12fb4373d5",
+            "nombre": "Kesha",
+            "popularidad": 81,
+            "seguidores": 5814570
+        },
+        {
+            "generos": [
+                "canadian pop",
+                "candy pop",
+                "dance pop",
+                "pop",
+                "post-teen pop"
+            ],
+            "id": "0p4nmQO2msCgU4IF37Wi3j",
+            "img_url": "https://i.scdn.co/image/035ad2a01098302eb1d195668fe153c364cb77b1",
+            "nombre": "Avril Lavigne",
+            "popularidad": 80,
+            "seguidores": 6256921
+        },
+        {
+            "generos": [
+                "dance pop",
+                "neo mellow",
+                "pop",
+                "pop rock",
+                "post-teen pop",
+                "talent show",
+                "viral pop"
+            ],
+            "id": "3BmGtnKgCSGYIUhmivXKWX",
+            "img_url": "https://i.scdn.co/image/e83f002015ece3302c98bfc425f497091d48ecaf",
+            "nombre": "Kelly Clarkson",
+            "popularidad": 79,
+            "seguidores": 6866044
+        },
+        {
+            "generos": [
+                "dance pop",
+                "electropop",
+                "girl group",
+                "indie poptimism",
+                "pop",
+                "post-teen pop"
+            ],
+            "id": "5wugb0kaq0J6nyQ5Xgd17i",
+            "img_url": "https://i.scdn.co/image/ca32ba04d027f26f88fcec40530a10bdb040f85e",
+            "nombre": "Aly & AJ",
+            "popularidad": 59,
+            "seguidores": 394380
+        },
+        {
+            "generos": [
+                "new wave pop"
+            ],
+            "id": "4k7b3DWqBnYpobDWbNWLdM",
+            "img_url": "https://i.scdn.co/image/b526302e4ef6dcb7841c22c9a1d87c7b06b1c0c8",
+            "nombre": "Mel & Kim",
+            "popularidad": 42,
+            "seguidores": 56079
+        },
+        {
+            "generos": [
+                "hi-nrg",
+                "italian disco",
+                "new wave pop"
+            ],
+            "id": "5HP4SpcujgIKC6tHBwfy42",
+            "img_url": "https://i.scdn.co/image/239f33fdfe80f499661c9d57138f2f257953d539",
+            "nombre": "Hazell Dean",
+            "popularidad": 36,
+            "seguidores": 18021
+        },
+        {
+            "generos": [
+                "dance rock",
+                "hi-nrg",
+                "new romantic",
+                "new wave",
+                "new wave pop",
+                "synthpop"
+            ],
+            "id": "5WWSL6rElJeUk3Uc1S2RyD",
+            "img_url": "https://i.scdn.co/image/4a26ecb521c6ec59fc5a2e581d53829bcc624342",
+            "nombre": "Dead Or Alive",
+            "popularidad": 62,
+            "seguidores": 235514
+        },
+        {
+            "generos": [
+                "australian dance",
+                "australian pop",
+                "europop",
+                "new wave pop"
+            ],
+            "id": "5bnNgwp3nooah9yHAHsnR4",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b2732fd4d63d82ed4c7d1dcbc1ea",
+            "nombre": "Jason Donovan",
+            "popularidad": 51,
+            "seguidores": 35985
+        },
+        {
+            "generos": [
+                "classic uk pop",
+                "new romantic",
+                "new wave pop"
+            ],
+            "id": "5ZfzzHE7rxONfoksJsLXrX",
+            "img_url": "https://i.scdn.co/image/bf1e557350f1dbbbdb99a2b1750f1eb915ab7f20",
+            "nombre": "Bucks Fizz",
+            "popularidad": 45,
+            "seguidores": 32293
+        },
+        {
+            "generos": [
+                "hi-nrg",
+                "new wave pop"
+            ],
+            "id": "1nUUfnmwd9mdpTPwMcM1hd",
+            "img_url": "https://i.scdn.co/image/fb0b53d7c2fea436db743651731f6f0ff5f9ef41",
+            "nombre": "Sinitta",
+            "popularidad": 36,
+            "seguidores": 16572
+        },
+        {
+            "generos": [
+                "dance rock",
+                "europop",
+                "new romantic",
+                "new wave",
+                "new wave pop",
+                "soft rock",
+                "sophisti-pop"
+            ],
+            "id": "0gxyHStUsqpMadRV0Di1Qt",
+            "img_url": "https://i.scdn.co/image/123732b665ec9be0bc8d0d55283aa2ba579304d5",
+            "nombre": "Rick Astley",
+            "popularidad": 69,
+            "seguidores": 605252
+        },
+        {
+            "generos": [
+                "dance rock",
+                "mellow gold",
+                "new romantic",
+                "new wave",
+                "new wave pop",
+                "soft rock",
+                "synthpop"
+            ],
+            "id": "5jVeqi3PNaTOajfvBa4uFn",
+            "img_url": "https://i.scdn.co/image/d192241f8d790091af097a62eaa28a9c23ce8c98",
+            "nombre": "Thompson Twins",
+            "popularidad": 57,
+            "seguidores": 389449
+        },
+        {
+            "generos": [
+                "new wave pop"
+            ],
+            "id": "4toJT7YydhWcrYNgWJK4hW",
+            "img_url": "https://i.scdn.co/image/89596347245acb1d27db79253c770434fcfe8c04",
+            "nombre": "Five Star",
+            "popularidad": 40,
+            "seguidores": 44487
+        },
+        {
+            "generos": [
+                "art rock",
+                "dance rock",
+                "new romantic",
+                "new wave",
+                "new wave pop",
+                "soft rock",
+                "sophisti-pop",
+                "synthpop"
+            ],
+            "id": "2s79xe5F6eUQkjwjww27Fh",
+            "img_url": "https://i.scdn.co/image/5f3a5d166208f063be876b29d54fe4d2f6290c3f",
+            "nombre": "ABC",
+            "popularidad": 56,
+            "seguidores": 226211
+        },
+        {
+            "generos": [
+                "new wave pop"
+            ],
+            "id": "2LKrAJVB1842xPDvx4uuwU",
+            "img_url": "https://i.scdn.co/image/07b26671e20d790ac68dda62025c23f2baa2ec85",
+            "nombre": "Bros",
+            "popularidad": 41,
+            "seguidores": 37776
+        },
+        {
+            "generos": [
+                "disco",
+                "hi-nrg"
+            ],
+            "id": "19xz1vcuKNjniGEftTOSSH",
+            "img_url": "https://i.scdn.co/image/c6ee1b148f19beba30590bb1bb35ef293c3de40c",
+            "nombre": "The Weather Girls",
+            "popularidad": 61,
+            "seguidores": 82962
+        },
+        {
+            "generos": [
+                "dance pop",
+                "disco",
+                "funk",
+                "motown",
+                "neo soul",
+                "post-disco",
+                "quiet storm",
+                "soul",
+                "urban contemporary"
+            ],
+            "id": "6mQfAAqZGBzIfrmlZCeaYT",
+            "img_url": "https://i.scdn.co/image/c772d0950c5b1b9a0d867980c4b86df665cda9f0",
+            "nombre": "Chaka Khan",
+            "popularidad": 69,
+            "seguidores": 993468
+        },
+        {
+            "generos": [
+                "disco",
+                "funk",
+                "motown",
+                "post-disco",
+                "quiet storm",
+                "soul",
+                "urban contemporary"
+            ],
+            "id": "3REpOYo13YkVj1dFzda12A",
+            "img_url": "https://i.scdn.co/image/8ae3444f2892e684e76f550255845fed4f17d843",
+            "nombre": "Shalamar",
+            "popularidad": 56,
+            "seguidores": 253999
+        },
+        {
+            "generos": [
+                "alternative dance",
+                "art pop",
+                "dance pop",
+                "electronica",
+                "electropop",
+                "neo-synthpop",
+                "new rave",
+                "trip hop"
+            ],
+            "id": "3qwabfaWewpfli7hMNM3O8",
+            "img_url": "https://i.scdn.co/image/bd840162ee820513b213a6d0abb25d1f3016a2d5",
+            "nombre": "R\u00f3is\u00edn Murphy",
+            "popularidad": 59,
+            "seguidores": 194999
+        },
+        {
+            "generos": [
+                "alternative dance",
+                "art pop",
+                "dance pop",
+                "electroclash",
+                "electropop",
+                "europop",
+                "neo-synthpop"
+            ],
+            "id": "7zt6Af78CalxaPDqORfw8L",
+            "img_url": "https://i.scdn.co/image/251547df9b77a7cc6b9107cb39ff0f8fbbadaaca",
+            "nombre": "Annie",
+            "popularidad": 45,
+            "seguidores": 42066
+        },
+        {
+            "generos": [
+                "alternative dance",
+                "dance pop",
+                "electropop",
+                "neo-synthpop",
+                "new rave"
+            ],
+            "id": "3K2zB87GZv1krx031en5VA",
+            "img_url": "https://i.scdn.co/image/e69b50a5ca78ea5374bc2e5202b07e9c497d02c1",
+            "nombre": "La Roux",
+            "popularidad": 65,
+            "seguidores": 530747
+        },
+        {
+            "generos": [
+                "art pop",
+                "bmore",
+                "dance pop",
+                "escape room",
+                "hip house",
+                "hip pop",
+                "lgbtq+ hip hop",
+                "pop",
+                "pop rap",
+                "trap queen"
+            ],
+            "id": "7gRhy3MIPHQo5CXYfWaw9I",
+            "img_url": "https://i.scdn.co/image/f5a39ed620fdad4a9a0ddbb466ccc57bd8f4702f",
+            "nombre": "Azealia Banks",
+            "popularidad": 63,
+            "seguidores": 631075
+        },
+        {
+            "generos": [
+                "art pop",
+                "dance pop",
+                "electropop",
+                "indie pop",
+                "pop",
+                "swedish electropop",
+                "swedish indie pop",
+                "swedish pop"
+            ],
+            "id": "6oBm8HB0yfrIc9IHbxs6in",
+            "img_url": "https://i.scdn.co/image/eebaf06a86ea9b59f8701fc95c5d39e1b441608c",
+            "nombre": "Lykke Li",
+            "popularidad": 73,
+            "seguidores": 1395687
+        },
+        {
+            "generos": [
+                "alternative dance",
+                "dance pop",
+                "electroclash",
+                "electropop",
+                "neo-synthpop",
+                "new rave"
+            ],
+            "id": "0MoXIHcFwhIWnFgBfdvQ30",
+            "img_url": "https://i.scdn.co/image/ec09d8fdd1461cf7aa7273aebb3444ec539ad03c",
+            "nombre": "Little Boots",
+            "popularidad": 50,
+            "seguidores": 102700
+        },
+        {
+            "generos": [
+                "electropop",
+                "metropopolis",
+                "swedish alternative rock",
+                "swedish electropop",
+                "swedish pop"
+            ],
+            "id": "2YL0l5fnyHE9FEf1bwFGCc",
+            "img_url": "https://i.scdn.co/image/0c0193930b0915c0981c4ca6fdd5423b4fee90b0",
+            "nombre": "Kleerup",
+            "popularidad": 53,
+            "seguidores": 36836
+        },
+        {
+            "generos": [
+                "alternative dance",
+                "art pop",
+                "dance pop",
+                "electronica",
+                "electropop",
+                "metropopolis",
+                "neo-synthpop",
+                "new rave",
+                "swedish electropop",
+                "swedish synthpop"
+            ],
+            "id": "6UOcY6w4K6Ek5Lw5rFDHdP",
+            "img_url": "https://i.scdn.co/image/2e1e904d0283a742c025a78057f7b06ca7c3060d",
+            "nombre": "iamamiwhoami",
+            "popularidad": 48,
+            "seguidores": 137355
+        },
+        {
+            "generos": [
+                "electropop",
+                "indietronica",
+                "metropopolis",
+                "swedish electropop",
+                "swedish indie pop",
+                "swedish synthpop"
+            ],
+            "id": "4hiLNlqr4vQdiuo1aQKSXS",
+            "img_url": "https://i.scdn.co/image/bec2091e8189f1c64a357c3b36445d83547b74d6",
+            "nombre": "Niki & The Dove",
+            "popularidad": 49,
+            "seguidores": 72105
+        },
+        {
+            "generos": [
+                "alternative dance",
+                "dance pop",
+                "dance-punk",
+                "electro-pop francais",
+                "electronica",
+                "electropop",
+                "filter house",
+                "french indie pop",
+                "new rave"
+            ],
+            "id": "0WbqAlM1WvfUD6dF7omThd",
+            "img_url": "https://i.scdn.co/image/882984037cfb51a99aec2d841b23e538f3257eee",
+            "nombre": "Yelle",
+            "popularidad": 58,
+            "seguidores": 179701
+        },
+        {
+            "generos": [
+                "alternative dance",
+                "art pop",
+                "big beat",
+                "chamber psych",
+                "dance pop",
+                "electronica",
+                "electropop",
+                "neo-synthpop",
+                "new rave",
+                "new wave pop",
+                "pop rock",
+                "trip hop"
+            ],
+            "id": "5BKsn7SCN2XmbF7apdCpRS",
+            "img_url": "https://i.scdn.co/image/4224df3fe879a0527199e43e57911d9e9e336c87",
+            "nombre": "Goldfrapp",
+            "popularidad": 58,
+            "seguidores": 408101
+        },
+        {
+            "generos": [
+                "art pop",
+                "chillwave",
+                "electropop",
+                "indie soul",
+                "uk alternative pop"
+            ],
+            "id": "6SYIsHAQ1sPokVxmzpaDBU",
+            "img_url": "https://i.scdn.co/image/9b170fca47ccd52733d66d523c824a710a24b589",
+            "nombre": "Kindness",
+            "popularidad": 48,
+            "seguidores": 73684
+        },
+        {
+            "generos": [
+                "art pop",
+                "british soul",
+                "dance pop",
+                "electropop",
+                "neo soul",
+                "pop",
+                "pop soul",
+                "tropical house"
+            ],
+            "id": "5Mq7iqCWBzofK39FBqblNc",
+            "img_url": "https://i.scdn.co/image/c15496a7c2af8ca3a4d704bae47ced8c0889eb01",
+            "nombre": "Jessie Ware",
+            "popularidad": 68,
+            "seguidores": 540097
+        },
+        {
+            "generos": [
+                "afrofuturism",
+                "alternative r&b",
+                "art pop",
+                "atl hip hop",
+                "dance pop",
+                "electropop",
+                "escape room",
+                "neo soul",
+                "pop",
+                "r&b"
+            ],
+            "id": "6ueGR6SWhUJfvEhqkvMsVs",
+            "img_url": "https://i.scdn.co/image/8198af7a1f67674ff31260e4d61b02a6ae0de2cc",
+            "nombre": "Janelle Mon\u00e1e",
+            "popularidad": 72,
+            "seguidores": 968543
+        },
+        {
+            "generos": [
+                "dance pop",
+                "electropop",
+                "europop",
+                "swedish electropop",
+                "swedish pop"
+            ],
+            "id": "6SsTlCsuCYleNza6xGwynu",
+            "img_url": "https://i.scdn.co/image/e2a68bce477a27ef728746f41a9cf170cb516dea",
+            "nombre": "Agnes",
+            "popularidad": 64,
+            "seguidores": 87188
+        },
+        {
+            "generos": [
+                "alternative dance",
+                "art pop",
+                "dance-punk",
+                "electroclash",
+                "electronica",
+                "electropop",
+                "gothenburg indie",
+                "neo-synthpop",
+                "new rave",
+                "swedish electropop",
+                "swedish synthpop"
+            ],
+            "id": "7eQZTqEMozBcuSubfu52i4",
+            "img_url": "https://i.scdn.co/image/5bf0dff73155c156db493347b2610d277b72d8e4",
+            "nombre": "The Knife",
+            "popularidad": 56,
+            "seguidores": 383841
+        },
+        {
+            "generos": [
+                "alternative r&b",
+                "art pop",
+                "chillwave",
+                "dance pop",
+                "electropop",
+                "escape room",
+                "etherpop",
+                "indie r&b",
+                "shimmer pop",
+                "shiver pop",
+                "vapor soul"
+            ],
+            "id": "5QuBVnBPEzwYvFrgBbwpmU",
+            "img_url": "https://i.scdn.co/image/ea3a30e2b5b6d5f3a08fd2e6ba87905bc2a6c488",
+            "nombre": "Empress Of",
+            "popularidad": 62,
+            "seguidores": 86698
+        },
+        {
+            "generos": [
+                "art pop",
+                "dance pop",
+                "electropop",
+                "escape room",
+                "hyperpop",
+                "indietronica"
+            ],
+            "id": "4Ge8xMJNwt6EEXOzVXju9a",
+            "img_url": "https://i.scdn.co/image/ce89c8ee12a88042426f127815130b92c70858b3",
+            "nombre": "Caroline Polachek",
+            "popularidad": 61,
+            "seguidores": 84645
+        },
+        {
+            "generos": [
+                "bubblegum dance",
+                "dance pop",
+                "electropop",
+                "europop"
+            ],
+            "id": "7LP4hiTAVkw3Rtc1hqtLi4",
+            "img_url": "https://i.scdn.co/image/e3b78ec4d390081e1855ae3e37cad4ede6e2c260",
+            "nombre": "Rachel Stevens",
+            "popularidad": 37,
+            "seguidores": 62019
+        },
+        {
+            "generos": [
+                "bubblegum dance",
+                "dance pop",
+                "europop"
+            ],
+            "id": "3f5W9NEwkc1SAIPFuumcaf",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b2733c0f5882f5ad3bc6fa4e2b8d",
+            "nombre": "Jamelia",
+            "popularidad": 57,
+            "seguidores": 87568
+        },
+        {
+            "generos": [
+                "dance pop",
+                "europop"
+            ],
+            "id": "1g5PorBgjWrL60NdotRE6Q",
+            "img_url": "https://i.scdn.co/image/1771bed0f69b4ea2bce172d227556ed1d36c5be0",
+            "nombre": "Mutya Buena",
+            "popularidad": 40,
+            "seguidores": 23142
+        },
+        {
+            "generos": [
+                "bubblegum dance",
+                "dance pop",
+                "europop",
+                "girl group"
+            ],
+            "id": "6htUPs3clIStnkvg5jimKZ",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b27351619230afd902d2ad461a91",
+            "nombre": "Liberty X",
+            "popularidad": 44,
+            "seguidores": 82572
+        },
+        {
+            "generos": [
+                "bubblegum dance",
+                "europop"
+            ],
+            "id": "5jLwURKdEPDvuYnac74s9c",
+            "img_url": "https://i.scdn.co/image/3011b03df682237ec30a97c24a77716450186cb2",
+            "nombre": "Alesha Dixon",
+            "popularidad": 47,
+            "seguidores": 165782
+        },
+        {
+            "generos": [
+                "australian pop",
+                "bubblegum dance",
+                "dance pop",
+                "electropop",
+                "europop"
+            ],
+            "id": "7gRmesSjINzb4xXApfMV5E",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b273a3b16a5cd9964bce90b60c98",
+            "nombre": "Holly Valance",
+            "popularidad": 43,
+            "seguidores": 66667
+        },
+        {
+            "generos": [
+                "bubblegum dance",
+                "europop",
+                "girl group",
+                "uk garage"
+            ],
+            "id": "6csA2rxNLkQJXeEa7lyGXn",
+            "img_url": "https://i.scdn.co/image/ab67616d0000b273ddd16a8e54ab44bf669364e6",
+            "nombre": "Mis-Teeq",
+            "popularidad": 49,
+            "seguidores": 63901
+        },
+        {
+            "generos": [
+                "dance pop",
+                "europop",
+                "new wave pop",
+                "pop rock"
+            ],
+            "id": "2U6gqwyl9F33YxawnFrZG7",
+            "img_url": "https://i.scdn.co/image/ad12b4f22b73fd8a7d7af7f40fa1bfec5b02ac79",
+            "nombre": "Will Young",
+            "popularidad": 55,
+            "seguidores": 241891
+        },
+        {
+            "generos": [
+                "soft rock"
+            ],
+            "id": "10n1KB2sjTrGdyuC83y8jW",
+            "img_url": "https://i.scdn.co/image/ee5bad15b240a6ed3c619dea089c0b92205c5eca",
+            "nombre": "Jon Secada",
+            "popularidad": 63,
+            "seguidores": 179307
+        },
+        {
+            "generos": [],
+            "id": "2Gop8SbSVt5SaJzuaRFa7D",
+            "img_url": "https://www.kindpng.com/picc/m/80-807524_no-profile-hd-png-download.png",
+            "nombre": "Gloria Estefan And Miami Sound Machine",
+            "popularidad": 38,
+            "seguidores": 77935
+        },
+        {
+            "generos": [
+                "latin pop",
+                "spanish pop"
+            ],
+            "id": "368rTiMKMrz3b03az6B14w",
+            "img_url": "https://i.scdn.co/image/9427539ff2261ab18a86f0943a87dda1badd099f",
+            "nombre": "Marta S\u00e1nchez",
+            "popularidad": 65,
+            "seguidores": 191693
+        },
+        {
+            "generos": [
+                "adult standards",
+                "soft rock"
+            ],
+            "id": "6YHEMoNPbcheiWS2haGzkn",
+            "img_url": "https://i.scdn.co/image/5bbc584aafae22616f851d02cee0c9cc2a089953",
+            "nombre": "Michael Bolton",
+            "popularidad": 69,
+            "seguidores": 1032089
+        },
+        {
+            "generos": [
+                "electropop",
+                "europop"
+            ],
+            "id": "3fWTpVNnrGmdo0jMbsRsRf",
+            "img_url": "https://i.scdn.co/image/2d6618b23e36c63b9b3bb3977cd66d484fe0d7be",
+            "nombre": "Nadine Coyle",
+            "popularidad": 30,
+            "seguidores": 42563
+        }
+    ]
+}

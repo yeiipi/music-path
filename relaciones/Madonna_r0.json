@@ -1,0 +1,447 @@
+{
+    "generos": [
+        "dance pop",
+        "pop",
+        "hollywood",
+        "new wave pop",
+        "canadian latin",
+        "canadian pop",
+        "pop rap",
+        "australian dance",
+        "australian pop",
+        "disco house",
+        "electropop",
+        "eurodance",
+        "europop",
+        "dance rock",
+        "mellow gold",
+        "permanent wave",
+        "pop rock",
+        "soft rock",
+        "diva house",
+        "strut",
+        "vocal house",
+        "hip pop",
+        "post-teen pop",
+        "urban contemporary",
+        "girl group",
+        "neo soul",
+        "new jack swing",
+        "r&b",
+        "disco",
+        "hi-nrg",
+        "motown",
+        "new romantic",
+        "new wave",
+        "quiet storm",
+        "art pop",
+        "scandipop",
+        "swedish electropop",
+        "swedish pop",
+        "bubblegum dance",
+        "latin pop"
+    ],
+    "links": [
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "72OaDtakiy6yFqkt4TsiFt"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "2BTZIqw0ntH9MvilQ3ewNY"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "2SdOKxC1sSxEyv8JYERaNe"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "0uq5PttqEjj3IH1bzwcrXF"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "4PpmBoqphQusNFsxuVKb6j"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "4qwGe91Bz9K2T8jXTZ815W"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "2eogQKWWoohI3BSnoG7E2U"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "7xkAwz0bQTGDSbkofyQt3U"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "1zuJe6b1roixEKMOtyrEak"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "26dSoYclwsYLMAKD3tpOr4"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "3sc7iUG1Wwpwx7bHeZolgx"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "2kreKea2n96dXjcyAU9j5N"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "7rZNSLWMjTbwdLNskFbzFf"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+            "source": "6tbjWDEIzxoDsBA1FuhfPW",
+            "target": "60vX3zLcdKRXvKLITVh5Df"
+        }
+    ],
+    "nodes": [
+        {
+            "generos": [
+                "dance pop",
+                "pop"
+            ],
+            "id": "6tbjWDEIzxoDsBA1FuhfPW",
+            "img_url": "https://i.scdn.co/image/96b4818a65820e91e0e17fcf55a4d2213b019ad4",
+            "nombre": "Madonna",
+            "popularidad": 81,
+            "seguidores": 4418305
+        },
+        {
+            "generos": [
+                "dance pop",
+                "hollywood",
+                "new wave pop",
+                "pop"
+            ],
+            "id": "72OaDtakiy6yFqkt4TsiFt",
+            "img_url": "https://i.scdn.co/image/13a478575f4e6a9b83dce3617603b3994d8c0f6a",
+            "nombre": "Cher",
+            "popularidad": 73,
+            "seguidores": 1746153
+        },
+        {
+            "generos": [
+                "canadian latin",
+                "canadian pop",
+                "dance pop",
+                "pop",
+                "pop rap"
+            ],
+            "id": "2jw70GZXlAI8QzWeY2bgRc",
+            "img_url": "https://i.scdn.co/image/84893281888b8f84b1580f477dbcc7bbaa5a1712",
+            "nombre": "Nelly Furtado",
+            "popularidad": 75,
+            "seguidores": 2156981
+        },
+        {
+            "generos": [
+                "australian dance",
+                "australian pop",
+                "dance pop",
+                "disco house",
+                "electropop",
+                "eurodance",
+                "europop",
+                "new wave pop",
+                "pop"
+            ],
+            "id": "4RVnAU35WRWra6OZ3CbbMA",
+            "img_url": "https://i.scdn.co/image/471aae2bc20f974dbf573adeba5c3e00b9a6dd7b",
+            "nombre": "Kylie Minogue",
+            "popularidad": 73,
+            "seguidores": 1096801
+        },
+        {
+            "generos": [
+                "dance rock",
+                "europop",
+                "mellow gold",
+                "new wave pop",
+                "permanent wave",
+                "pop rock",
+                "soft rock"
+            ],
+            "id": "2BTZIqw0ntH9MvilQ3ewNY",
+            "img_url": "https://i.scdn.co/image/3d63775a2e6398ed8bed1dfaf130874dfedc1cc4",
+            "nombre": "Cyndi Lauper",
+            "popularidad": 74,
+            "seguidores": 1383638
+        },
+        {
+            "generos": [
+                "dance pop",
+                "diva house",
+                "pop",
+                "strut",
+                "vocal house"
+            ],
+            "id": "2SdOKxC1sSxEyv8JYERaNe",
+            "img_url": "https://i.scdn.co/image/02b3bea6925094d916d56d21da5bd989380e1a57",
+            "nombre": "RuPaul",
+            "popularidad": 67,
+            "seguidores": 489758
+        },
+        {
+            "generos": [
+                "dance pop",
+                "europop",
+                "hip pop",
+                "pop",
+                "pop rock",
+                "post-teen pop",
+                "urban contemporary"
+            ],
+            "id": "4yiQZ8tQPux8cPriYMWUFP",
+            "img_url": "https://i.scdn.co/image/5e97075f4f0f5b9ab433277f1e81711937831af9",
+            "nombre": "Gwen Stefani",
+            "popularidad": 77,
+            "seguidores": 4154096
+        },
+        {
+            "generos": [
+                "dance pop",
+                "europop",
+                "girl group",
+                "pop"
+            ],
+            "id": "0uq5PttqEjj3IH1bzwcrXF",
+            "img_url": "https://i.scdn.co/image/19734cdc70263d6c2bb1bf31199a68b9fe5cae10",
+            "nombre": "Spice Girls",
+            "popularidad": 72,
+            "seguidores": 1920518
+        },
+        {
+            "generos": [
+                "dance pop",
+                "europop",
+                "new wave pop",
+                "pop rock",
+                "urban contemporary"
+            ],
+            "id": "4PpmBoqphQusNFsxuVKb6j",
+            "img_url": "https://i.scdn.co/image/77e347336ee1d05b4bf5ee77c602fff52c6630c1",
+            "nombre": "Paula Abdul",
+            "popularidad": 58,
+            "seguidores": 598223
+        },
+        {
+            "generos": [
+                "dance pop",
+                "pop",
+                "pop rap",
+                "post-teen pop",
+                "urban contemporary"
+            ],
+            "id": "2DlGxzQSjYe5N6G9nkYghR",
+            "img_url": "https://i.scdn.co/image/a23a2778e5787da9188cdaa959cedee9391ae4d2",
+            "nombre": "Jennifer Lopez",
+            "popularidad": 80,
+            "seguidores": 8672918
+        },
+        {
+            "generos": [
+                "dance pop",
+                "hip pop",
+                "neo soul",
+                "new jack swing",
+                "pop",
+                "r&b",
+                "urban contemporary"
+            ],
+            "id": "4qwGe91Bz9K2T8jXTZ815W",
+            "img_url": "https://i.scdn.co/image/0f14833db64cd305f1d4a16322902c93764c8282",
+            "nombre": "Janet Jackson",
+            "popularidad": 70,
+            "seguidores": 2191253
+        },
+        {
+            "generos": [
+                "dance pop",
+                "disco",
+                "europop",
+                "hi-nrg",
+                "motown",
+                "new wave pop"
+            ],
+            "id": "2eogQKWWoohI3BSnoG7E2U",
+            "img_url": "https://i.scdn.co/image/34c3513ef98084a71829f6b93ac04ce0aa66b07d",
+            "nombre": "Donna Summer",
+            "popularidad": 72,
+            "seguidores": 1110130
+        },
+        {
+            "generos": [
+                "dance pop",
+                "dance rock",
+                "europop",
+                "new romantic",
+                "new wave pop",
+                "pop rock",
+                "soft rock"
+            ],
+            "id": "7xkAwz0bQTGDSbkofyQt3U",
+            "img_url": "https://i.scdn.co/image/34255893ffd5d4ccc522458d377b31bb434cf5ac",
+            "nombre": "Belinda Carlisle",
+            "popularidad": 65,
+            "seguidores": 467687
+        },
+        {
+            "generos": [
+                "disco",
+                "europop",
+                "new wave pop",
+                "soft rock"
+            ],
+            "id": "1zuJe6b1roixEKMOtyrEak",
+            "img_url": "https://i.scdn.co/image/cf860c0e880d74dafe187f732c0093af95fda142",
+            "nombre": "Tina Turner",
+            "popularidad": 78,
+            "seguidores": 2023125
+        },
+        {
+            "generos": [
+                "dance pop",
+                "pop",
+                "pop rap",
+                "post-teen pop"
+            ],
+            "id": "26dSoYclwsYLMAKD3tpOr4",
+            "img_url": "https://i.scdn.co/image/3e47967513ccda2182b17a1b29c00810b8965bd9",
+            "nombre": "Britney Spears",
+            "popularidad": 82,
+            "seguidores": 7815956
+        },
+        {
+            "generos": [
+                "dance pop",
+                "dance rock",
+                "disco",
+                "europop",
+                "girl group",
+                "hi-nrg",
+                "new romantic",
+                "new wave",
+                "new wave pop",
+                "soft rock"
+            ],
+            "id": "3sc7iUG1Wwpwx7bHeZolgx",
+            "img_url": "https://i.scdn.co/image/2c8289546f95994820b4efecb458be872763fd4c",
+            "nombre": "Bananarama",
+            "popularidad": 61,
+            "seguidores": 437794
+        },
+        {
+            "generos": [
+                "dance pop",
+                "dance rock",
+                "disco",
+                "europop",
+                "girl group",
+                "hi-nrg",
+                "mellow gold",
+                "motown",
+                "new wave pop",
+                "quiet storm",
+                "soft rock"
+            ],
+            "id": "2kreKea2n96dXjcyAU9j5N",
+            "img_url": "https://i.scdn.co/image/ab6772690000c46c8c57ac844d8c2170149462e3",
+            "nombre": "The Pointer Sisters",
+            "popularidad": 68,
+            "seguidores": 517129
+        },
+        {
+            "generos": [
+                "art pop",
+                "dance pop",
+                "electropop",
+                "europop",
+                "pop",
+                "pop rock",
+                "scandipop",
+                "swedish electropop",
+                "swedish pop"
+            ],
+            "id": "6UE7nl9mha6s8z0wFQFIZ2",
+            "img_url": "https://i.scdn.co/image/2bc5f72017b642d898bd1dfbfca7b8a43bd54163",
+            "nombre": "Robyn",
+            "popularidad": 69,
+            "seguidores": 676211
+        },
+        {
+            "generos": [
+                "bubblegum dance",
+                "dance pop",
+                "europop",
+                "girl group",
+                "pop",
+                "pop rock",
+                "post-teen pop",
+                "urban contemporary"
+            ],
+            "id": "7rZNSLWMjTbwdLNskFbzFf",
+            "img_url": "https://i.scdn.co/image/8671e9ca9af449dbaa36fcd47d3740487d61d2af",
+            "nombre": "Sugababes",
+            "popularidad": 64,
+            "seguidores": 434121
+        },
+        {
+            "generos": [
+                "dance pop",
+                "latin pop",
+                "new wave pop",
+                "pop",
+                "soft rock"
+            ],
+            "id": "5IFCkqu9J6xdWeYMk5I889",
+            "img_url": "https://i.scdn.co/image/835059154d14121bbdf88c611f756c0ac2a6835f",
+            "nombre": "Gloria Estefan",
+            "popularidad": 69,
+            "seguidores": 448006
+        },
+        {
+            "generos": [
+                "bubblegum dance",
+                "dance pop",
+                "electropop",
+                "europop",
+                "new wave pop",
+                "pop rock"
+            ],
+            "id": "60vX3zLcdKRXvKLITVh5Df",
+            "img_url": "https://i.scdn.co/image/a25f78ed594c4b1a6142c6fe601df7023927f5c3",
+            "nombre": "Melanie C",
+            "popularidad": 62,
+            "seguidores": 207967
+        }
+    ]
+}
