@@ -1,5 +1,5 @@
 
-
+from sys import argv
 import time
 import pprint
 from os import system
@@ -7,18 +7,23 @@ import pandas as pd
 from spoty import *
 from archivos import *
 
+#si el usuario pone un input de mierda, pailas   |mar sep 29 22:40:00 -05 2020|
+if (len(argv) != 3):
+    print("USO: python3 {} <nombre del artista> <nivel de recursion>")
+    exit()
+
 
 id_cliente = 'c12d5ca9e15e433298368cbf94a280a4'
 secreto_cliente = '1cb6ec606ac048289a3bff4be7895f29'
 
 
 spotify = SpotApi(id_cliente,secreto_cliente)
-artista_perdido = input("Nombre de la banda o artista que desea buscar:\n> ")
+artista_perdido = argv[1]
 
 
 nivel_recurcion = -1
 while nivel_recurcion < 0:
-    nivel_recurcion = int(input("Niveles de  recurción:\n> "))
+    nivel_recurcion = int(argv[2])
 
 
 # lista de artistas con info completa | 18.09.2020 | jpi
