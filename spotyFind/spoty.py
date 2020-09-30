@@ -211,6 +211,40 @@ class SpotApi:
         return self.base_de_busqueda(parametros_q)
 
 
+    # def obtener_artista_nombre(self,nombre:str):
+    #     """
+    #     DESCRIPCIÓN:
+    #     ----
+    #         Interfaz de terminal para obtener artista por nombre.
+    #     RETORNA:
+    #     ----
+    #         dict
+    #     """
+
+    #     artistas = self.buscando_ando(query=nombre,tipo_busqueda="artist")
+    #     try:
+    #         n_artistas = len(artistas['artists']['items'])
+    #     except:
+    #         print(artistas)
+    #         raise Exception("no se encntró artista buscado")
+
+    #     if ( n_artistas == 1 ):
+
+    #         return artistas['artists']['items'][0]
+
+    #     else:
+
+    #         system("clear")
+    #         mssg = "Listado de artistas posibles:\n"
+    #         mssg +="=============================\n"
+    #         for i in range(0,n_artistas):
+    #             mssg += f"{i}) {artistas['artists']['items'][i]['name']}\n"
+
+    #         print(mssg)
+    #         ni = int(input("Número del artista que estas buscando:\n> "))
+
+    #         return artistas['artists']['items'][ni]
+
     def obtener_artista_nombre(self,nombre:str):
         """
         DESCRIPCIÓN:
@@ -224,26 +258,9 @@ class SpotApi:
         artistas = self.buscando_ando(query=nombre,tipo_busqueda="artist")
         try:
             n_artistas = len(artistas['artists']['items'])
-        except:
-            print(artistas)
-            raise Exception("no se encntró artista buscado")
-
-        if ( n_artistas == 1 ):
-
             return artistas['artists']['items'][0]
-
-        else:
-
-            system("clear")
-            mssg = "Listado de artistas posibles:\n"
-            mssg +="=============================\n"
-            for i in range(0,n_artistas):
-                mssg += f"{i}) {artistas['artists']['items'][i]['name']}\n"
-
-            print(mssg)
-            ni = int(input("Número del artista que estas buscando:\n> "))
-
-            return artistas['artists']['items'][ni]
+        except IndexError:
+            raise Exception("no se encntró artista buscado")
 
     def obtener_artista_id(self,_id:str):
         return self.obtener_recursos(_id,tipo_busqueda="artists")
