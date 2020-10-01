@@ -1,27 +1,32 @@
 
-
+from sys import argv
 import time
 import pprint
-from os import system
-import pandas as pd
-from q_fun import *
-from archivos import *
 from spoty import *
+from archivos import *
+from q_fun import *
 
-artista_perdido = input("Nombre de la banda o artista que desea buscar:\n> ")
+#si el usuario pone un input de mierda, pailas   |mar sep 29 22:40:00 -05 2020|
+if (len(argv) != 3):
+    print("USO: python3 {} <nombre del artista> <nivel de recursion>")
+    exit()
+
+
+spotify = get_spot()
+artista_perdido = argv[1]
+
+
 nivel_recurcion = -1
 while nivel_recurcion < 0:
-    nivel_recurcion = int(input("Niveles de  recurción:\n> "))
+    nivel_recurcion = int(argv[2])
 
-nuevo_varid(get_artist_id(artista_perdido))
-
-# elementos escenciales | 18.09.2020 | jpi
-varid1 = get_varid()
 
 # lista de artistas con info completa | 18.09.2020 | jpi
 artistas = []
 # diccionario principal | 22.09.2020 | jpi
 data = { 'nodes':[], 'links':[], 'generos':[]}
+# saber cuantas veces se ha intentado crear un nuevo artista | 30.09.2020 | jpi
+contando_problemas = 0
 
 
 # Agrega generos únicos al json | 26.09.2020 | jpi
@@ -42,6 +47,7 @@ def relacionar(artista1:dict,artista2:dict):
     global artistas
     global data
 
+
     data['links'].append(nueva_relación(artista1['id'],artista2['id']))
     agregar_unico(artista1)
     agregar_unico(artista2)
@@ -53,6 +59,8 @@ def agregar_unico(art:dict):
 
     global artistas
     global data
+    global contando_problemas
+
 
     # verificar que el artista no esté en la base de datos completa | 22.09.2020 | jpi
     try:
@@ -72,25 +80,29 @@ def agregar_unico(art:dict):
     # Agregar generos al json | 26.09.2020 | jpi
     agregar_genero(art['genres'])
 
+    # display cuantos artistas se han intentado crear | 30.09.2020 | jpi
+    contando_problemas += 1
+    n = 30
+    if ( contando_problemas%n==0 ):
+        print(f"Se han hecho {contando_problemas} llamados")
+
 
 
 # Recursive artist funtion | 18.09.2020 | jpi
 def buscando_problemas(count:int,artist:dict):
 
     # Variables globales | 18.09.2020 | jpi
+    global spotify
     global artistas
     global data
-    global contando_problemas
-
-
-    print(f"Artistas: {len(data['nodes'])}")
 
 
     # Agregar artista individual a la base de datos | 18.09.2020 | jpi
     agregar_unico(artist)
 
     # Llamar relaciones | 18.09.2020 | jpi
-    related = json.loads(get_relacionados(artist['id'],get_token()))
+    # related = json.loads(get_relacionados(artist['id'],get_token()))
+    related = get_relacionados(artist['id'])
 
     # Inicio de la recurción | 18.09.2020 | jpi
     if ( count > 0 ):
@@ -101,33 +113,57 @@ def buscando_problemas(count:int,artist:dict):
                 relacionar(artist,i)
                 buscando_problemas(count-1,i)
         except KeyError:
-            print('buscando_problemas(): error corriendo hijos 1')
+            raise Exception('buscando_problemas(): error corriendo hijos <if>')
     else:
         # Recorriendo hijos | 18.09.2020 | jpi
         try:
             for i in related['artists']:
                 relacionar(artist,i)
         except KeyError:
-            print('buscando_problemas(): error corriendo hijos 2')
+            raise Exception('buscando_problemas(): error corriendo hijos <else>')
 
 
 # main function | 18.09.2020 | jpi
 def main():
+
+    start = time.time()
+    # Variables globales | 28.09.2020 | jpi
+    global spotify
     global nivel_recurcion
-    initial1 = get_artista(varid1,get_token())
-    artist1 = json.loads(initial1)
+    global artista_perdido
+    global data
+
+
+    # artist1 = json.loads(initial1)
+    art = spotify.obtener_artista_nombre(artista_perdido)
+    artist1 = get_artista(art['id'])
+
+
+    print(f"buscando artistas y generando relaciones de {art['name']}...")
+
+    print(f"Se han hecho {contando_problemas} llamados")
     buscando_problemas(nivel_recurcion,artist1)
     print("tarea terminada!!!")
-    descripcion =  f"{artist1['name']}\n"
-    descripcion += f"{len(artist1['name'])*'='}\n"
+    descripcion =  f"{art['name']}\n"
+    descripcion += f"{len(art['name'])*'='}\n"
     descripcion += f"artistas únicos: {len(data['nodes'])} \n"
     descripcion += f"generos únicos: {len(data['generos'])} \n"
-    descripcion += f"conexiones unicas; {len(data['links'])}"
+    descripcion += f"conexiones unicas: {len(data['links'])}"
     print(descripcion)
     mandalo_para_el_json(nivel_recurcion,data,artist1['name'])
+    end = time.time()
+    print(f"tiempo:{end-start}")
+
+
+
+
 
 if __name__ == '__main__':
-    start = time.time()
     main()
-    end = time.time()
-    print(end-start)
+
+
+
+
+
+
+

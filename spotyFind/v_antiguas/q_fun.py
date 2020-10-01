@@ -2,63 +2,40 @@
 
 from bots import *
 from os import popen
+from spoty import *
+import json
 
-# global token init | 24.09.2020 | jpi
-def init_token():
-    global token
-    token = get_token()
+# Client Secret | 01.10.2020 | jpi
+es_un_secreto = "1cb6ec606ac048289a3bff4be7895f29"
+# Client ID | 01.10.2020 | jpi
+esta_si_tranqui = "c12d5ca9e15e433298368cbf94a280a4"
 
-
-
-# retorna el id del artista principal | 18.09.2020 | jpi
-def get_varid():
-    with open('varid.txt','r') as f:
-        return f.read()
-
-
-# redefine el id del artistas principal | 18.09.2020 | jpi
-def nuevo_varid(nv:str):
-    with open('varid.txt','w') as f:
-        f.write(nv)
-        f.close()
+spotify = SpotApi(esta_si_tranqui,es_un_secreto)
 
 
 # retorna el token de seguridad | 18.09.2020 | jpi
 def get_token():
-    with open('token.txt','r') as f:
-        return f.read()
 
+    global spotify
 
-# redefine el token de seguridad | 18.09.2020 | jpi
-def nuevo_token():
-    nt = get_tokenb()
-    with open('token.txt','w') as f:
-        f.write(nt)
-        f.close()
-    return nt
+    return spotify.obtener_token()
+
+def get_spot():
+    global spotify
+    return spotify
 
 
 # query con el json de los artistas relacionados de tipo string | 25.08.2020 | jpi
-def get_relacionados(varid,token):
-    query = f'curl -X "GET" "https://api.spotify.com/v1/artists/{varid}/related-artists" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer {token}"'
+def get_relacionados(varid):
+    query = f'curl -X "GET" "https://api.spotify.com/v1/artists/{varid}/related-artists" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer {get_token()}"'
     q =  popen(query).read()
-    if "The access token expired" in q:
-        ntoken = nuevo_token()
-        query = f'curl -X "GET" "https://api.spotify.com/v1/artists/{varid}/related-artists" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer {ntoken}"'
-        q =  popen(query).read()
-        print('get_relacionados():Se necesita un nuevo token!!!')
-    return q
+    return json.loads(q)
 
 
 # query de tipo string con información sobre artista especifico en formato json | 25.08.2020 | jpi
-def get_artista(varid,token):
-    query = f'curl -X "GET" "https://api.spotify.com/v1/artists/{varid}" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer {token}"'
+def get_artista(varid):
+    query = f'curl -X "GET" "https://api.spotify.com/v1/artists/{varid}" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer {get_token()}"'
     q =  popen(query).read()
-    if "The access token expired" in q:
-        ntoken = nuevo_token()
-        query = f'curl -X "GET" "https://api.spotify.com/v1/artists/{varid}" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer {ntoken}"'
-        q =  popen(query).read()
-        print('get_artista():Se necesita un nuevo token!!!')
-    return q
+    return json.loads(q)
 
 
