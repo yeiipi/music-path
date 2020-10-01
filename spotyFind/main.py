@@ -87,7 +87,8 @@ def agregar_unico(art:dict):
 
     # display cuantos artistas se han intentado crear | 30.09.2020 | jpi
     contando_problemas += 1
-    n = 10
+    #n = 100   |jue oct  1 13:17:42 -05 2020|
+    n = 100
     if ( contando_problemas%n==0 ):
         print(f"Se han hecho {contando_problemas} llamados")
 
