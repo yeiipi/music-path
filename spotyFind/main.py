@@ -9,7 +9,7 @@ from archivos import *
 
 #si el usuario pone un input de mierda, pailas   |mar sep 29 22:40:00 -05 2020|
 if (len(argv) != 3):
-    print("USO: python3 {} <nombre del artista> <nivel de recursion>")
+    print("USO: python3 {} <nombre del artista> <nivel de recursion>".format(argv[0]))
     exit()
 
 
@@ -90,7 +90,7 @@ def agregar_unico(art:dict):
     #n = 100   |jue oct  1 13:17:42 -05 2020|
     n = 100
     if ( contando_problemas%n==0 ):
-        print(f"Se han hecho {contando_problemas} llamados")
+        print("Se han hecho {} llamados".format(contando_problemas))
 
 
 
@@ -118,15 +118,15 @@ def buscando_problemas(count:int,artist:dict):
             for i in related['artists']:
                 relacionar(artist,i)
                 buscando_problemas(count-1,i)
-        except KeyError:
-            raise Exception('buscando_problemas(): error corriendo hijos <if>')
+        except:
+            print('buscando_problemas(): error corriendo hijos ')
     else:
         # Recorriendo hijos | 18.09.2020 | jpi
         try:
             for i in related['artists']:
                 relacionar(artist,i)
-        except KeyError:
-            raise Exception('buscando_problemas(): error corriendo hijos <else>')
+        except :
+            print('buscando_problemas(): error corriendo hijos ')
 
 
 # main function | 18.09.2020 | jpi
