@@ -98,11 +98,11 @@ function mousemove(d) {
     let lA = textoA.length;
     let lB = textoB.length;
     let lC = textoC.length;
-    let lM = Math.min(lA,lB,lC);
+    let lM = Math.max(lA,lB,lC);
 
 
-    letrerito.text(textoA+textoB+textoC)
-        .style("width",(lM*12)+"px")
+    letrerito.html(textoA+"<br/>"+textoB+"<br/>"+textoC)
+        .attr("width",(lM*15)+"px")
         .style("left", (event.pageX) + "px")
         .style("top", (event.pageY) + "px");
 }
