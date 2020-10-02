@@ -1,19 +1,25 @@
 
 
-let N = 'Las Bistecs';
-let name = N.replace(' ','')
-let rec = '2';
-d3.select('h2').text("Relaciones de " + "<<" +N+">>");
+let info_del_buscador = navigator.userAgent
 
 
-let svg = d3.select('svg#simulacion-principal');
-let svgA = d3.select('svg#ficha-artista');
+// function menu_artistas(data) {
+//     for (let i in data) {
+//         console.log(data[i].nombre + "|" + data[i].recursion +" -> "+ data[i].jn);
+//     }
+// };
+//
+// d3.json("../relaciones/nombres.json").then(function (D) {
+//     console.log(D);
+//     menu_artistas(D);
+// });
 
+/*--- Variables técnicas ---*/
+let width = window.innerWidth
+let height = window.innerHeight
+let k = height/width;
 
-let width  = svg.attr('width');
-let height = svg.attr('height');
-let k = height / width;
-
+/*--- mapeos de datos ---*/
 
 let radio = d3.scalePow()
     .exponent(2.5)
@@ -24,66 +30,101 @@ let chargeS = d3.scaleLinear()
     .domain([0, 100])
     .range([0, -1000]);
 
+function max_letras (d) {
+    let m = Math.max(d);
+    console.log(m);
+    return m;
+};
 
-// SLIDER Charge | 23.09.2020 | jpi
+/*--- Variables D3JS ---*/
+
+let universo_cambiante = d3.select("div#universo");
+universo_cambiante.attr('width', width).attr('height', height)
+
+let titulo = d3.select('p#titulo-principal')
+    .on("mouseover",function (d) {
+        d3.select(this).style("cursor", "pointer")
+        d3.select(this).style("font-weight",300)
+        d3.select("p#sub-titulo").style("font-weight",900)
+    })
+    .on("mouseout",function (d) {
+        d3.select(this).style("cursor", "default")
+        d3.select(this).style("font-weight",100)
+        d3.select("p#sub-titulo").style("font-weight",700)
+    })
+    .on("click",function (d) {
+        d3.selectAll(".descripcion").transition()
+            .duration(200)
+            .style("font-size","0px")
+            .style("opacity",0);
+        a_correr_se_dijo()
+
+    });
+
+let letrerito = d3.select("body").append("div")
+    .attr("class","tooltip")
+    .style("opacity",1e-6);
 
 
-let sliderCharge = d3.sliderBottom()
-    .min(0)
-    .max(100)
-    .width(200)
-    .tickFormat(d3.format(''))
-    .ticks(5)
-    .default(10);
+let svg = universo_cambiante.append('svg');
+svg.attr('width', width).attr('height', height)
+
+/*--- Funciones letrerito ---*/
+function mouseover() {
+    letrerito.transition()
+        .duration(300)
+        .style("opacity",1);
+}
+
+function mousemove(d) {
+    let textoA = "Nombre: ";
+    let textoB = "Popularidad: ";
+    let textoC = "Seguidores: " ;
+    if (info_del_buscador.includes("Firefox")) {
+        // console.log("U in Firefox");
+        textoA += d.explicitOriginalTarget.__data__.nombre + " ";
+        textoB += d.explicitOriginalTarget.__data__.popularidad + " ";
+        textoC += d.explicitOriginalTarget.__data__.seguidores + " ";
+    } else if (info_del_buscador.includes("Chrome")) {
+        // console.log("U in chrome");
+        textoA += d.toElement.__data__.nombre + " ";
+        textoB += d.toElement.__data__.popularidad + " ";
+        textoC += d.toElement.__data__.seguidores + " ";
+    } else {
+        console.log("U in neither");
+    }
+
+    let lA = textoA.length;
+    let lB = textoB.length;
+    let lC = textoC.length;
+    let lM = Math.min(lA,lB,lC);
 
 
-let gSimple = d3.select('div#charge-slider')
-    .append('svg')
-    .attr('width', 300)
-    .attr('height', 100)
-    .append('g')
-    .attr('transform', 'translate(30,30)');
+    letrerito.text(textoA+textoB+textoC)
+        .style("width",(lM*12)+"px")
+        .style("left", (event.pageX) + "px")
+        .style("top", (event.pageY) + "px");
+}
 
+function mouseout() {
+    letrerito.transition()
+        .duration(300)
+        .style("opacity",1e-6);
+}
 
-gSimple.call(sliderCharge);
+function a_correr_se_dijo() {
+    d3.selectAll(".descripcion").transition().delay(1000).style('position','absolute')
+    d3.json("../relaciones/LasBistecs_r2.json").then( function (data) {
 
-
-// importar información | 23.09.2020 | jpi
-d3.json("./relaciones/" + name + "_r" + rec + ".json").then(function (data) {
-
-
-    // SIMULATION | 23.09.2020 | jpi
+        // SIMULATION | 23.09.2020 | jpi
     let simulation = d3.forceSimulation(data.nodes)
         .force('link',d3.forceLink(data.links).id( d => d.id))
-        .force('charge', d3.forceManyBody().strength(chargeS(sliderCharge.value())))
-        .force('center', d3.forceCenter(width/2,1*height/2))
+        .force('charge', d3.forceManyBody().strength(chargeS(85)))
+        .force('center', d3.forceCenter(1*width/2,2*height/3))
         .force('collision', d3.forceCollide().radius(function(d) {
-                return radio(d.popularidad) * 1.5;
+                return radio(d.popularidad) * 2;
               }))
         .on('tick',ticked);
-
-    /*--- FICHA DE ARTISTA ---*/
-
-
-    let marco = svgA.append('rect')
-        .attr('height', 80)
-        .attr('width', 80)
-        .attr('fill',"url(#image)")
-        .attr('transform', 'translate(20,20)');
-
-    let nomArista = svgA.append('text')
-        .text("Nombre Artista")
-        .attr('transform',"translate(20,140)")
-        .style('fill','#3B5499');
-
-    let nSeguidores = svgA.append('text')
-        .text("Seguidores: ????")
-        .attr('transform',"translate(20,180)");
-
-    let nPopularidad = svgA.append('text')
-        .text("Popularidad: ????")
-        .attr('transform',"translate(20,220)");
-
 
     /*--- GRAFICA DE GRAFOS ---*/
     let g = svg.append('g')
@@ -98,24 +139,7 @@ d3.json("./relaciones/" + name + "_r" + rec + ".json").then(function (data) {
         .attr('stroke-width',function(d) {
             return 3;
         })
-        .style('stroke','pink');
-
-
-    // Activar y desactivar texto | 24.09.2020 | jpi
-    function nodoSeleccionado (d) {
-        texto.on('mouseover',function (d) {
-            nSeguidores.text("Seguidores: "+d3.select(this)._groups[0][0].__data__.seguidores)
-            nPopularidad.text("Popularidad: "+d3.select(this)._groups[0][0].__data__.popularidad)
-            nomArista.text(d3.select(this)._groups[0][0].__data__.nombre)
-            d3.select('#laImagen').attr('href',d3.select(this)._groups[0][0].__data__.img_url)
-            d3.select(this).style('opacity',1)
-        });
-    };
-    function nodoFuera (d) {
-        texto.on('mouseout',function (d) {
-            d3.select(this).style('opacity',0)
-        });
-    };
+        .style('stroke','#CC9E9B');
 
 
     // Se genera un espacio compartido entre nodos y texto | 24.09.2020 | jpi
@@ -127,32 +151,17 @@ d3.json("./relaciones/" + name + "_r" + rec + ".json").then(function (data) {
 
     // Se agregan los nodos | 24.09.2020 | jpi
     let node = textAndNodes.append('circle')
+        .attr("class","node")
+        .attr("cursor","crosshair")
         .attr('r',function (d) {
             return radio(d.popularidad);
         })
-        .attr('fill', function (d) {
-            if (d.nombre.replace(' ','') == name){
-                return '#DAF238';
-            } else {
-                return 'orange';
-            }
-        })
-        .attr('stroke',function (d) {
-            if (d.nombre.replace(' ','') == name){
-                return '#27DB90';
-            } else {
-                return 'yellow';
-            }
-        })
-        .on('mouseover',nodoSeleccionado)
-        .on('mouseout',nodoFuera);
-
-
-    // agregan los elementos de texto | 24.09.2020 | jpi
-    let texto = textAndNodes.append('text')
-        .text(function (d) {return d.nombre;})
-        .style('fill','#3B5499')
-        .style('opacity',0);
+        .attr('fill', function (d) { return '#9BCCAF'; })
+        .attr('stroke',function (d) { return '#5F9962'; })
+        .style('opacity',1)
+        .on('mouseover', mouseover)
+        .on('mousemove',function (d){ mousemove(d); })
+        .on('mouseout',mouseout);
 
 
     /*--- EVENTOS DE ZOOM ---*/
@@ -172,7 +181,7 @@ d3.json("./relaciones/" + name + "_r" + rec + ".json").then(function (data) {
 
     /*--- FUNCIONES IMPORTANTES ---*/
     function ticked() {
-        simulation.force('charge', d3.forceManyBody().strength(chargeS(sliderCharge.value())));
+        simulation.force('charge', d3.forceManyBody().strength(chargeS(90)));
         textAndNodes.attr('transform',function (d) { return "translate(" + d.x + "," + d.y + ")"; });
         link.attr('x1',function (d) { return d.source.x; })
         link.attr('y1',function (d) { return d.source.y; })
@@ -180,5 +189,6 @@ d3.json("./relaciones/" + name + "_r" + rec + ".json").then(function (data) {
         link.attr('y2',function (d) { return d.target.y; })
     };
 
+    })};
 
-});
+

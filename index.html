@@ -1,40 +1,64 @@
+<!DOCTYPE html>
 <html>
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width" />
+        <!-- css -->
+        <link rel="stylesheet" href="/css/master.css" type="text/css" media="screen" title="no title" charset="utf-8">
+        <!-- fonts -->
+         <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+         <!-- other imports -->
         <script src="https://d3js.org/d3.v6.min.js"></script>
-        <script src="https://unpkg.com/d3-simple-slider"></script>
-        <link rel="stylesheet" href="./css/master.css" type="text/css" media="screen" title="no title" charset="utf-9">
-        <title>nod32</title>
+        <title>N_nod32</title>
     </head>
-
     <body>
-        <!-- ELEMENTOS -->
-        <h1>Nod32</h1>
-        <h2></h2>
-        <p> Para hacer <b>zoom</b> es necesario utilizar la rueda del mouse y para desplazarse se arrastra la gráfica con el mouse. </p>
+        <div id="universo">
+            <div id="click-inicial">
 
-        <div class="col-sm">
-        <h2 class='box-title'>Fuerza de Separacion</h2>
-            <div id="charge-slider"></div>
-            <div class='graph'> </div>
+                <p class="descripcion" id="titulo-principal">NOD32</p>
+
+                <p id="sub-titulo" class= "descripcion">Hacer <b>CLICK</b> en el título para iniciar la simulación</p>
+
+                <p class="descripcion">
+                    El siguiente trabajo es una muestra del poder de la
+                    información, donde se van a utilizar las herramientas
+                    brindadas por la <b>Teoría de Grafos</b> para poder
+                    analizar las conexiones entre artistas que se forman desde
+                    la plataforma de <b>Spotify</b> y así encontrar mejores
+                    formas de hacer transiciones entre artistas al escuchar
+                    música.
+                </p>
+
+                <p class="descripcion">
+                    Suele demorarse un poco por la cantidad elementos que debe
+                    procesar. Perdón por el inconveniente.
+                </p>
+
+                <p id="instrucciones"class="descripcion">INSTRUCCIONES</p>
+
+                <p class="descripcion">
+                    Por el momento la visualización cuenta con 3 formas de interactuar con la visualización:
+                </p>
+                <ul class="descripcion">
+                    <li>
+                        Con el rueda de el <i>mouse</i> o haciendo doble click se
+                        puede hacer <b>zoom</b> en el entorno de
+                        visualización.
+                    </li>
+                    <li>
+                        Al pararse con el <i>mouse</i> sobre alguno de los
+                        nodos un pequeño recuadro se desplegará, mostrando
+                        información de la banda que el nodo representa.
+                    </li>
+                    <li>
+                        Utilizando el <i>click izquierdo</i> del <i>mouse</i>
+                        se puede <b>arrastrar</b> la visualización, para
+                        cambiarla de ubicación.
+                    </li>
+                </ul>
+
+            </div>
+            <script src="./js/script1.js" > </script>
         </div>
-
-        <div class="caja-artista">
-        <h2 class='box-title'>Artista</h2>
-        </pattern>
-            <svg width='500' height='300' id="ficha-artista" >
-                <defs id='mdef'>
-                    <pattern id="image" x="0" y="0" height="80" width="80">
-                        <image id='laImagen' x="0" y="0" width="80" height="80" ></image>
-                    </pattern>
-                </defs>
-            </svg>
-        </div>
-        <svg width='1000' height='450' class='svg-space' id='simulacion-principal'></svg>
-
-        <!-- SCRIPT -->
-        <script src='./js/script1.js'></script>
     </body>
-     k riko chaman
 </html>
