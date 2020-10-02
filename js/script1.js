@@ -114,7 +114,7 @@ function mouseout() {
 
 function a_correr_se_dijo() {
     d3.selectAll(".descripcion").transition().delay(1000).style('position','absolute')
-    d3.json("../relaciones/LasBistecs_r2.json").then( function (data) {
+    d3.json("relaciones/LasBistecs_r2.json").then( function (data) {
 
         // SIMULATION | 23.09.2020 | jpi
     let simulation = d3.forceSimulation(data.nodes)
