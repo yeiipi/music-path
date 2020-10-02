@@ -3,6 +3,7 @@
 let info_del_buscador = navigator.userAgent
 
 
+/*--- poder elegir aristas ---*/
 // function menu_artistas(data) {
 //     for (let i in data) {
 //         console.log(data[i].nombre + "|" + data[i].recursion +" -> "+ data[i].jn);
