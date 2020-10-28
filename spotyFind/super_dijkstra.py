@@ -104,7 +104,7 @@ if((len(argv)== 4) or (len(argv) == 3)):
                 cont += 1
 
 
-        print('\n'*3)
+        print('\n'*2)
 
                     #Ahora descargo la playlist   |mié oct 28 00:41:09 -05 2020|
                     #La descarga de la playlist funciona, sin embargo, en mi computador youtube-dl tiene fallos   |mié oct 28 02:59:27 -05 2020|
