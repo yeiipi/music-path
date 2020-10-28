@@ -1,4 +1,4 @@
-let nombre_banda = "LasBistecs"
+let nombre_banda = "PielCamaleón"
 let n_recurcion  = "2"
 
 let info_del_buscador = navigator.userAgent
