@@ -124,6 +124,7 @@ if((len(argv)== 4) or (len(argv) == 3)):
 
 
                         #           Imprimo la lista   |mié oct 28 02:59:06 -05 2020|
+        cont = 0
         print("playlist:")
         for i in playlist:
             print("{} : {}".format(cont+1 , i))
