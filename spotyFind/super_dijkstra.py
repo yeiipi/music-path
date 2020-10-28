@@ -12,6 +12,7 @@ from archivos import *
 
 
 path = "../relaciones/bandas_colombianas.json"
+
 if((len(argv)== 3)):
     def get_nombre_banda(id_banda):
         for i in datos['nodes']:
@@ -68,6 +69,8 @@ if((len(argv)== 3)):
     #plt.show()
     #nx.draw_networkx(G, pos , node_color = "r" , nodelist = chaman_shortest_path)
     #plt.show()
+
+            #Aca toca hacer el bot que arme la playlist   |mar oct 27 23:31:27 -05 2020|
 else:
     print("python3 {} <banda1> <banda2>".format(argv[0]))
 
