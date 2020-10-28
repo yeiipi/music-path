@@ -82,26 +82,13 @@ if((len(argv)== 4) or (len(argv) == 3)):
     print('\n')
 
 
-    #codifico los nombres para poder hacer el query desde el browser   |mar oct 27 23:46:59 -05 2020|
-    #nombres_codificados =[]
-    #for i in lista_nombres:
-        #nombre_cod = urllib.parse.quote(i)
-        #nombres_codificados.append(nombre_cod)
-
-    #with requests.Session() as s:
-        #for i in nombres_codificados:
-            #url = 'https://www.youtube.com/results?search_query={}'.format(i)
-            #print(url)
-            #c = s.get(url).content #esto es el contenido de hacer cada busqueda
-            #soup = BeautifulSoup(c , 'lxml')
-            #primera_imagen = soup.find("src" )
-            #print(primera_imagen)
     if(len(argv) == 4):
         cantidad_temazos_por_artista = int(argv[3])
         playlist = []
         cont = 1
+
+        print("Temas:")
         for i in lista_nombres:
-            #print(i ,":") #esto imprime el nombre del artista
             search = SearchVideos(i , offset = 1, mode = "json", max_results = cantidad_temazos_por_artista)
             videos = search.result()
             videos = json.loads(search.result())
@@ -115,19 +102,25 @@ if((len(argv)== 4) or (len(argv) == 3)):
 
 
         print('\n'*3)
-        #Ahora descargo la playlist   |mié oct 28 00:41:09 -05 2020|
-        #print(playlist)
-        #creo la carpeta para la playlist   |mié oct 28 00:48:13 -05 2020|
-        folder_name ="../playlists/playlist_from_{}_to_{}".format(argv[1].replace(" ","") , argv[2].replace(" ",""))
-        system("mkdir {}".format(folder_name))
-        cont = 1
-        for i in playlist:
-               res = popen("youtube-dl -i -x --audio-format mp3 {} -o {}/{:04d}.mp3".format(i,folder_name,cont)).read()
-               print("video {}/{} descargado".format(cont , len(playlist)))
-               cont += 1
 
-        print("\n"*5)
-        cont = 0
+                    #Ahora descargo la playlist   |mié oct 28 00:41:09 -05 2020|
+                    #La descarga de la playlist funciona, sin embargo, en mi computador youtube-dl tiene fallos   |mié oct 28 02:59:27 -05 2020|
+
+        #       CREAR LA PLAYLIST   |mié oct 28 02:58:16 -05 2020|
+        #folder_name #="../playlists/playlist_from_{}_to_{}".format(argv[1].replace(" ","") , argv[2].replace(" ",""))
+        #system("mkdir {}".format(folder_name))
+        #cont = 1
+        #for i in playlist:
+               #res = popen("youtube-dl -i -x --audio-format mp3 {} -o {}/{:04d}.mp3".format(i,folder_name,cont)).read()
+               #print("video {}/{} descargado".format(cont , len(playlist)))
+               #cont += 1
+
+        #print("\n"*5)
+        #cont = 0
+
+
+
+                        #           Imprimo la lista   |mié oct 28 02:59:06 -05 2020|
         print("playlist:")
         for i in playlist:
             print("{} : {}".format(cont+1 , i))
