@@ -11,7 +11,7 @@ from spoty import *
 from archivos import *
 
 
-path = "../relaciones/DaftPunk_r2.json"
+path = "../relaciones/bandas_colombianas.json"
 if((len(argv)== 3)):
     def get_nombre_banda(id_banda):
         for i in datos['nodes']:
@@ -56,7 +56,7 @@ if((len(argv)== 3)):
         for i in chaman_shortest_path:
             nombre = get_nombre_banda(i)
             lista_nombres.append(nombre)
-            print(lista_nombres)
+        print(lista_nombres)
     except:
         print("no se puede hacer dikstra entre esas dos bandas, puede que una de las dos no esté en los datos")
 
