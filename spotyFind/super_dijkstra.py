@@ -77,6 +77,13 @@ if((len(argv)== 4)):
     #nx.draw_networkx(G, pos , node_color = "r" , nodelist = chaman_shortest_path)
     #plt.show()
 
+
+    elec = input("Desea hacer la playlist?    Y/N :")
+    elec = elec.upper()
+    if(elec != "y".upper()):
+        print("bye :)")
+        exit()
+
             #Aca toca hacer el bot que arme la playlist   |mar oct 27 23:31:27 -05 2020|
     print('\n')
 
