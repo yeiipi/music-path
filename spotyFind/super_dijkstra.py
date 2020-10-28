@@ -62,7 +62,10 @@ if((len(argv)== 4) or (len(argv) == 3)):
             nombre = get_nombre_banda(i)
             lista_nombres.append(nombre)
         print("Resultado de Dijkstra entre las bandas:")
-        print(lista_nombres)
+        cont = 1
+        for i in lista_nombres:
+            print(cont , i)
+            cont += 1
     except:
         print("no se puede hacer dikstra entre esas dos bandas, puede que una de las dos no esté en los datos")
         exit()
