@@ -86,6 +86,7 @@ if((len(argv)== 4) or (len(argv) == 3)):
 
 
     if(len(argv) == 4):
+        nombres_canciones = []
         cantidad_temazos_por_artista = int(argv[3])
         playlist = []
         cont = 1
@@ -98,6 +99,7 @@ if((len(argv)== 4) or (len(argv) == 3)):
             for j in videos['search_result']:
                 #se pueden agarrar mas atributos como el id,canal,numero de views, duracion... y las fotos   |mié oct 28 00:39:36 -05 2020|
                 titulo_tema = j['title']
+                nombres_canciones.append(titulo_tema)
                 link_tema = j['link']
                 print("{}:".format(cont),titulo_tema)
                 playlist.append(link_tema)
@@ -129,6 +131,13 @@ if((len(argv)== 4) or (len(argv) == 3)):
         for i in playlist:
             print("{} : {}".format(cont+1 , i))
             cont += 1
+
+
+        with open("relaciones.md","a+") as f:
+            f.write(f"\n## Playlist desde {argv[1]} hasta {argv[2]}\n")
+            for c,l in zip(nombres_canciones,playlist):
+                f.write(f" - [{c}]({l})\n")
+
 
 
 
