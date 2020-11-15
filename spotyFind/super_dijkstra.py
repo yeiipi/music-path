@@ -15,7 +15,7 @@ from bs4 import BeautifulSoup
 from youtubesearchpython import SearchVideos
 from os import popen
 
-path = "../relaciones/bandas_colombianas.json"
+path = "../relaciones/Gorillaz_r4.json"
 
 if((len(argv)== 4) or (len(argv) == 3)):
     def get_nombre_banda(id_banda):

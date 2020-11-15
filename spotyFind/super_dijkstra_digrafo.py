@@ -15,13 +15,15 @@ from bs4 import BeautifulSoup
 from youtubesearchpython import SearchVideos
 from os import popen
 
-path = "../relaciones/bandas_colombianas.json"
+path = "../relaciones/full.json"
 
 if((len(argv)== 4) or (len(argv) == 3)):
     def get_nombre_banda(id_banda):
         for i in datos['nodes']:
             if(i['id'] == id_banda):
-                return(i['nombre'])
+                nom = i['nombre']
+                id_ = i['id']
+                return(f'{nom} | {id_}')
             else:
                 pass
         return("no se encontro")
