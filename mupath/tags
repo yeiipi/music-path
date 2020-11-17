@@ -1,0 +1,132 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+G	super_dijkstra.py	/^    G = nx.Graph()$/;"	v
+G	super_dijkstra_digrafo.py	/^    G = nx.DiGraph()$/;"	v
+SpotApi	spoty.py	/^class SpotApi:$/;"	c
+SpotApi	v_antiguas/spoty.py	/^class SpotApi:$/;"	c
+__init__	spoty.py	/^    def __init__(self,id_cliente:str,secreto_cliente:str):$/;"	m	class:SpotApi
+__init__	v_antiguas/spoty.py	/^    def __init__(self,id_cliente:str,secreto_cliente:str):$/;"	m	class:SpotApi
+agregar_genero	main.py	/^def agregar_genero(generos:list):$/;"	f
+agregar_genero	v_antiguas/main.py	/^def agregar_genero(generos:list):$/;"	f
+agregar_unico	main.py	/^def agregar_unico(art:dict):$/;"	f
+agregar_unico	v_antiguas/main.py	/^def agregar_unico(art:dict):$/;"	f
+art1	super_dijkstra.py	/^    art1 = spotify.obtener_artista_nombre(artista_perdido1)$/;"	v
+art1	super_dijkstra_digrafo.py	/^    art1 = spotify.obtener_artista_nombre(artista_perdido1)$/;"	v
+art2	super_dijkstra.py	/^    art2 = spotify.obtener_artista_nombre(artista_perdido2)$/;"	v
+art2	super_dijkstra_digrafo.py	/^    art2 = spotify.obtener_artista_nombre(artista_perdido2)$/;"	v
+artist1	super_dijkstra.py	/^    artist1 = spotify.obtener_artista_id(art1['id'])$/;"	v
+artist1	super_dijkstra_digrafo.py	/^    artist1 = spotify.obtener_artista_id(art1['id'])$/;"	v
+artist2	super_dijkstra.py	/^    artist2 = spotify.obtener_artista_id(art2['id'])$/;"	v
+artist2	super_dijkstra_digrafo.py	/^    artist2 = spotify.obtener_artista_id(art2['id'])$/;"	v
+artista_perdido	main.py	/^artista_perdido = argv[1]$/;"	v
+artista_perdido	v_antiguas/main.py	/^artista_perdido = argv[1]$/;"	v
+artista_perdido1	super_dijkstra.py	/^    artista_perdido1 = argv[1]$/;"	v
+artista_perdido1	super_dijkstra_digrafo.py	/^    artista_perdido1 = argv[1]$/;"	v
+artista_perdido2	super_dijkstra.py	/^    artista_perdido2 = argv[2]$/;"	v
+artista_perdido2	super_dijkstra_digrafo.py	/^    artista_perdido2 = argv[2]$/;"	v
+artistas	main.py	/^artistas = []$/;"	v
+artistas	v_antiguas/main.py	/^artistas = []$/;"	v
+base_de_busqueda	spoty.py	/^    def base_de_busqueda(self,parametros):$/;"	m	class:SpotApi
+base_de_busqueda	v_antiguas/spoty.py	/^    def base_de_busqueda(self,parametros):$/;"	m	class:SpotApi
+buscando_ando	spoty.py	/^    def buscando_ando(self,query=None, operador=None, busqueda_operador=None, tipo_busqueda = 'artist'):$/;"	m	class:SpotApi
+buscando_ando	v_antiguas/spoty.py	/^    def buscando_ando(self,query=None, operador=None, busqueda_operador=None, tipo_busqueda = 'artist'):$/;"	m	class:SpotApi
+buscando_problemas	main.py	/^def buscando_problemas(count:int,artist:dict):$/;"	f
+buscando_problemas	v_antiguas/main.py	/^def buscando_problemas(count:int,artist:dict):$/;"	f
+cantidad_temazos_por_artista	super_dijkstra.py	/^        cantidad_temazos_por_artista = int(argv[3])$/;"	v
+cantidad_temazos_por_artista	super_dijkstra_digrafo.py	/^        cantidad_temazos_por_artista = int(argv[3])$/;"	v
+chaman_shortest_path	super_dijkstra.py	/^        chaman_shortest_path = nx.shortest_path( G , artist1['id'],artist2['id'])$/;"	v
+chaman_shortest_path	super_dijkstra_digrafo.py	/^        chaman_shortest_path = nx.shortest_path( G , artist1['id'],artist2['id'])$/;"	v
+cont	super_dijkstra.py	/^        cont = 0$/;"	v
+cont	super_dijkstra.py	/^        cont = 1$/;"	v
+cont	super_dijkstra_digrafo.py	/^        cont = 0$/;"	v
+cont	super_dijkstra_digrafo.py	/^        cont = 1$/;"	v
+contando_problemas	main.py	/^contando_problemas = 0$/;"	v
+contando_problemas	v_antiguas/main.py	/^contando_problemas = 0$/;"	v
+data	main.py	/^data = { 'nodes':[], 'links':[], 'generos':[]}$/;"	v
+data	v_antiguas/main.py	/^data = { 'nodes':[], 'links':[], 'generos':[]}$/;"	v
+doomsday_clock	v_antiguas/spoty.py	/^    def doomsday_clock(self):$/;"	m	class:SpotApi
+es_un_secreto	v_antiguas/q_fun.py	/^es_un_secreto = "1cb6ec606ac048289a3bff4be7895f29"$/;"	v
+esta_si_tranqui	v_antiguas/q_fun.py	/^esta_si_tranqui = "c12d5ca9e15e433298368cbf94a280a4"$/;"	v
+get_artist_id	v_antiguas/bots.py	/^def get_artist_id(artista):$/;"	f
+get_artista	v_antiguas/q_fun.py	/^def get_artista(varid):$/;"	f
+get_nombre_banda	super_dijkstra.py	/^    def get_nombre_banda(id_banda):$/;"	f
+get_nombre_banda	super_dijkstra_digrafo.py	/^    def get_nombre_banda(id_banda):$/;"	f
+get_relacionados	v_antiguas/q_fun.py	/^def get_relacionados(varid):$/;"	f
+get_spot	v_antiguas/q_fun.py	/^def get_spot():$/;"	f
+get_token	v_antiguas/q_fun.py	/^def get_token():$/;"	f
+get_tokenb	v_antiguas/bots.py	/^def get_tokenb() :$/;"	f
+id_cliente	main.py	/^id_cliente = 'c12d5ca9e15e433298368cbf94a280a4'$/;"	v
+id_cliente	super_dijkstra.py	/^    id_cliente = 'c12d5ca9e15e433298368cbf94a280a4'$/;"	v
+id_cliente	super_dijkstra_digrafo.py	/^    id_cliente = 'c12d5ca9e15e433298368cbf94a280a4'$/;"	v
+link_tema	super_dijkstra.py	/^                link_tema = j['link']$/;"	v
+link_tema	super_dijkstra_digrafo.py	/^                link_tema = j['link']$/;"	v
+lista_nombres	super_dijkstra.py	/^        lista_nombres = []$/;"	v
+lista_nombres	super_dijkstra_digrafo.py	/^        lista_nombres = []$/;"	v
+main	main.py	/^def main():$/;"	f
+main	v_antiguas/main.py	/^def main():$/;"	f
+mandalo_para_el_json	archivos.py	/^def mandalo_para_el_json(c:int,data:dict,v:str):$/;"	f
+mandalo_para_el_json	v_antiguas/archivos.py	/^def mandalo_para_el_json(c:int,data:dict,v:str):$/;"	f
+nivel_recurcion	main.py	/^    nivel_recurcion = int(argv[2])$/;"	v
+nivel_recurcion	main.py	/^nivel_recurcion = -1$/;"	v
+nivel_recurcion	v_antiguas/main.py	/^    nivel_recurcion = int(argv[2])$/;"	v
+nivel_recurcion	v_antiguas/main.py	/^nivel_recurcion = -1$/;"	v
+nombre	super_dijkstra.py	/^            nombre = get_nombre_banda(i)$/;"	v
+nombre	super_dijkstra_digrafo.py	/^            nombre = get_nombre_banda(i)$/;"	v
+nombres_canciones	super_dijkstra.py	/^        nombres_canciones = []$/;"	v
+nombres_canciones	super_dijkstra_digrafo.py	/^        nombres_canciones = []$/;"	v
+nueva_banda	archivos.py	/^def nueva_banda(ID:str,nombre:str,img_url:str,popularidad:int,seguidores:int,generos:list):$/;"	f
+nueva_banda	v_antiguas/archivos.py	/^def nueva_banda(ID:str,nombre:str,img_url:str,popularidad:int,seguidores:int,generos:list):$/;"	f
+nueva_relaci	archivos.py	/^def nueva_relación(desde:str,hasta:str):$/;"	f
+nueva_relaci	v_antiguas/archivos.py	/^def nueva_relación(desde:str,hasta:str):$/;"	f
+obtener_artista_id	spoty.py	/^    def obtener_artista_id(self,_id:str):$/;"	m	class:SpotApi
+obtener_artista_id	v_antiguas/spoty.py	/^    def obtener_artista_id(self,_id:str):$/;"	m	class:SpotApi
+obtener_artista_nombre	spoty.py	/^    def obtener_artista_nombre(self,nombre:str):$/;"	m	class:SpotApi
+obtener_artista_nombre	v_antiguas/spoty.py	/^    def obtener_artista_nombre(self,nombre:str):$/;"	m	class:SpotApi
+obtener_credenciales	spoty.py	/^    def obtener_credenciales(self):$/;"	m	class:SpotApi
+obtener_credenciales	v_antiguas/spoty.py	/^    def obtener_credenciales(self):$/;"	m	class:SpotApi
+obtener_encabezado_recursos	spoty.py	/^    def obtener_encabezado_recursos(self):$/;"	m	class:SpotApi
+obtener_encabezado_recursos	v_antiguas/spoty.py	/^    def obtener_encabezado_recursos(self):$/;"	m	class:SpotApi
+obtener_encabezado_token	spoty.py	/^    def obtener_encabezado_token(self):$/;"	m	class:SpotApi
+obtener_encabezado_token	v_antiguas/spoty.py	/^    def obtener_encabezado_token(self):$/;"	m	class:SpotApi
+obtener_informacion_token	spoty.py	/^    def obtener_informacion_token(self):$/;"	m	class:SpotApi
+obtener_informacion_token	v_antiguas/spoty.py	/^    def obtener_informacion_token(self):$/;"	m	class:SpotApi
+obtener_recursos	spoty.py	/^    def obtener_recursos(self,id_busqueda:str,tipo_busqueda="artists", version="v1",relacionados=False):$/;"	m	class:SpotApi
+obtener_recursos	v_antiguas/spoty.py	/^    def obtener_recursos(self,id_busqueda:str,tipo_busqueda="artists", version="v1",relacionados=False):$/;"	m	class:SpotApi
+obtener_relacionados_id	spoty.py	/^    def obtener_relacionados_id(self,_id:str):$/;"	m	class:SpotApi
+obtener_relacionados_id	v_antiguas/spoty.py	/^    def obtener_relacionados_id(self,_id:str):$/;"	m	class:SpotApi
+obtener_token	spoty.py	/^    def obtener_token(self):$/;"	m	class:SpotApi
+obtener_token	v_antiguas/spoty.py	/^    def obtener_token(self):$/;"	m	class:SpotApi
+path	super_dijkstra.py	/^path = "..\/relaciones\/Joji_r3.json"$/;"	v
+path	super_dijkstra_digrafo.py	/^path = "..\/relaciones\/bandas_colombianas.json"$/;"	v
+playlist	super_dijkstra.py	/^        playlist = []$/;"	v
+playlist	super_dijkstra_digrafo.py	/^        playlist = []$/;"	v
+realizar_aut	spoty.py	/^    def realizar_aut(self):$/;"	m	class:SpotApi
+realizar_aut	v_antiguas/spoty.py	/^    def realizar_aut(self):$/;"	m	class:SpotApi
+relacionar	main.py	/^def relacionar(artista1:dict,artista2:dict):$/;"	f
+relacionar	v_antiguas/main.py	/^def relacionar(artista1:dict,artista2:dict):$/;"	f
+search	super_dijkstra.py	/^            search = SearchVideos(i , offset = 1, mode = "json", max_results = cantidad_temazos_por_artista)$/;"	v
+search	super_dijkstra_digrafo.py	/^            search = SearchVideos(i , offset = 1, mode = "json", max_results = cantidad_temazos_por_artista)$/;"	v
+secreto_cliente	main.py	/^secreto_cliente = '1cb6ec606ac048289a3bff4be7895f29'$/;"	v
+secreto_cliente	super_dijkstra.py	/^    secreto_cliente = '1cb6ec606ac048289a3bff4be7895f29'$/;"	v
+secreto_cliente	super_dijkstra_digrafo.py	/^    secreto_cliente = '1cb6ec606ac048289a3bff4be7895f29'$/;"	v
+source	super_dijkstra.py	/^        source = i['source']$/;"	v
+source	super_dijkstra_digrafo.py	/^        source = i['source']$/;"	v
+spotify	main.py	/^spotify = SpotApi(id_cliente,secreto_cliente)$/;"	v
+spotify	super_dijkstra.py	/^    spotify = SpotApi(id_cliente,secreto_cliente)$/;"	v
+spotify	super_dijkstra_digrafo.py	/^    spotify = SpotApi(id_cliente,secreto_cliente)$/;"	v
+spotify	v_antiguas/main.py	/^spotify = get_spot()$/;"	v
+spotify	v_antiguas/q_fun.py	/^spotify = SpotApi(esta_si_tranqui,es_un_secreto)$/;"	v
+target	super_dijkstra.py	/^        target = i['target']$/;"	v
+target	super_dijkstra_digrafo.py	/^        target = i['target']$/;"	v
+titulo_tema	super_dijkstra.py	/^                titulo_tema = j['title']$/;"	v
+titulo_tema	super_dijkstra_digrafo.py	/^                titulo_tema = j['title']$/;"	v
+tuplas	super_dijkstra.py	/^    tuplas = []$/;"	v
+tuplas	super_dijkstra_digrafo.py	/^    tuplas = []$/;"	v
+videos	super_dijkstra.py	/^            videos = json.loads(search.result())$/;"	v
+videos	super_dijkstra.py	/^            videos = search.result()$/;"	v
+videos	super_dijkstra_digrafo.py	/^            videos = json.loads(search.result())$/;"	v
+videos	super_dijkstra_digrafo.py	/^            videos = search.result()$/;"	v
